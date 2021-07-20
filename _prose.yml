@@ -169,8 +169,7 @@ prose:
             element: text
             label: "observations"
             translation_key: my-custom-translations.observations
-            scope: national                              
-      - name: "national_data_update_url"            
+            scope: national                                         
       - name: "national_data_update_url"
         field:
             element: hidden
