@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="es" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-simple-starter/en',
+  remoteDataBaseUrl: '/open-sdg-simple-starter/es',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -38,7 +38,7 @@ var opensdg = {
     this.dataDisplayAlterations.push(callback);
   },
 
-  language: 'en',
+  language: 'es',
 };
 
 // For backwards compatibility, some of these might need to be global.
@@ -105,9 +105,9 @@ var translations = {
         
     <title>
         
-        Indicator 10.2.1 -
+        Indicador 10.2.1 -
         
-        Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities - Indicators For The Sustainable Development Goals
+        Población extranjera - Indicators For The Sustainable Development Goals
     </title>
 
 
@@ -134,7 +134,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720065342">
+        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720073628">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -147,21 +147,21 @@ var translations = {
         
 
     </head>
-<body class="language-en
+<body class="language-es
 layout-indicator
 ">
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.","enable_high_contrast":"Enable high contrast","high_contrast":"High contrast","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"Alfa","default_contrast":"Contraste estándar","disable_high_contrast":"Desactivar alto contraste","disclaimer":"Este es un sitio web de desarrollo. Agradecemos sus <a href=\"mailto:%email_address\">comentarios</a>.","enable_high_contrast":"Habilitar alto contraste","high_contrast":"Alto contraste","skip_link":"Saltar al contenido principal","tag_line":"17 Objetivos para transformar nuestro mundo","toggle_menu":"Menú de alternancia. Haga clic para ampliar o reducir el menú.","toggle_search":"Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Saltar al contenido principal</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
-    <strong class="phase-tag">Alpha</strong>
+    <strong class="phase-tag">Alfa</strong>
     
-    This is a development website. We welcome your <a href="mailto:test@example.com">feedback</a>.
+    Este es un sitio web de desarrollo. Agradecemos sus <a href="mailto:test@example.com">comentarios</a>.
   </div>
 </div>
 
@@ -172,15 +172,15 @@ layout-indicator
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-simple-starter/" id="home">
-    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Objetivos de Desarrollo Sostenible - 17 Objetivos para transformar nuestro mundo" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'>
         
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -191,8 +191,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -210,9 +210,9 @@ data-event-label="high"
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search">Search</label>
-    <input type="text" name="q" id="indicator_search" title="Search" /><!--
-    --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">Buscar</label>
+    <input type="text" name="q" id="indicator_search" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -220,8 +220,8 @@ data-event-label="high"
         <ul class="nav navbar-nav contrast-switcher">
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -232,8 +232,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -252,28 +252,28 @@ data-event-label="high"
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label="Menu toggle. Click to expand or collapse the menu."
+        aria-label="Menú de alternancia. Haga clic para ampliar o reducir el menú."
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false">Menu</button>
+        <button data-target="menu-mobile" aria-expanded="false">Menú</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -284,8 +284,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -302,31 +302,31 @@ data-event-label="high"
 
     </li>
     <li id="searchToggle"
-        aria-label="Search toggle. Click to expand or collapse the search bar."
+        aria-label="Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false">Search</button>
+        <button data-target="search-mobile" aria-expanded="false">Buscar</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search-mobile">Search</label>
-    <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
-    --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">Buscar</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 </ul>
@@ -351,15 +351,15 @@ data-event-label="high"
       >
         <% if(allowedFields.indexOf(fieldItem.field) == -1) { %><h6><% } else { %><h5><% } %>
           <span aria-hidden="true"><%=translations.t(fieldItem.label)%><i class="fa fa-chevron-down"></i></span>
-          <span class="sr-only">Show sub-categories: <%=translations.t(fieldItem.label)%></span>
+          <span class="sr-only">Mostrar subcategorías: <%=translations.t(fieldItem.label)%></span>
         <% if(allowedFields.indexOf(fieldItem.field) == -1) { %></h6><% } else { %></h5><% } %>
       </button>
       <div class="variable-options">
         <fieldset>
-          <legend class="sr-only">Sub-categories - <%=translations.t(fieldItem.field)%></legend>
+          <legend class="sr-only">Subcategorías - <%=translations.t(fieldItem.field)%></legend>
           <div>
-            <button data-type="select">Select all</button>
-            <button data-type="clear">Clear all</button>
+            <button data-type="select">Seleccionar todo</button>
+            <button data-type="clear">Limpiar todo</button>
           </div>
           <% _.each(fieldItem.values, function(item) { %>
             <label>
@@ -370,10 +370,10 @@ data-event-label="high"
       </div>
 
       <% if(allowedFields.indexOf(fieldItem.field) == -1) { %>
-        <div class="variable-hint" id="variable-hint-<%=fieldItem.field.replace(/ /g, '-')%>">Available when '<%= translations.t(_.find(edges, { To: fieldItem.field }).From) %>' is selected
+        <div class="variable-hint" id="variable-hint-<%=fieldItem.field.replace(/ /g, '-')%>">Disponible cuando se selecciona «<%= translations.t(_.find(edges, { To: fieldItem.field }).From) %>»
         </div>
         <div class="no-data-hint" id="no-data-hint-<%=fieldItem.field.replace(/ /g, '-')%>">
-          No options available because of filters above
+          No hay opciones disponibles debido a los filtros anteriores
         </div>
       <% }%>
 
@@ -383,9 +383,9 @@ data-event-label="high"
 
 <script type="text/template" id="units_template">
   <% if(units.length) { %>
-    <h4>Unit of Measurement</h4>
+    <h4>Unidad de medida</h4>
     <fieldset>
-      <legend class="sr-only">Unit of Measurement</legend>
+      <legend class="sr-only">Unidad de medida</legend>
       <% _.each(units, function(unitsItem, index) { %>
         <% var checked = (selectedUnit) ? (selectedUnit==unitsItem) : (index==0); %>
         <label><input type="radio" name="unit" value="<%=unitsItem%>" tabindex=0 <%=checked ? 'checked' : ''%> /> <%=translations.t(unitsItem)%></label>
@@ -396,9 +396,9 @@ data-event-label="high"
 
 <script type="text/template" id="series_template">
   <% if(serieses.length) { %>
-    <h4>Series</h4>
+    <h4>Serie</h4>
     <fieldset>
-      <legend class="sr-only">Series</legend>
+      <legend class="sr-only">Serie</legend>
       <% _.each(serieses, function(seriesItem, index) { %>
         <% var checked = (selectedSeries) ? (selectedSeries==seriesItem) : (index==0); %>
         <label><input type="radio" name="series" value="<%=seriesItem%>" tabindex=0 <%=checked ? 'checked' : ''%> /> <%=translations.t(seriesItem)%></label>
@@ -407,7 +407,7 @@ data-event-label="high"
   <% } %>
 </script>
 
-<script>translations['indicator'] = {"annotation_2030_target":"2030 Target","announce_data_added":"Chart and table updated to include data.","announce_data_not_available":"Chart and table shows no data.","announce_data_removed":"Chart and table updated to exclude data.","chart":"Chart","chart_annotation":"Chart annotation","clear_all":"Clear all","clear_selections":"Clear selections","data_keyboard_navigation":"Press enter to browse data points with left and right arrow keys.","data_not_available":"This data is not available. Please choose alternative data to display.","data_tabular_alternative":"For tabular data alternative see Table tab.","dataset_size_warning":"There are too many datasets to show on the chart. Not all will be shown until you remove some selections.","download_chart":"Download Chart CSV","download_chart_image":"Download Chart Image","download_chart_image_title":"Download chart as image","download_csv":"Download CSV","download_csv_title":"Download as CSV","download_geojson":"Download GeoJSON","download_geojson_title":"Download as GeoJSON","download_headline":"Download Headline CSV","download_headline_title":"Download headline data as CSV","download_source":"Download Source CSV","download_source_sdmx":"Download Source SDMX","download_source_sdmx_title":"Download source data as SDMX","download_source_title":"Download source data as CSV","download_table":"Download Table CSV","edit":"Edit","edit_configuration":"Edit Configuration","edit_data":"Edit Data","edit_metadata":"Edit Metadata","footnote":"Footnote","geographical_area":"Geographical Area","global_metadata":"Global Metadata","global_metadata_blurb":"This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href=\"https://unstats.un.org/sdgs/metadata/\">Complete global metadata</a> is provided by the UN Statistics Division.","legend_help":"Click on the legend to remove individual lines from the chart.","loading":"Loading","loading_map":"Loading map","map":"Map","map_search":"Search","map_search_hide":"Hide search","map_search_show":"Show search","map_year_slider":"Year slider","national_metadata":"National Metadata","national_metadata_blurb":"This table provides metadata for the actual indicator available from %country_name statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from %country_adjective statistics, this table should be consulted for information on national methodology and other %country_adjective-specific metadata information.","next":"Next indicator","no_data_hint":"No options available because of filters above","plot_legend_description":"Plot legend: list of lines included in chart","previous":"Previous indicator","select_all":"Select all","series":"Series","series_help":"Choose categories from the dropdowns below to see different breakdowns of the data. Some will not be available until a higher level is chosen.","source":"Source","sources":"Sources","status":"Indicator status","sub_categories":"Sub-categories","sub_categories_show":"Show sub-categories:","table":"Table","table_column_sort":"Click to sort by this column","tags":"Tags","unit":"Unit","unit_of_measurement":"Unit of Measurement","units_type":"Units type","variable_hint":"Available when '%field' is selected","view_indicator_list":"View this goal's indicator list"};</script>
+<script>translations['indicator'] = {"annotation_2030_target":"Meta 2030","announce_data_added":"Gráfico y tabla actualizados para incluir los datos.","announce_data_not_available":"El gráfico y la tabla no muestran datos.","announce_data_removed":"Gráfico y tabla actualizados para excluir los datos.","chart":"Gráfico","chart_annotation":"Anotación en el gráfico","clear_all":"Limpiar todo","clear_selections":"Borrar selecciones","data_keyboard_navigation":"Pulse Enter para navegar por los puntos de datos con las teclas de flecha izquierda y derecha.","data_not_available":"Esta información no está disponible. Elija datos alternativos para mostrar.","data_tabular_alternative":"Para la alternativa de datos tabulares, véase la pestaña Tabla.","dataset_size_warning":"Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.","download_chart":"Descargar CSV de gráfico","download_chart_image":"Descargar imagen del gráfico","download_chart_image_title":"Descargar gráfico como imagen","download_csv":"Descargar CSV","download_csv_title":"Descargar como CSV","download_geojson":"Descargar GeoJSON","download_geojson_title":"Descargar como GeoJSON","download_headline":"Descargar CSV global","download_headline_title":"Descargar datos globales como CSV","download_source":"Descargar CSV fuente","download_source_sdmx":"Descargar SDMX fuente","download_source_sdmx_title":"Descargar los datos fuente como SDMX","download_source_title":"Descargar los datos fuente como CSV","download_table":"Descargar la tabla CSV","edit":"Editar","edit_configuration":"Editar la configuración","edit_data":"Editar datos","edit_metadata":"Editar metadatos","footnote":"Nota","geographical_area":"Área geográfica","global_metadata":"Metadatos globales","global_metadata_blurb":"Esta tabla proporciona información sobre los metadatos para los indicadores de los ODS tal como los define la Comisión de Estadística de la ONU. La <a href=\"https://unstats.un.org/sdgs/metadata/\">División de Estadística de las Naciones Unidas proporciona</a> los metadatos globales completos .","legend_help":"Haga clic en la leyenda para eliminar líneas individuales del gráfico.","loading":"Cargando","loading_map":"Cargando mapa","map":"Mapa","map_search":"Buscar","map_search_hide":"ocultar búsqueda","map_search_show":"Mostrar búsqueda","map_year_slider":"Deslizador del año","national_metadata":"Metadatos nacionales","national_metadata_blurb":"Esta tabla proporciona metadatos para el indicador real disponible a partir de las estadísticas de %country_name más cercanas al correspondiente indicador global de SDG. Tenga en cuenta que incluso cuando el indicador global de ODS esté totalmente disponible a partir de las estadísticas de %country_adjective, se debe consultar esta tabla para obtener información sobre la metodología nacional y otra información de metadatos específicos de %country_adjective.","next":"Siguiente indicador","no_data_hint":"No hay opciones disponibles debido a los filtros anteriores","plot_legend_description":"Leyenda del gráfico: lista de líneas incluidas en el gráfico","previous":"Indicador anterior","select_all":"Seleccionar todo","series":"Serie","series_help":"Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.","source":"Fuente","sources":"Fuentes","status":"Estado del indicador","sub_categories":"Subcategorías","sub_categories_show":"Mostrar subcategorías:","table":"Tabla","table_column_sort":"Haga clic para ordenar por esta columna","tags":"Etiquetas","unit":"Unidad","unit_of_measurement":"Unidad de medida","units_type":"Tipo de unidades","variable_hint":"Disponible cuando se selecciona «%field»","view_indicator_list":"Ver la lista de indicadores de este objetivo"};</script>
 
 <script>translations['data'] = null;</script>
 
@@ -416,10 +416,10 @@ data-event-label="high"
   
 <ol class="breadcrumb">
   
-  <li><a href="/open-sdg-simple-starter/">Home</a></li>
-  <li><a href="/open-sdg-simple-starter/goals">Goals</a></li>
+  <li><a href="/open-sdg-simple-starter/">Inicio</a></li>
+  <li><a href="/open-sdg-simple-starter/goals">Objetivos</a></li>
   
-  <li><a href="/open-sdg-simple-starter/10" title="Reduce inequality within and among countries">Goal 10</a></li>
+  <li><a href="/open-sdg-simple-starter/10" title="Reducir la desigualdad en los países y entre ellos">Objetivo 10</a></li>
   
 </ol>
 
@@ -431,8 +431,8 @@ data-event-label="high"
     <div class="row">
       
       <div class="col-xs-4 col-md-3 col-lg-2 goal-icon goal-tiles">
-        <a href="/open-sdg-simple-starter/10" title="View this goal's indicator list">
-          <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/10.png" alt="Reduced inequalities - Goal 10" id="goal-10" class="goal-icon-image goal-icon-image-"/>
+        <a href="/open-sdg-simple-starter/10" title="Ver la lista de indicadores de este objetivo">
+          <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/es/10.png" alt="Reducción de las Desigualdades - Objetivo 10" id="goal-10" class="goal-icon-image goal-icon-image-"/>
         </a>
       </div>
       <div class="col-xs-8 col-md-9 col-lg-10 indicator-details">
@@ -440,9 +440,9 @@ data-event-label="high"
         <div>
           <h1>
             
-            Indicator 10.2.1
+            Indicador 10.2.1
             
-            <span class="lead-copy">Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</span>
+            <span class="lead-copy">Población extranjera</span>
           </h1>
         </div>
       </div>
@@ -466,12 +466,12 @@ data-event-label="high"
   id="indicatorData"
   data-indicatorid='indicator_10-2-1'
   data-id="10-2-1"
-  data-country="Australia"
-  data-charttitle="Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities"
-  data-charttitles="null"
-  data-measurementunit=""
-  data-showdata="false"
-  data-graphtype="line"
+  data-country="Andalucía, Términos municipales"
+  data-charttitle="Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad"
+  data-charttitles="[{&quot;unit&quot;:&quot;Percent&quot;,&quot;title&quot;:&quot;Porcentaje de población extranjera residente en un municipio&quot;}]"
+  data-measurementunit="Porcentaje"
+  data-showdata="true"
+  data-graphtype="bar"
   data-geocoderegex=""
   data-showmap=""
   data-startvalues="null"
@@ -479,59 +479,443 @@ data-event-label="high"
   data-stackeddisaggregation=""
   data-graphannotations="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Group&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;&quot;,&quot;A&quot;,&quot;B&quot;]},&quot;title&quot;:&quot;Group&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Value&quot;},{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Dimension&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;&quot;,&quot;valor municipio&quot;,&quot;valor total Andalucia&quot;]},&quot;title&quot;:&quot;Dimension&quot;},{&quot;name&quot;:&quot;GeoCode&quot;,&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;GeoCode&quot;},{&quot;name&quot;:&quot;Municipio&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;&quot;,&quot;Abla&quot;,&quot;Abrucena&quot;,&quot;Adamuz&quot;,&quot;Adra&quot;,&quot;Agrón&quot;,&quot;Aguadulce&quot;,&quot;Aguilar de la Frontera&quot;,&quot;Alameda&quot;,&quot;Alamedilla&quot;,&quot;Alanís&quot;,&quot;Albaida del Aljarafe&quot;,&quot;Albanchez&quot;,&quot;Albanchez de Mágina&quot;,&quot;Alboloduy&quot;,&quot;Albolote&quot;,&quot;Albondón&quot;,&quot;Albox&quot;,&quot;Albuñol&quot;,&quot;Albuñuelas&quot;,&quot;Albuñán&quot;,&quot;Alcalá de Guadaíra&quot;,&quot;Alcalá de los Gazules&quot;,&quot;Alcalá del Río&quot;,&quot;Alcalá del Valle&quot;,&quot;Alcalá la Real&quot;,&quot;Alcaracejos&quot;,&quot;Alcaucín&quot;,&quot;Alcaudete&quot;,&quot;Alcolea&quot;,&quot;Alcolea del Río&quot;,&quot;Alcudia de Monteagud&quot;,&quot;Alcóntar&quot;,&quot;Aldeaquemada&quot;,&quot;Aldeire&quot;,&quot;Alfacar&quot;,&quot;Alfarnate&quot;,&quot;Alfarnatejo&quot;,&quot;Algaba (La)&quot;,&quot;Algar&quot;,&quot;Algarinejo&quot;,&quot;Algarrobo&quot;,&quot;Algatocín&quot;,&quot;Algeciras&quot;,&quot;Algodonales&quot;,&quot;Algámitas&quot;,&quot;Alhabia&quot;,&quot;Alhama de Almería&quot;,&quot;Alhama de Granada&quot;,&quot;Alhaurín de la Torre&quot;,&quot;Alhaurín el Grande&quot;,&quot;Alhendín&quot;,&quot;Alicún&quot;,&quot;Alicún de Ortega&quot;,&quot;Aljaraque&quot;,&quot;Almadén de la Plata&quot;,&quot;Almargen&quot;,&quot;Almedinilla&quot;,&quot;Almegíjar&quot;,&quot;Almendro (El)&quot;,&quot;Almensilla&quot;,&quot;Almería&quot;,&quot;Almodóvar del Río&quot;,&quot;Almogía&quot;,&quot;Almonaster la Real&quot;,&quot;Almonte&quot;,&quot;Almuñécar&quot;,&quot;Almáchar&quot;,&quot;Almócita&quot;,&quot;Alosno&quot;,&quot;Alozaina&quot;,&quot;Alpandeire&quot;,&quot;Alpujarra de la Sierra&quot;,&quot;Alquife&quot;,&quot;Alsodux&quot;,&quot;Alájar&quot;,&quot;Andújar&quot;,&quot;Antas&quot;,&quot;Antequera&quot;,&quot;Aracena&quot;,&quot;Arahal&quot;,&quot;Arboleas&quot;,&quot;Archidona&quot;,&quot;Arcos de la Frontera&quot;,&quot;Ardales&quot;,&quot;Arenas&quot;,&quot;Arenas del Rey&quot;,&quot;Arjona&quot;,&quot;Arjonilla&quot;,&quot;Armilla&quot;,&quot;Armuña de Almanzora&quot;,&quot;Aroche&quot;,&quot;Arquillos&quot;,&quot;Arriate&quot;,&quot;Arroyo del Ojanco&quot;,&quot;Arroyomolinos de León&quot;,&quot;Atajate&quot;,&quot;Atarfe&quot;,&quot;Ayamonte&quot;,&quot;Aznalcázar&quot;,&quot;Aznalcóllar&quot;,&quot;Añora&quot;,&quot;Bacares&quot;,&quot;Badolatosa&quot;,&quot;Baena&quot;,&quot;Baeza&quot;,&quot;Bailén&quot;,&quot;Balanegra&quot;,&quot;Barbate&quot;,&quot;Barrios (Los)&quot;,&quot;Bayarque&quot;,&quot;Bayárcal&quot;,&quot;Baza&quot;,&quot;Baños de la Encina&quot;,&quot;Beas&quot;,&quot;Beas de Granada&quot;,&quot;Beas de Guadix&quot;,&quot;Beas de Segura&quot;,&quot;Bedmar y Garcíez&quot;,&quot;Begíjar&quot;,&quot;Beires&quot;,&quot;Belalcázar&quot;,&quot;Belmez&quot;,&quot;Benacazón&quot;,&quot;Benadalid&quot;,&quot;Benahadux&quot;,&quot;Benahavís&quot;,&quot;Benalauría&quot;,&quot;Benalmádena&quot;,&quot;Benalup-Casas Viejas&quot;,&quot;Benalúa&quot;,&quot;Benalúa de las Villas&quot;,&quot;Benamargosa&quot;,&quot;Benamaurel&quot;,&quot;Benamejí&quot;,&quot;Benamocarra&quot;,&quot;Benaocaz&quot;,&quot;Benaoján&quot;,&quot;Benarrabá&quot;,&quot;Benatae&quot;,&quot;Benitagla&quot;,&quot;Benizalón&quot;,&quot;Bentarique&quot;,&quot;Berja&quot;,&quot;Berrocal&quot;,&quot;Blázquez (Los)&quot;,&quot;Bollullos Par del Condado&quot;,&quot;Bollullos de la Mitación&quot;,&quot;Bonares&quot;,&quot;Borge (El)&quot;,&quot;Bormujos&quot;,&quot;Bornos&quot;,&quot;Bosque (El)&quot;,&quot;Brenes&quot;,&quot;Bubión&quot;,&quot;Bujalance&quot;,&quot;Burgo (El)&quot;,&quot;Burguillos&quot;,&quot;Busquístar&quot;,&quot;Bédar&quot;,&quot;Bélmez de la Moraleda&quot;,&quot;Bérchules&quot;,&quot;Cabezas Rubias&quot;,&quot;Cabezas de San Juan (Las)&quot;,&quot;Cabra&quot;,&quot;Cabra del Santo Cristo&quot;,&quot;Cacín&quot;,&quot;Cala&quot;,&quot;Calahorra (La)&quot;,&quot;Calañas&quot;,&quot;Calicasas&quot;,&quot;Camas&quot;,&quot;Cambil&quot;,&quot;Campana (La)&quot;,&quot;Campillo (El)&quot;,&quot;Campillo de Arenas&quot;,&quot;Campillos&quot;,&quot;Campofrío&quot;,&quot;Campotéjar&quot;,&quot;Canena&quot;,&quot;Caniles&quot;,&quot;Canillas de Aceituno&quot;,&quot;Canillas de Albaida&quot;,&quot;Canjáyar&quot;,&quot;Cantillana&quot;,&quot;Cantoria&quot;,&quot;Capileira&quot;,&quot;Carataunas&quot;,&quot;Carboneras&quot;,&quot;Carboneros&quot;,&quot;Carcabuey&quot;,&quot;Cardeña&quot;,&quot;Carlota (La)&quot;,&quot;Carmona&quot;,&quot;Carolina (La)&quot;,&quot;Carpio (El)&quot;,&quot;Carratraca&quot;,&quot;Carrión de los Céspedes&quot;,&quot;Cartajima&quot;,&quot;Cartaya&quot;,&quot;Casabermeja&quot;,&quot;Casarabonela&quot;,&quot;Casares&quot;,&quot;Casariche&quot;,&quot;Castaño del Robledo&quot;,&quot;Castellar&quot;,&quot;Castellar de la Frontera&quot;,&quot;Castilblanco de los Arroyos&quot;,&quot;Castilleja de Guzmán&quot;,&quot;Castilleja de la Cuesta&quot;,&quot;Castilleja del Campo&quot;,&quot;Castillo de Locubín&quot;,&quot;Castillo de las Guardas (El)&quot;,&quot;Castilléjar&quot;,&quot;Castril&quot;,&quot;Castro de Filabres&quot;,&quot;Castro del Río&quot;,&quot;Cazalilla&quot;,&quot;Cazalla de la Sierra&quot;,&quot;Cazorla&quot;,&quot;Cañada Rosal&quot;,&quot;Cañaveral de León&quot;,&quot;Cañete de las Torres&quot;,&quot;Cañete la Real&quot;,&quot;Cenes de la Vega&quot;,&quot;Cerro de Andévalo (El)&quot;,&quot;Chauchina&quot;,&quot;Chercos&quot;,&quot;Chiclana de Segura&quot;,&quot;Chiclana de la Frontera&quot;,&quot;Chilluévar&quot;,&quot;Chimeneas&quot;,&quot;Chipiona&quot;,&quot;Chirivel&quot;,&quot;Chucena&quot;,&quot;Churriana de la Vega&quot;,&quot;Cijuela&quot;,&quot;Cogollos de Guadix&quot;,&quot;Cogollos de la Vega&quot;,&quot;Colmenar&quot;,&quot;Colomera&quot;,&quot;Comares&quot;,&quot;Conil de la Frontera&quot;,&quot;Conquista&quot;,&quot;Constantina&quot;,&quot;Coria del Río&quot;,&quot;Coripe&quot;,&quot;Coronil (El)&quot;,&quot;Corrales (Los)&quot;,&quot;Corteconcepción&quot;,&quot;Cortegana&quot;,&quot;Cortelazor&quot;,&quot;Cortes de Baza&quot;,&quot;Cortes de la Frontera&quot;,&quot;Cortes y Graena&quot;,&quot;Coín&quot;,&quot;Cuervo de Sevilla (El)&quot;,&quot;Cuevas Bajas&quot;,&quot;Cuevas de San Marcos&quot;,&quot;Cuevas del Almanzora&quot;,&quot;Cuevas del Becerro&quot;,&quot;Cuevas del Campo&quot;,&quot;Cumbres Mayores&quot;,&quot;Cumbres de Enmedio&quot;,&quot;Cumbres de San Bartolomé&quot;,&quot;Cádiar&quot;,&quot;Cádiz&quot;,&quot;Cájar&quot;,&quot;Cárcheles&quot;,&quot;Cártama&quot;,&quot;Cástaras&quot;,&quot;Cáñar&quot;,&quot;Cóbdar&quot;,&quot;Cómpeta&quot;,&quot;Córdoba&quot;,&quot;Cúllar&quot;,&quot;Cúllar Vega&quot;,&quot;Cútar&quot;,&quot;Dalías&quot;,&quot;Darro&quot;,&quot;Dehesas Viejas&quot;,&quot;Dehesas de Guadix&quot;,&quot;Deifontes&quot;,&quot;Diezma&quot;,&quot;Domingo Pérez de Granada&quot;,&quot;Dos Hermanas&quot;,&quot;Dos Torres&quot;,&quot;Doña Mencía&quot;,&quot;Dílar&quot;,&quot;Dólar&quot;,&quot;Dúdar&quot;,&quot;Dúrcal&quot;,&quot;Ejido (El)&quot;,&quot;Encinas Reales&quot;,&quot;Encinasola&quot;,&quot;Enix&quot;,&quot;Escacena del Campo&quot;,&quot;Escañuela&quot;,&quot;Escúzar&quot;,&quot;Espartinas&quot;,&quot;Espejo&quot;,&quot;Espeluy&quot;,&quot;Espera&quot;,&quot;Espiel&quot;,&quot;Estepa&quot;,&quot;Estepona&quot;,&quot;Faraján&quot;,&quot;Felix&quot;,&quot;Fernán-Núñez&quot;,&quot;Ferreira&quot;,&quot;Fines&quot;,&quot;Fiñana&quot;,&quot;Fondón&quot;,&quot;Fonelas&quot;,&quot;Fornes&quot;,&quot;Frailes&quot;,&quot;Freila&quot;,&quot;Frigiliana&quot;,&quot;Fuengirola&quot;,&quot;Fuensanta de Martos&quot;,&quot;Fuente Carreteros&quot;,&quot;Fuente Obejuna&quot;,&quot;Fuente Palmera&quot;,&quot;Fuente Vaqueros&quot;,&quot;Fuente de Piedra&quot;,&quot;Fuente la Lancha&quot;,&quot;Fuente-Tójar&quot;,&quot;Fuenteheridos&quot;,&quot;Fuentes de Andalucía&quot;,&quot;Fuerte del Rey&quot;,&quot;Gabias (Las)&quot;,&quot;Galaroza&quot;,&quot;Galera&quot;,&quot;Gallardos (Los)&quot;,&quot;Garrobo (El)&quot;,&quot;Garrucha&quot;,&quot;Gastor (El)&quot;,&quot;Gaucín&quot;,&quot;Gelves&quot;,&quot;Genalguacil&quot;,&quot;Gerena&quot;,&quot;Gibraleón&quot;,&quot;Gilena&quot;,&quot;Gines&quot;,&quot;Gobernador&quot;,&quot;Gor&quot;,&quot;Gorafe&quot;,&quot;Granada&quot;,&quot;Granada de Río-Tinto (La)&quot;,&quot;Granado (El)&quot;,&quot;Granjuela (La)&quot;,&quot;Grazalema&quot;,&quot;Guadahortuna&quot;,&quot;Guadalcanal&quot;,&quot;Guadalcázar&quot;,&quot;Guadix&quot;,&quot;Gualchos&quot;,&quot;Guardia de Jaén (La)&quot;,&quot;Guaro&quot;,&quot;Guarromán&quot;,&quot;Guijarrosa (La)&quot;,&quot;Guijo (El)&quot;,&quot;Guillena&quot;,&quot;Guájares (Los)&quot;,&quot;Gádor&quot;,&quot;Génave&quot;,&quot;Gérgal&quot;,&quot;Gójar&quot;,&quot;Güevéjar&quot;,&quot;Güéjar Sierra&quot;,&quot;Herrera&quot;,&quot;Higuera de Calatrava&quot;,&quot;Higuera de la Sierra&quot;,&quot;Hinojales&quot;,&quot;Hinojares&quot;,&quot;Hinojos&quot;,&quot;Hinojosa del Duque&quot;,&quot;Hornachuelos&quot;,&quot;Hornos&quot;,&quot;Huelma&quot;,&quot;Huelva&quot;,&quot;Huesa&quot;,&quot;Humilladero&quot;,&quot;Huécija&quot;,&quot;Huélago&quot;,&quot;Huéneja&quot;,&quot;Huércal de Almería&quot;,&quot;Huércal-Overa&quot;,&quot;Huéscar&quot;,&quot;Huétor Tájar&quot;,&quot;Huétor Vega&quot;,&quot;Huétor de Santillán&quot;,&quot;Huévar del Aljarafe&quot;,&quot;Ibros&quot;,&quot;Igualeja&quot;,&quot;Instinción&quot;,&quot;Iruela (La)&quot;,&quot;Isla Cristina&quot;,&quot;Isla Mayor&quot;,&quot;Istán&quot;,&quot;Iznalloz&quot;,&quot;Iznate&quot;,&quot;Iznatoraf&quot;,&quot;Iznájar&quot;,&quot;Jabalquinto&quot;,&quot;Jabugo&quot;,&quot;Jamilena&quot;,&quot;Jayena&quot;,&quot;Jaén&quot;,&quot;Jerez de la Frontera&quot;,&quot;Jete&quot;,&quot;Jimena&quot;,&quot;Jimena de la Frontera&quot;,&quot;Jimera de Líbar&quot;,&quot;Jubrique&quot;,&quot;Jun&quot;,&quot;Juviles&quot;,&quot;Játar&quot;,&quot;Jérez del Marquesado&quot;,&quot;Jódar&quot;,&quot;Júzcar&quot;,&quot;Lahiguera&quot;,&quot;Lanjarón&quot;,&quot;Lanteira&quot;,&quot;Lantejuela&quot;,&quot;Laroya&quot;,&quot;Larva&quot;,&quot;Lebrija&quot;,&quot;Lecrín&quot;,&quot;Lentegí&quot;,&quot;Lepe&quot;,&quot;Linares&quot;,&quot;Linares de la Sierra&quot;,&quot;Lobras&quot;,&quot;Loja&quot;,&quot;Lopera&quot;,&quot;Lora de Estepa&quot;,&quot;Lora del Río&quot;,&quot;Lubrín&quot;,&quot;Lucainena de las Torres&quot;,&quot;Lucena&quot;,&quot;Lucena del Puerto&quot;,&quot;Lugros&quot;,&quot;Luisiana (La)&quot;,&quot;Lupión&quot;,&quot;Luque&quot;,&quot;Láchar&quot;,&quot;Láujar de Andarax&quot;,&quot;Líjar&quot;,&quot;Línea de la Concepción (La)&quot;,&quot;Lúcar&quot;,&quot;Lújar&quot;,&quot;Macael&quot;,&quot;Macharaviaya&quot;,&quot;Madroño (El)&quot;,&quot;Mairena del Alcor&quot;,&quot;Mairena del Aljarafe&quot;,&quot;Malahá (La)&quot;,&quot;Mancha Real&quot;,&quot;Manilva&quot;,&quot;Manzanilla&quot;,&quot;Maracena&quot;,&quot;Marbella&quot;,&quot;Marchal&quot;,&quot;Marchena&quot;,&quot;Marinaleda&quot;,&quot;Marines (Los)&quot;,&quot;Marmolejo&quot;,&quot;Martos&quot;,&quot;Martín de la Jara&quot;,&quot;María&quot;,&quot;Medina Sidonia&quot;,&quot;Mengíbar&quot;,&quot;Mijas&quot;,&quot;Minas de Riotinto&quot;,&quot;Moclinejo&quot;,&quot;Moclín&quot;,&quot;Moguer&quot;,&quot;Mojonera (La)&quot;,&quot;Mojácar&quot;,&quot;Molares (Los)&quot;,&quot;Mollina&quot;,&quot;Molvízar&quot;,&quot;Monachil&quot;,&quot;Monda&quot;,&quot;Montalbán de Córdoba&quot;,&quot;Montecorto&quot;,&quot;Montefrío&quot;,&quot;Montejaque&quot;,&quot;Montejícar&quot;,&quot;Montellano&quot;,&quot;Montemayor&quot;,&quot;Montilla&quot;,&quot;Montillana&quot;,&quot;Montizón&quot;,&quot;Montoro&quot;,&quot;Monturque&quot;,&quot;Moraleda de Zafayona&quot;,&quot;Morelábor&quot;,&quot;Moriles&quot;,&quot;Morón de la Frontera&quot;,&quot;Motril&quot;,&quot;Murtas&quot;,&quot;Málaga&quot;,&quot;Nacimiento&quot;,&quot;Nava (La)&quot;,&quot;Navas de San Juan&quot;,&quot;Navas de la Concepción (Las)&quot;,&quot;Nerja&quot;,&quot;Nerva&quot;,&quot;Nevada&quot;,&quot;Niebla&quot;,&quot;Nigüelas&quot;,&quot;Noalejo&quot;,&quot;Nueva Carteya&quot;,&quot;Níjar&quot;,&quot;Nívar&quot;,&quot;Obejo&quot;,&quot;Ogíjares&quot;,&quot;Ohanes&quot;,&quot;Ojén&quot;,&quot;Olivares&quot;,&quot;Olula de Castro&quot;,&quot;Olula del Río&quot;,&quot;Olvera&quot;,&quot;Orce&quot;,&quot;Orcera&quot;,&quot;Oria&quot;,&quot;Osuna&quot;,&quot;Otívar&quot;,&quot;Padul&quot;,&quot;Padules&quot;,&quot;Palacios y Villafranca (Los)&quot;,&quot;Palenciana&quot;,&quot;Palma del Condado (La)&quot;,&quot;Palma del Río&quot;,&quot;Palmar de Troya (El)&quot;,&quot;Palomares del Río&quot;,&quot;Palos de la Frontera&quot;,&quot;Pampaneira&quot;,&quot;Paradas&quot;,&quot;Parauta&quot;,&quot;Partaloa&quot;,&quot;Paterna de Rivera&quot;,&quot;Paterna del Campo&quot;,&quot;Paterna del Río&quot;,&quot;Paymogo&quot;,&quot;Peal de Becerro&quot;,&quot;Pechina&quot;,&quot;Pedrera&quot;,&quot;Pedro Abad&quot;,&quot;Pedro Martínez&quot;,&quot;Pedroche&quot;,&quot;Pedroso (El)&quot;,&quot;Pegalajar&quot;,&quot;Peligros&quot;,&quot;Periana&quot;,&quot;Peza (La)&quot;,&quot;Peñaflor&quot;,&quot;Peñarroya-Pueblonuevo&quot;,&quot;Pilas&quot;,&quot;Pinar (El)&quot;,&quot;Pinos Genil&quot;,&quot;Pinos Puente&quot;,&quot;Pizarra&quot;,&quot;Polopos&quot;,&quot;Polícar&quot;,&quot;Porcuna&quot;,&quot;Posadas&quot;,&quot;Pozo Alcón&quot;,&quot;Pozoblanco&quot;,&quot;Prado del Rey&quot;,&quot;Priego de Córdoba&quot;,&quot;Pruna&quot;,&quot;Puebla de Cazalla (La)&quot;,&quot;Puebla de Don Fadrique&quot;,&quot;Puebla de Guzmán&quot;,&quot;Puebla de los Infantes (La)&quot;,&quot;Puebla del Río (La)&quot;,&quot;Puente Genil&quot;,&quot;Puente de Génave&quot;,&quot;Puerta de Segura (La)&quot;,&quot;Puerto Moral&quot;,&quot;Puerto Real&quot;,&quot;Puerto Serrano&quot;,&quot;Puerto de Santa María (El)&quot;,&quot;Pujerra&quot;,&quot;Pulianas&quot;,&quot;Pulpí&quot;,&quot;Punta Umbría&quot;,&quot;Purchena&quot;,&quot;Purullena&quot;,&quot;Píñar&quot;,&quot;Pórtugos&quot;,&quot;Quesada&quot;,&quot;Quéntar&quot;,&quot;Rambla (La)&quot;,&quot;Real de la Jara (El)&quot;,&quot;Rinconada (La)&quot;,&quot;Rincón de la Victoria&quot;,&quot;Riogordo&quot;,&quot;Rioja&quot;,&quot;Rociana del Condado&quot;,&quot;Roda de Andalucía (La)&quot;,&quot;Ronda&quot;,&quot;Ronquillo (El)&quot;,&quot;Roquetas de Mar&quot;,&quot;Rosal de la Frontera&quot;,&quot;Rota&quot;,&quot;Rubio (El)&quot;,&quot;Rubite&quot;,&quot;Rus&quot;,&quot;Rute&quot;,&quot;Rágol&quot;,&quot;Sabiote&quot;,&quot;Salar&quot;,&quot;Salares&quot;,&quot;Salobreña&quot;,&quot;Salteras&quot;,&quot;San Bartolomé de la Torre&quot;,&quot;San Fernando&quot;,&quot;San José del Valle&quot;,&quot;San Juan de Aznalfarache&quot;,&quot;San Juan del Puerto&quot;,&quot;San Martín del Tesorillo&quot;,&quot;San Nicolás del Puerto&quot;,&quot;San Roque&quot;,&quot;San Sebastián de los Ballesteros&quot;,&quot;San Silvestre de Guzmán&quot;,&quot;Sanlúcar de Barrameda&quot;,&quot;Sanlúcar de Guadiana&quot;,&quot;Sanlúcar la Mayor&quot;,&quot;Santa Ana la Real&quot;,&quot;Santa Bárbara de Casa&quot;,&quot;Santa Cruz de Marchena&quot;,&quot;Santa Cruz del Comercio&quot;,&quot;Santa Elena&quot;,&quot;Santa Eufemia&quot;,&quot;Santa Fe&quot;,&quot;Santa Fe de Mondújar&quot;,&quot;Santa Olalla del Cala&quot;,&quot;Santaella&quot;,&quot;Santiago de Calatrava&quot;,&quot;Santiago-Pontones&quot;,&quot;Santiponce&quot;,&quot;Santisteban del Puerto&quot;,&quot;Santo Tomé&quot;,&quot;Saucejo (El)&quot;,&quot;Sayalonga&quot;,&quot;Sedella&quot;,&quot;Segura de la Sierra&quot;,&quot;Senés&quot;,&quot;Serrato&quot;,&quot;Serón&quot;,&quot;Setenil de las Bodegas&quot;,&quot;Sevilla&quot;,&quot;Sierra de Yeguas&quot;,&quot;Sierro&quot;,&quot;Siles&quot;,&quot;Somontín&quot;,&quot;Soportújar&quot;,&quot;Sorbas&quot;,&quot;Sorihuela del Guadalimar&quot;,&quot;Sorvilán&quot;,&quot;Suflí&quot;,&quot;Tabernas&quot;,&quot;Taberno&quot;,&quot;Taha (La)&quot;,&quot;Tahal&quot;,&quot;Tarifa&quot;,&quot;Teba&quot;,&quot;Terque&quot;,&quot;Tocina&quot;,&quot;Tolox&quot;,&quot;Tomares&quot;,&quot;Torre Alháquime&quot;,&quot;Torre-Cardela&quot;,&quot;Torreblascopedro&quot;,&quot;Torrecampo&quot;,&quot;Torredelcampo&quot;,&quot;Torredonjimeno&quot;,&quot;Torremolinos&quot;,&quot;Torrenueva Costa&quot;,&quot;Torreperogil&quot;,&quot;Torres&quot;,&quot;Torres de Albánchez&quot;,&quot;Torrox&quot;,&quot;Torvizcón&quot;,&quot;Totalán&quot;,&quot;Trebujena&quot;,&quot;Tres Villas (Las)&quot;,&quot;Trevélez&quot;,&quot;Trigueros&quot;,&quot;Turre&quot;,&quot;Turrillas&quot;,&quot;Turón&quot;,&quot;Tíjola&quot;,&quot;Ubrique&quot;,&quot;Ugíjar&quot;,&quot;Uleila del Campo&quot;,&quot;Umbrete&quot;,&quot;Urrácal&quot;,&quot;Utrera&quot;,&quot;Valdelarco&quot;,&quot;Valdepeñas de Jaén&quot;,&quot;Valderrubio&quot;,&quot;Valencina de la Concepción&quot;,&quot;Valenzuela&quot;,&quot;Valle (El)&quot;,&quot;Valle de Abdalajís&quot;,&quot;Valle del Zalabí&quot;,&quot;Valsequillo&quot;,&quot;Valverde del Camino&quot;,&quot;Vegas del Genil&quot;,&quot;Vejer de la Frontera&quot;,&quot;Velefique&quot;,&quot;Ventas de Huelma&quot;,&quot;Vera&quot;,&quot;Viator&quot;,&quot;Victoria (La)&quot;,&quot;Vilches&quot;,&quot;Villa de Otura&quot;,&quot;Villa del Río&quot;,&quot;Villablanca&quot;,&quot;Villacarrillo&quot;,&quot;Villafranca de Córdoba&quot;,&quot;Villaharta&quot;,&quot;Villalba del Alcor&quot;,&quot;Villaluenga del Rosario&quot;,&quot;Villamanrique de la Condesa&quot;,&quot;Villamartín&quot;,&quot;Villamena&quot;,&quot;Villanueva Mesía&quot;,&quot;Villanueva de Algaidas&quot;,&quot;Villanueva de Córdoba&quot;,&quot;Villanueva de San Juan&quot;,&quot;Villanueva de Tapia&quot;,&quot;Villanueva de la Concepción&quot;,&quot;Villanueva de la Reina&quot;,&quot;Villanueva de las Cruces&quot;,&quot;Villanueva de las Torres&quot;,&quot;Villanueva de los Castillejos&quot;,&quot;Villanueva del Ariscal&quot;,&quot;Villanueva del Arzobispo&quot;,&quot;Villanueva del Duque&quot;,&quot;Villanueva del Rey&quot;,&quot;Villanueva del Rosario&quot;,&quot;Villanueva del Río y Minas&quot;,&quot;Villanueva del Trabuco&quot;,&quot;Villaralto&quot;,&quot;Villardompardo&quot;,&quot;Villares (Los)&quot;,&quot;Villarrasa&quot;,&quot;Villarrodrigo&quot;,&quot;Villatorres&quot;,&quot;Villaverde del Río&quot;,&quot;Villaviciosa de Córdoba&quot;,&quot;Viso (El)&quot;,&quot;Viso del Alcor (El)&quot;,&quot;Viñuela&quot;,&quot;Válor&quot;,&quot;Vélez de Benaudalla&quot;,&quot;Vélez-Blanco&quot;,&quot;Vélez-Málaga&quot;,&quot;Vélez-Rubio&quot;,&quot;Vícar&quot;,&quot;Víznar&quot;,&quot;Yunquera&quot;,&quot;Zafarraya&quot;,&quot;Zagra&quot;,&quot;Zahara&quot;,&quot;Zalamea la Real&quot;,&quot;Zarza-Perrunal (La)&quot;,&quot;Zubia (La)&quot;,&quot;Zufre&quot;,&quot;Zuheros&quot;,&quot;Zurgena&quot;,&quot;Zújar&quot;,&quot;Álora&quot;,&quot;Árchez&quot;,&quot;Écija&quot;,&quot;Íllar&quot;,&quot;Íllora&quot;,&quot;Ítrabo&quot;,&quot;Órgiva&quot;,&quot;Úbeda&quot;]},&quot;title&quot;:&quot;Municipio&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;},{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="null"
 >
   
-  <div id="indicator-main" class="indicator-main col-md-12">
+  <span role="status" class="sr-only" id="indicator-data-view-status"></span>
+  <div id="indicator-sidebar" class="indicator-sidebar col-md-3">
+    <div id="serieses"></div>
+<div id="units"></div>
+<div id="toolbar">
+  <span id="series-help">
+    <h4>Subcategorías</h4>
+    <p>Elija categorías de las listas desplegables a continuación para ver diferentes desgloses de los datos. Algunos no estarán disponibles hasta que se elija un nivel superior.</p>
+  </span>
+  <div id="fields">
+    <p class="async-loading" data-img="/open-sdg-simple-starter/assets/img/loading-small.gif"></p>
+  </div>
+</div>
+
+  </div>
+  <div id="indicator-main" class="indicator-main col-md-9">
+    
+
+
+<div id="headlineTable">
+
+  <div id="datatables">
+
+    <a href="/open-sdg-simple-starter/es/headline/10-2-1.csv" class="btn btn-primary btn-download" download="indicator_10-2-1.csv" tabindex="0" role="button">Descargar CSV global</a>
+
+    <a href="/open-sdg-simple-starter/es/data/10-2-1.csv" class="btn btn-primary btn-download" style='float:left;margin-right:1em' download='indicator_10-2-1.csv' tabindex='0' role='button'>Descargar CSV fuente</a>
+
+    <h3>Headline data</h3>
+    <table class="table-responsive table table-hover dataTable no-footer" role="grid">
+      <caption>Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad</caption>
+      <thead>
+        
+      </thead>
+      <tbody>
+        
+      </tbody>
+    </table>
+  </div>
+
+  <div id="datatableFooter">
+    
+    
+    <p>Área geográfica: Andalucía, Términos municipales</p>
+    
+    
+    <p>Unidad de medida: Porcentaje</p>
+    
+    
+  </div>
+
+</div>
+
+
+<section>
+
+  <p class="async-loading" data-img="/open-sdg-simple-starter/assets/img/loading-small.gif"></p>
+
+  <div class="async-loaded spacer medium" style="display:none;">
+
+    <div style="display: none;">
+  <span id="table-alternative">Para la alternativa de datos tabulares, véase la pestaña Tabla.</span>
+</div>
+<ul class="nav nav-tabs non-stacking-tabs data-view" role="tablist">
+  <li role="presentation" class="nav-item active">
+    <a class="nav-link" data-toggle="tab" id="tab-chartview" href="#chartview" aria-controls="chartview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Chart tab"
+ aria-describedby="table-alternative">Gráfico</a>
+  </li>
+  <li role="presentation" class="nav-item">
+    <a class="nav-link" data-toggle="tab" id="tab-tableview" href="#tableview" aria-controls="tableview" role="tab" data-on="click"
+data-event-category="Tab change"
+data-event-action="Change data view"
+data-event-label="Change to Table tab"
+>Tabla</a>
+  </li></ul>
+
+    <div class="tab-content data-view">
+  <div role="tabpanel" class="tab-pane active" id="chartview">
+    
+
+    <div id="dataset-size-warning" style="display:none" role="alert">
+      <i class="fa fa-bolt"><span class="sr-only">Aviso:</span></i>
+      Hay demasiados conjuntos de datos para mostrar en el gráfico. No todo se mostrará hasta que elimine algunas selecciones.
+    </div>
+
+    
+    
+    <div id="selectionsChart">
+      <figure role="group">
+        <div id="chart-canvas">
+          <h4 id="chart-heading" class="chart-title">Porcentaje de población extranjera residente en un municipio</h4>
+          <div id="chart" class="plot-container">
+            
+<canvas
+    role="img"
+    aria-labelledby="chart-heading"
+    aria-describedby="table-alternative chart-annotations"
+    tabindex="0"
+ ></canvas>
+
+<script>
+// Add a chart alteration to support the chart_graph_limits metadata field.
+opensdg.chartConfigAlter(function(config, info) {
+  if (info.graphLimits && Object.keys(info.graphLimits).length > 0) {
+    var overrides = {
+      options: {
+        scales: {
+          yAxes: [{
+            ticks: {
+              min: info.graphLimits.minimum,
+              max: info.graphLimits.maximum,
+            }
+          }]
+        }
+      }
+    }
+    // Add these overrides onto the normal config.
+    $.extend(true, config, overrides);
+  }
+});
+</script>
+
+<span style="display: none;" id="chart-annotations" role="status"></span>
+<script>
+opensdg.annotationPresets = {
+    common: {
+        // This "common" preset is applied to all annotations automatically.
+        borderColor: '#505a5f',
+        type: 'line',
+        label: {
+            backgroundColor: 'black',
+            fontColor: 'white',
+        },
+        // This "highContrast" overrides colors when in high-contrast mode.
+        highContrast: {
+            label: {
+                backgroundColor: 'white',
+                fontColor: 'black'
+            }
+        },
+        // This callback is used to generate a generic description for screenreaders.
+        // This can be overridden to be a more specific string, eg:
+        //
+        //     description: 'Chart annotation showing a 2030 target of 15%'
+        //
+        description: function() {
+            var descriptionParts = [translations.indicator.chart_annotation];
+            if (this.label && this.label.content) {
+                descriptionParts.push(translations.t(this.label.content));
+            }
+            else {
+                // If there is no label, just specify whether it is a box or line.
+                if (this.type == 'line') {
+                    descriptionParts.push(this.mode + ' line');
+                }
+                if (this.type == 'box') {
+                    descriptionParts.push('box');
+                }
+            }
+            if (typeof this.value !== 'undefined') {
+                descriptionParts.push(this.value);
+            }
+            return descriptionParts.join(': ');
+        },
+    },
+    target_line: {
+        mode: 'horizontal',
+        borderDash: [5, 5],
+        label: {
+            position: 'right',
+            content: translations.indicator.annotation_2030_target,
+        },
+    },
+};
+
+// Add a chart alteration to support the chart_annotations metadata field.
+opensdg.chartConfigAlter(function(config, info) {
+    if (info.graphAnnotations && info.graphAnnotations.length > 0) {
+        // Apply some helpers/fixes to the annotations.
+        var annotations = info.graphAnnotations.map(function(annotation) {
+            // Apply the "common" preset.
+            if (opensdg.annotationPresets.common) {
+                annotation = $.extend(true, {}, opensdg.annotationPresets.common, annotation);
+            }
+            // Apply any specified presets.
+            if (annotation.preset) {
+                var preset = annotation.preset;
+                if (opensdg.annotationPresets[preset]) {
+                    annotation = $.extend(true, {}, opensdg.annotationPresets[preset], annotation);
+                }
+            }
+            // Default to horizontal lines.
+            if (!annotation.mode && annotation.type === 'line') {
+                annotation.mode = 'horizontal';
+            }
+            // Provide the obscure scaleID properties on user's behalf.
+            if (!annotation.scaleID && annotation.type === 'line') {
+                if (annotation.mode === 'horizontal') {
+                    annotation.scaleID = 'y-axis-0';
+                }
+                if (annotation.mode === 'vertical') {
+                    annotation.scaleID = 'x-axis-0';
+                }
+            }
+            if (!annotation.xScaleID && annotation.type === 'box') {
+                annotation.xScaleID = 'x-axis-0';
+            }
+            if (!annotation.yScaleID && annotation.type === 'box') {
+                annotation.yScaleID = 'y-axis-0';
+            }
+            // Provide the "enabled" label property on the user's behalf.
+            if (annotation.label && annotation.label.content) {
+                annotation.label.enabled = true;
+            }
+            // Translate any label content.
+            if (annotation.label && annotation.label.content) {
+                annotation.label.content = translations.t(annotation.label.content);
+            }
+            // Save some original values for later used when contrast mode is switched.
+            if (typeof annotation.defaultContrast === 'undefined') {
+                annotation.defaultContrast = {};
+                if (annotation.borderColor) {
+                    annotation.defaultContrast.borderColor = annotation.borderColor;
+                }
+                if (annotation.backgroundColor) {
+                    annotation.defaultContrast.backgroundColor = annotation.backgroundColor;
+                }
+                if (annotation.label) {
+                    annotation.defaultContrast.label = {};
+                    if (annotation.label.fontColor) {
+                        annotation.defaultContrast.label.fontColor = annotation.label.fontColor;
+                    }
+                    if (annotation.label.backgroundColor) {
+                        annotation.defaultContrast.label.backgroundColor = annotation.label.backgroundColor;
+                    }
+                }
+            }
+            return annotation;
+        });
+        if (annotations.length > 0) {
+            var overrides = {
+                options: {
+                    annotation: {
+                        drawTime: 'afterDatasetsDraw',
+                        annotations: annotations
+                    }
+                }
+            };
+            // Add these overrides onto the normal config.
+            $.extend(true, config, overrides);
+
+            // Update the chart annotations element.
+            var descriptions = annotations.map(function(annotation) {
+                var description = '';
+                if (annotation.description) {
+                    if (typeof annotation.description === 'function') {
+                        description = annotation.description.call(annotation);
+                    }
+                    else {
+                        description = translations.t(annotation.description);
+                    }
+                }
+                return description;
+            }).filter(function(description) { return description != ''; });
+
+            var currentDescription = $('#chart-annotations').text();
+            var newDescription = descriptions.join('. ');
+            if (currentDescription != newDescription) {
+                $('#chart-annotations').text(newDescription);
+            }
+        }
+    }
+    else if (config.options && config.options.annotation) {
+        delete config.options.annotation;
+    }
+});
+</script>
+
+<script>
+opensdg.chartConfigAlter(function(config, info) {
+  if (info.stackedDisaggregation) {
+    var overrides = {
+      options: {
+        scales: {
+          xAxes: [{ stacked: true }],
+          yAxes: [{ stacked: true }],
+        }
+      }
+    };
+    // If we have stackedDisaggregation, we need to group datasets into stacks.
+    config.data.datasets.forEach(function(dataset) {
+      var disaggregation = $.extend({}, dataset.disaggregation);
+      // We're going to "stringify" each combination of disaggregations in order
+      // to place them in their own "stacks". To place "stacked" disaggregations
+      // into the same stack, we set them as "samestack" before stringifying.
+      // Note that the string "samestack" is completely arbitrary.
+      if (typeof disaggregation[info.stackedDisaggregation] !== 'undefined') {
+        disaggregation[info.stackedDisaggregation] = 'samestack';
+      }
+      // Use the disaggregation as a unique id for each stack.
+      dataset.stack = JSON.stringify(disaggregation);
+    });
+    // Add these overrides onto the normal config, and return it.
+    $.extend(true, config, overrides);
+  }
+});
+</script>
+
+          </div>
+          <div id="plotLegend"></div>
+          
+
+
+
+<div id="selectionChartFooter" class="table-footer-text">
+  <h5 class="sr-only">Chart details</h5>
+    <dl>
+        
+
+        
+        <dt>Área geográfica:</dt>
+        <dd>Andalucía, Términos municipales</dd>
+        
+
+        
+        <dt>Unidad de medida:</dt>
+        <dd>Porcentaje</dd>
+        
+
+        
+
+        
+    <dl>
+</div>
+
+        </div>
+      </figure>
+      <div id="chartSelectionDownload" class="clearfix">
+        <button id="btnSave" title="Descargar gráfico como imagen" class='btn btn-primary btn-download'>
+          Descargar imagen del gráfico
+        </button>
+      </div>
+    </div>
+
+
+
+  </div>
+  <div role="tabpanel" class="tab-pane" id="tableview">
+    <div style="display: none;">
+      <span id="column-sort-info">Haga clic para ordenar por esta columna</span>
+    </div>
+    <div id="selectionsTable"></div>
+
+
+
+
+<div id="selectionTableFooter" class="table-footer-text">
+  <h5 class="sr-only">Chart details</h5>
+    <dl>
+        
+
+        
+        <dt>Área geográfica:</dt>
+        <dd>Andalucía, Términos municipales</dd>
+        
+
+        
+        <dt>Unidad de medida:</dt>
+        <dd>Porcentaje</dd>
+        
+
+        
+
+        
+    <dl>
+</div>
+
+<div id="tableSelectionDownload" class="clearfix"></div>
+
+  </div>
+</div>
+
+
+  </div>
+
+</section>
+
   
   <ul class="nav nav-tabs spacer medium" role="tablist">
 
+
+  
+  
+  
+  
+  
+  
+  
+  
   <li role="presentation" class="nav-item active">
-  <a class="nav-link" data-toggle="tab" id="tab-national" href="#national" aria-controls="national" role="tab" data-on="click"
+    <a class="nav-link" data-toggle="tab" id="tab-national" href="#national" aria-controls="national" role="tab" data-on="click"
 data-event-category="Tab change"
 data-event-action="Change metadata view"
-data-event-label="Change to National Metadata tab"
->National Metadata</a>
-</li>
-
-<li role="presentation" class="nav-item">
-  <a class="nav-link" data-toggle="tab" id="tab-global" href="#global" aria-controls="global" role="tab" data-on="click"
-data-event-category="Tab change"
-data-event-action="Change metadata view"
-data-event-label="Change to Global Metadata tab"
->Global Metadata</a>
-</li>
-
-<li role="presentation" class="nav-item">
-  <a class="nav-link" data-toggle="tab" id="tab-sources" href="#sources" aria-controls="sources" role="tab" data-on="click"
-data-event-category="Tab change"
-data-event-action="Change metadata view"
-data-event-label="Change to Sources tab"
->Sources</a>
-</li>
+data-event-label="Change to my-custom-translations.national_metadata tab"
+>Metadatos del proyecto</a>
+  </li>
 
 
   
   <li role="presentation" class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#edit" aria-controls="edit" role="tab">Edit</a>
+    <a class="nav-link" data-toggle="tab" href="#edit" aria-controls="edit" role="tab">Editar</a>
   </li>
   
 </ul>
 
 <div class="tab-content">
   
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <div role="tabpanel" class="tab-pane active" id="national">
-  <!-- National Metadata -->
-  <div >
-    <article>
-      <p>
+      <article>
         
-        
-        This table provides metadata for the actual indicator available from Australia statistics closest to the corresponding global SDG indicator. Please note that even when the global SDG indicator is fully available from Australian statistics, this table should be consulted for information on national methodology and other Australian-specific metadata information.
-      </p>
-      <table class="table">
+        <table class="table">
   
   
   
@@ -549,7 +933,7 @@ data-event-label="Change to Sources tab"
       
       
       <tr>
-        <th scope="row">Indicator available </th>
+        <th scope="row">Indicador disponible </th>
         <td>
           
             
@@ -563,7 +947,63 @@ data-event-label="Change to Sources tab"
       
       
       <tr>
-        <th scope="row">Indicator description </th>
+        <th scope="row">Descripción del indicador </th>
+        <td>
+          
+            <p>Porcentaje de población extranjera residente en un municipio</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      <tr>
+        <th scope="row">Cobertura geográfica </th>
+        <td>
+          
+            <p>Andalucía, Términos municipales</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      <tr>
+        <th scope="row">Unidad de medida </th>
+        <td>
+          
+            <p>Porcentaje</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      <tr>
+        <th scope="row">Fuente de información </th>
+        <td>
+          
+            <p>Padrón municipal de habitantes.</p>
+
+          
+        </td>
+        </tr>
+        
+      
+  
+      
+      
+      <tr>
+        <th scope="row">Anexo metodológico </th>
         <td>
           
             
@@ -577,10 +1017,10 @@ data-event-label="Change to Sources tab"
       
       
       <tr>
-        <th scope="row">Geographical coverage </th>
+        <th scope="row">Observaciones </th>
         <td>
           
-            
+            <p>La categoría Unión Europea sólo considera a los países que formaban parte de la misma en el año consultado.</p>
 
           
         </td>
@@ -591,119 +1031,7 @@ data-event-label="Change to Sources tab"
       
       
       <tr>
-        <th scope="row">Unit of measurement </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Definitions </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Calculations </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Other information </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Quality assurance </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Comparability with international data/standards </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Comments and limitations </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Rational and interpretation </th>
-        <td>
-          
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Data last updated </th>
+        <th scope="row">Datos actualizados por última vez </th>
         <td>
           
             
@@ -712,8 +1040,8 @@ data-event-label="Change to Sources tab"
             
 
             
-              <a href="https://github.com/ods-municipios-andalucia/open-sdg-simple-starter/commit/79b373e83efa405f0bde3e006bc65a8770d81cfd" target="_blank">
-                2021-07-20: see changes on GitHub <span class="visuallyhidden">opens in a new window</span>
+              <a href="https://github.com/ods-municipios-andalucia/open-sdg-simple-starter/commit/ec2bd3c75d04ca3a314f01c68525d68c08b1b6a0" target="_blank">
+                2021-07-20: see changes on GitHub <span class="visuallyhidden">Se abre en una nueva ventana</span>
               </a>
             
 
@@ -730,7 +1058,7 @@ data-event-label="Change to Sources tab"
       
       
       <tr>
-        <th scope="row">Metadata last updated </th>
+        <th scope="row">Metadatos actualizados por última vez </th>
         <td>
           
             
@@ -739,8 +1067,8 @@ data-event-label="Change to Sources tab"
             
 
             
-              <a href="https://github.com/ods-municipios-andalucia/open-sdg-simple-starter/commit/79b373e83efa405f0bde3e006bc65a8770d81cfd" target="_blank">
-                2021-07-20: see changes on GitHub <span class="visuallyhidden">opens in a new window</span>
+              <a href="https://github.com/ods-municipios-andalucia/open-sdg-simple-starter/commit/209a606ce58fba97ac3096e1869fd0f028008dfd" target="_blank">
+                2021-07-20: see changes on GitHub <span class="visuallyhidden">Se abre en una nueva ventana</span>
               </a>
             
 
@@ -836,254 +1164,9 @@ data-event-label="Change to Sources tab"
   
 </table>
 
-    </article>
-  </div>
-</div>
-<div role="tabpanel" class="tab-pane" id="global">
-  <!-- Global Metadata -->
-  <div>
-    <article>
-      <p>This table provides information on metadata for SDG indicators as defined by the UN Statistical Commission. <a href="https://unstats.un.org/sdgs/metadata/">Complete global metadata</a> is provided by the UN Statistics Division.</p>
-      <table class="table">
-  
-  
-  
-  
-  
-      
-      
-      <tr>
-        <th scope="row">Indicator name </th>
-        <td>
-          
-            <p>Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Indicator number </th>
-        <td>
-          
-            <p>10.2.1</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Target name </th>
-        <td>
-          
-            <p>By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Target number </th>
-        <td>
-          
-            <p>10.2</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Global indicator description </th>
-        <td>
-          
-            <p>This indicator is a measure of relative income poverty at the national level. It measures how far individuals are from the median standard of living, approximating a measure of social exclusion. Persons living in relative poverty often experience many other forms of social and economic disadvantage through unemployment, poor housing, inadequate health care and barriers in accessing education and economic, social, political and cultural activities, which can result from social stigmatisation.</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">UN designated tier </th>
-        <td>
-          
-            <p>3</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">UN custodian agency </th>
-        <td>
-          
-            <p>United Nations Children’s Fund (UNICEF) World Bank (WB)</p>
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      <tr>
-        <th scope="row">Link to UN metadata </th>
-        <td>
-          
-            
-            
-            
-            
-
-            
-              <a href="https://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-10.pdf " target="_blank">
-                United Nations Sustainable Development Goals Metadata (PDF 4.0 MB) <span class="visuallyhidden">opens in a new window</span>
-              </a>
-            
-
-          
-        </td>
-        </tr>
-        
-      
-  
-      
-      
-      
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</table>
-
-    </article>
-  </div>
-</div>
-<div role="tabpanel" class="tab-pane" id="sources">
-  <!-- Count the non-empty sources (up to 5) -->
-
-
-
-
-
-</div>
-
+      </article>
+    </div>
+    
   
   
   <div role="tabpanel" class="tab-pane" id="edit">
@@ -1095,11 +1178,11 @@ data-event-label="Change to Sources tab"
   
 
 
-  <a class="btn btn-primary" href="http://prose.io/#my-org/my-repo/edit/develop/data/indicator_10-2-1.csv">Edit Data</a>
+  <a class="btn btn-primary" href="http://prose.io/#/ods-municipios-andalucia/open-sdg-simple-starter/edit/develop/data/indicator_10-2-1.csv">Editar datos</a>
   
 
   
-  <a class="btn btn-primary" href="http://prose.io/#my-org/my-repo/edit/develop/meta/10-2-1.md">Edit Metadata</a>
+  <a class="btn btn-primary" href="http://prose.io/#/ods-municipios-andalucia/open-sdg-simple-starter/edit/develop/meta/10-2-1.md">Editar metadatos</a>
   
 
   
@@ -1122,11 +1205,11 @@ data-event-label="Change to Sources tab"
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org">Built using Open SDG</a></li>
+            <li><a href="https://open-sdg.org">Construido usando Open SDG</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank">Contact us</a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">Contáctenos</a>
                 
                 </li>
               <li>
@@ -1140,7 +1223,7 @@ data-event-label="Change to Sources tab"
                 
                 </li>
               <li>
-                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Galletas</a>
                 
                 </li>
               
@@ -1166,17 +1249,17 @@ data-event-label="Change to Sources tab"
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'Ocultar';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'Buscar';</script>
 
-<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720065342'></script>
+<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720073628'></script>
 
 
     
     
-    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720065342"></script><script>
+    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720073628"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

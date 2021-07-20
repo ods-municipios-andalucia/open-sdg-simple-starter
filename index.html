@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="es" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -12,7 +12,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-simple-starter/en',
+  remoteDataBaseUrl: '/open-sdg-simple-starter/es',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -39,7 +39,7 @@ var opensdg = {
     this.dataDisplayAlterations.push(callback);
   },
 
-  language: 'en',
+  language: 'es',
 };
 
 // For backwards compatibility, some of these might need to be global.
@@ -130,7 +130,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720065342">
+        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720073628">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -143,21 +143,21 @@ var translations = {
         
 
     </head>
-<body class="language-en
+<body class="language-es
 layout-frontpage-alt
 ">
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.","enable_high_contrast":"Enable high contrast","high_contrast":"High contrast","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"Alfa","default_contrast":"Contraste estándar","disable_high_contrast":"Desactivar alto contraste","disclaimer":"Este es un sitio web de desarrollo. Agradecemos sus <a href=\"mailto:%email_address\">comentarios</a>.","enable_high_contrast":"Habilitar alto contraste","high_contrast":"Alto contraste","skip_link":"Saltar al contenido principal","tag_line":"17 Objetivos para transformar nuestro mundo","toggle_menu":"Menú de alternancia. Haga clic para ampliar o reducir el menú.","toggle_search":"Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Saltar al contenido principal</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
-    <strong class="phase-tag">Alpha</strong>
+    <strong class="phase-tag">Alfa</strong>
     
-    This is a development website. We welcome your <a href="mailto:test@example.com">feedback</a>.
+    Este es un sitio web de desarrollo. Agradecemos sus <a href="mailto:test@example.com">comentarios</a>.
   </div>
 </div>
 
@@ -168,15 +168,15 @@ layout-frontpage-alt
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-simple-starter/" id="home">
-    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Objetivos de Desarrollo Sostenible - 17 Objetivos para transformar nuestro mundo" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'>
         
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -187,8 +187,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -206,9 +206,9 @@ data-event-label="high"
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search">Search</label>
-    <input type="text" name="q" id="indicator_search" title="Search" /><!--
-    --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">Buscar</label>
+    <input type="text" name="q" id="indicator_search" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -216,8 +216,8 @@ data-event-label="high"
         <ul class="nav navbar-nav contrast-switcher">
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -228,8 +228,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -248,28 +248,28 @@ data-event-label="high"
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label="Menu toggle. Click to expand or collapse the menu."
+        aria-label="Menú de alternancia. Haga clic para ampliar o reducir el menú."
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false">Menu</button>
+        <button data-target="menu-mobile" aria-expanded="false">Menú</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -280,8 +280,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -298,31 +298,31 @@ data-event-label="high"
 
     </li>
     <li id="searchToggle"
-        aria-label="Search toggle. Click to expand or collapse the search bar."
+        aria-label="Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false">Search</button>
+        <button data-target="search-mobile" aria-expanded="false">Buscar</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search-mobile">Search</label>
-    <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
-    --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">Buscar</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 </ul>
@@ -340,8 +340,8 @@ data-event-label="high"
 
     
     <div class="site-intro">
-        <h1>17 goals to transform our world</h1>
-        <div class="lead-copy"><p>The <a href="https://www.un.org/sustainabledevelopment/sustainable-development-goals/">Sustainable Development Goals (SDGs)</a> are a universal call to action to end poverty, protect the planet and improve the lives and prospects of everyone, everywhere. The 17 Goals were adopted by all UN Member States in 2015, as part of the <a href="http://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&amp;Lang=E">2030 Agenda for Sustainable Development</a>.</p>
+        <h1>17 objetivos para transformar nuestro mundo</h1>
+        <div class="lead-copy"><p>Los <a href="https://www.un.org/sustainabledevelopment/es">Objetivos de Desarrollo Sostenible (SDG)</a> son un llamamiento universal a la acción para terminar con la pobreza, proteger el planeta y mejorar las vidas y perspectivas de todos, en todas partes. Los 17 Objetivos fueron adoptados por todos los Estados Miembros de las Naciones Unidas en 2015, como parte de la <a href="https://www.un.org/ga/search/view_doc.asp?symbol=A/RES/70/1&amp;Lang=S">Agenda 2030 para el Desarrollo Sostenible</a>.</p>
 </div>
     </div>
     
@@ -362,104 +362,26 @@ data-event-label="high"
             <div class="row no-gutters">
                 
                 <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/1">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/1.png" id="goal-1" alt="No poverty - Goal 1" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/2">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/2.png" id="goal-2" alt="Zero hunger - Goal 2" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/3">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/3.png" id="goal-3" alt="Good health and well-being - Goal 3" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/4">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/4.png" id="goal-4" alt="Quality education - Goal 4" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/5">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/5.png" id="goal-5" alt="Gender equality - Goal 5" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/6">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/6.png" id="goal-6" alt="Clean water and sanitation - Goal 6" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
                     <a href="/open-sdg-simple-starter/7">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/7.png" id="goal-7" alt="Affordable and clean energy - Goal 7" class="goal-icon-image goal-icon-image-"/>
+                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/es/7.png" id="goal-7" alt="Energía Asequible y No Contaminante - Objetivo 7" class="goal-icon-image goal-icon-image-"/>
                     </a>
                 </div>
                 
                 <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
                     <a href="/open-sdg-simple-starter/8">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/8.png" id="goal-8" alt="Decent jobs and economic growth - Goal 8" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/9">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/9.png" id="goal-9" alt="Industry, innovation and infrastructure - Goal 9" class="goal-icon-image goal-icon-image-"/>
+                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/es/8.png" id="goal-8" alt="Trabajo Decente y Crecimiento Económico - Objetivo 8" class="goal-icon-image goal-icon-image-"/>
                     </a>
                 </div>
                 
                 <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
                     <a href="/open-sdg-simple-starter/10">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/10.png" id="goal-10" alt="Reduced inequalities - Goal 10" class="goal-icon-image goal-icon-image-"/>
+                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/es/10.png" id="goal-10" alt="Reducción de las Desigualdades - Objetivo 10" class="goal-icon-image goal-icon-image-"/>
                     </a>
                 </div>
                 
                 <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
                     <a href="/open-sdg-simple-starter/11">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/11.png" id="goal-11" alt="Sustainable cities &amp; communities - Goal 11" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/12">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/12.png" id="goal-12" alt="Responsible consumption and production - Goal 12" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/13">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/13.png" id="goal-13" alt="Climate action - Goal 13" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/14">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/14.png" id="goal-14" alt="Life below water - Goal 14" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/15">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/15.png" id="goal-15" alt="Life on land - Goal 15" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/16">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/16.png" id="goal-16" alt="Peace and justice - strong institutions - Goal 16" class="goal-icon-image goal-icon-image-"/>
-                    </a>
-                </div>
-                
-                <div class="col-xs-4 col-sm-2 col-md-1 goal-tile">
-                    <a href="/open-sdg-simple-starter/17">
-                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/17.png" id="goal-17" alt="Partnerships for the goals - Goal 17" class="goal-icon-image goal-icon-image-"/>
+                        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/es/11.png" id="goal-11" alt="Cuidades y Comunidades Sostenibles - Objetivo 11" class="goal-icon-image goal-icon-image-"/>
                     </a>
                 </div>
                 
@@ -482,22 +404,22 @@ data-event-label="high"
   
   <h2 class="card-title"
       
-  >Download all data</h2>
+  >Descargar todos los datos</h2>
   
 
   
 
   
     <div class="zip-download-container">
-    <a href="/open-sdg-simple-starter/en/zip/all_indicators.zip"
+    <a href="/open-sdg-simple-starter/es/zip/all_indicators.zip"
        class="btn btn-primary btn-download" aria-describedby="zip-download-info">
-        Download all data
+        Descargar todos los datos
     </a>
     <div id="zip-download-info">
-        ZIP file - 185 Bytes
+        archivo zip - 258.1 kB
         
             <br>
-            Data last updated - Jul 20, 2021
+            Datos actualizados por última vez - Jul 20, 2021
         
     </div>
 </div>
@@ -594,11 +516,11 @@ interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.</p>
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org">Built using Open SDG</a></li>
+            <li><a href="https://open-sdg.org">Construido usando Open SDG</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank">Contact us</a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">Contáctenos</a>
                 
                 </li>
               <li>
@@ -612,7 +534,7 @@ interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.</p>
                 
                 </li>
               <li>
-                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Galletas</a>
                 
                 </li>
               
@@ -638,17 +560,17 @@ interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.</p>
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'Ocultar';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'Buscar';</script>
 
-<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720065342'></script>
+<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720073628'></script>
 
 
     
     
-    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720065342"></script><script>
+    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720073628"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

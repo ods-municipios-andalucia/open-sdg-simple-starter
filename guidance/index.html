@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="es" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-simple-starter/en',
+  remoteDataBaseUrl: '/open-sdg-simple-starter/es',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -38,7 +38,7 @@ var opensdg = {
     this.dataDisplayAlterations.push(callback);
   },
 
-  language: 'en',
+  language: 'es',
 };
 
 // For backwards compatibility, some of these might need to be global.
@@ -129,7 +129,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720065342">
+        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720073628">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -142,21 +142,21 @@ var translations = {
         
 
     </head>
-<body class="language-en
+<body class="language-es
 layout-page
 ">
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.","enable_high_contrast":"Enable high contrast","high_contrast":"High contrast","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"Alfa","default_contrast":"Contraste estándar","disable_high_contrast":"Desactivar alto contraste","disclaimer":"Este es un sitio web de desarrollo. Agradecemos sus <a href=\"mailto:%email_address\">comentarios</a>.","enable_high_contrast":"Habilitar alto contraste","high_contrast":"Alto contraste","skip_link":"Saltar al contenido principal","tag_line":"17 Objetivos para transformar nuestro mundo","toggle_menu":"Menú de alternancia. Haga clic para ampliar o reducir el menú.","toggle_search":"Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Saltar al contenido principal</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
-    <strong class="phase-tag">Alpha</strong>
+    <strong class="phase-tag">Alfa</strong>
     
-    This is a development website. We welcome your <a href="mailto:test@example.com">feedback</a>.
+    Este es un sitio web de desarrollo. Agradecemos sus <a href="mailto:test@example.com">comentarios</a>.
   </div>
 </div>
 
@@ -167,15 +167,15 @@ layout-page
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-simple-starter/" id="home">
-    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Objetivos de Desarrollo Sostenible - 17 Objetivos para transformar nuestro mundo" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'>
         
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -186,8 +186,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -205,9 +205,9 @@ data-event-label="high"
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search">Search</label>
-    <input type="text" name="q" id="indicator_search" title="Search" /><!--
-    --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">Buscar</label>
+    <input type="text" name="q" id="indicator_search" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -215,8 +215,8 @@ data-event-label="high"
         <ul class="nav navbar-nav contrast-switcher">
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -227,8 +227,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -247,28 +247,28 @@ data-event-label="high"
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label="Menu toggle. Click to expand or collapse the menu."
+        aria-label="Menú de alternancia. Haga clic para ampliar o reducir el menú."
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false">Menu</button>
+        <button data-target="menu-mobile" aria-expanded="false">Menú</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link active">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -279,8 +279,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -297,31 +297,31 @@ data-event-label="high"
 
     </li>
     <li id="searchToggle"
-        aria-label="Search toggle. Click to expand or collapse the search bar."
+        aria-label="Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false">Search</button>
+        <button data-target="search-mobile" aria-expanded="false">Buscar</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search-mobile">Search</label>
-    <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
-    --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">Buscar</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link active">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 </ul>
@@ -369,11 +369,11 @@ data-event-label="high"
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org">Built using Open SDG</a></li>
+            <li><a href="https://open-sdg.org">Construido usando Open SDG</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank">Contact us</a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">Contáctenos</a>
                 
                 </li>
               <li>
@@ -387,7 +387,7 @@ data-event-label="high"
                 
                 </li>
               <li>
-                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Galletas</a>
                 
                 </li>
               
@@ -413,17 +413,17 @@ data-event-label="high"
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'Ocultar';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'Buscar';</script>
 
-<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720065342'></script>
+<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720073628'></script>
 
 
     
     
-    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720065342"></script><script>
+    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720073628"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

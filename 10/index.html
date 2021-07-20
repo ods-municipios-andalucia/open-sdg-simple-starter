@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="es" class="no-js">
     <head>
         <meta charset="utf-8">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
@@ -11,7 +11,7 @@
 var opensdg = {
 
   // A base URL for asynchronous calls to SDG data.
-  remoteDataBaseUrl: '/open-sdg-simple-starter/en',
+  remoteDataBaseUrl: '/open-sdg-simple-starter/es',
 
   chartConfigAlterations: [],
   // A hook which can be used to modify the configuration for Chart.js.
@@ -38,7 +38,7 @@ var opensdg = {
     this.dataDisplayAlterations.push(callback);
   },
 
-  language: 'en',
+  language: 'es',
 };
 
 // For backwards compatibility, some of these might need to be global.
@@ -103,7 +103,7 @@ var translations = {
         ================================================== -->
 
         
-    <title>Goal 10 - Reduced inequalities - Indicators For The Sustainable Development Goals</title>
+    <title>Objetivo 10 - Reducción de las Desigualdades - Indicators For The Sustainable Development Goals</title>
 
 
 
@@ -129,7 +129,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720065342">
+        <link rel="stylesheet" href="/open-sdg-simple-starter/assets/css/style.css?v=20210720073628">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet" crossorigin="">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
@@ -142,21 +142,21 @@ var translations = {
         
 
     </head>
-<body class="language-en
+<body class="language-es
 layout-goal-by-target-vertical
 ">
 <!-- <div class="container"> -->
 
 
-<script>translations['header'] = {"alpha":"Alpha","default_contrast":"Default contrast","disable_high_contrast":"Disable high contrast","disclaimer":"This is a development website. We welcome your <a href=\"mailto:%email_address\">feedback</a>.","enable_high_contrast":"Enable high contrast","high_contrast":"High contrast","skip_link":"Skip to main content","tag_line":"17 Goals to Transform our World","toggle_menu":"Menu toggle. Click to expand or collapse the menu.","toggle_search":"Search toggle. Click to expand or collapse the search bar."};</script>
+<script>translations['header'] = {"alpha":"Alfa","default_contrast":"Contraste estándar","disable_high_contrast":"Desactivar alto contraste","disclaimer":"Este es un sitio web de desarrollo. Agradecemos sus <a href=\"mailto:%email_address\">comentarios</a>.","enable_high_contrast":"Habilitar alto contraste","high_contrast":"Alto contraste","skip_link":"Saltar al contenido principal","tag_line":"17 Objetivos para transformar nuestro mundo","toggle_menu":"Menú de alternancia. Haga clic para ampliar o reducir el menú.","toggle_search":"Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."};</script>
 
-<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Skip to main content</a>
+<a class="sr-only sr-only-focusable" id="skiplink" href="#main-content" tabindex="0">Saltar al contenido principal</a>
 <div id="disclaimer">
   <div class="container">
   <div class="disclaimer-alert">
-    <strong class="phase-tag">Alpha</strong>
+    <strong class="phase-tag">Alfa</strong>
     
-    This is a development website. We welcome your <a href="mailto:test@example.com">feedback</a>.
+    Este es un sitio web de desarrollo. Agradecemos sus <a href="mailto:test@example.com">comentarios</a>.
   </div>
 </div>
 
@@ -167,15 +167,15 @@ layout-goal-by-target-vertical
 
     <div class="logo-and-mobile-widgets">
       <a class="navbar-brand" href="/open-sdg-simple-starter/" id="home">
-    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Sustainable Development Goals - 17 Goals to Transform our World" />
+    <img src="/open-sdg-simple-starter/assets/img/SDG_logo.png" alt="Objetivos de Desarrollo Sostenible - 17 Objetivos para transformar nuestro mundo" />
 </a>
       <div class="mobile-widgets">
     <ul id='accessibility-nav' class='contrast-switcher'>
         
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -186,8 +186,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -205,9 +205,9 @@ data-event-label="high"
     <div class="search-and-desktop-widgets">
       <div id="search" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search">Search</label>
-    <input type="text" name="q" id="indicator_search" title="Search" /><!--
-    --><button aria-label="Search" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search">Buscar</label>
+    <input type="text" name="q" id="indicator_search" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
@@ -215,8 +215,8 @@ data-event-label="high"
         <ul class="nav navbar-nav contrast-switcher">
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -227,8 +227,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -247,28 +247,28 @@ data-event-label="high"
     <div class="navbar navbar-default menu-without-widgets" id="main-nav">
       <ul class="top-level">
     <li id="menuToggle"
-        aria-label="Menu toggle. Click to expand or collapse the menu."
+        aria-label="Menú de alternancia. Haga clic para ampliar o reducir el menú."
         aria-haspopup="true">
-        <button data-target="menu-mobile" aria-expanded="false">Menu</button>
+        <button data-target="menu-mobile" aria-expanded="false">Menú</button>
         <ul class="nav navbar-nav menu-target contrast-switcher" id="menu-mobile"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 
 
     <li class="nav-link contrast contrast-default contrast-type-default">
-        <a title="Disable high contrast"
-           aria-label="Disable high contrast"
+        <a title="Desactivar alto contraste"
+           aria-label="Desactivar alto contraste"
            data-contrast-switch-to="default"
            href="javascript:void(0)"
            data-on="click"
@@ -279,8 +279,8 @@ data-event-label="default"
         >A</a>
     </li>
     <li class="nav-link contrast contrast-high contrast-type-default">
-        <a title="Enable high contrast"
-           aria-label="Enable high contrast"
+        <a title="Habilitar alto contraste"
+           aria-label="Habilitar alto contraste"
            data-contrast-switch-to="high"
            href="javascript:void(0)"
            data-on="click"
@@ -297,31 +297,31 @@ data-event-label="high"
 
     </li>
     <li id="searchToggle"
-        aria-label="Search toggle. Click to expand or collapse the search bar."
+        aria-label="Barra de búsqueda. Haga clic para ampliar o reducir la barra de búsqueda."
         aria-haspopup="true">
-        <button data-target="search-mobile" aria-expanded="false">Search</button>
+        <button data-target="search-mobile" aria-expanded="false">Buscar</button>
         <div id="search-mobile" class="menu-target">
   <form action="/open-sdg-simple-starter/search/">
-    <label class="sr-only" for="indicator_search-mobile">Search</label>
-    <input type="text" name="q" id="indicator_search-mobile" title="Search" /><!--
-    --><button aria-label="Search" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
+    <label class="sr-only" for="indicator_search-mobile">Buscar</label>
+    <input type="text" name="q" id="indicator_search-mobile" title="Buscar" /><!--
+    --><button aria-label="Buscar" id="search-mobile-btn" type="submit"><i class="fa fa-search" aria-hidden="false"></i></button>
   </form>
 </div>
 
     </li>
 </ul>
       <ul class="nav navbar-nav menu-target " id="menu"><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/goals">Goals</a>
+    <a href="/open-sdg-simple-starter/goals">Objetivos</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/reporting-status">Reporting Status</a>
+    <a href="/open-sdg-simple-starter/reporting-status">Estado de informes</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/about">About</a>
+    <a href="/open-sdg-simple-starter/about">Acerca de</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/guidance">Guidance</a>
+    <a href="/open-sdg-simple-starter/guidance">Dirección</a>
 </li><li class="nav-link ">
     <a href="/open-sdg-simple-starter/faq">FAQ</a>
 </li><li class="nav-link ">
-    <a href="/open-sdg-simple-starter/news">Updates</a>
+    <a href="/open-sdg-simple-starter/news">Actualizaciones</a>
 </li>
 
 </ul>
@@ -339,8 +339,8 @@ data-event-label="high"
 <div class="container">
   <ol class="breadcrumb">
   
-  <li><a href="/open-sdg-simple-starter/">Home</a></li>
-  <li><a href="/open-sdg-simple-starter/goals">Goals</a></li>
+  <li><a href="/open-sdg-simple-starter/">Inicio</a></li>
+  <li><a href="/open-sdg-simple-starter/goals">Objetivos</a></li>
   
   
 </ol>
@@ -352,11 +352,11 @@ data-event-label="high"
   <div class="container">
     <div class="row">
       <div class="col-xs-4 col-md-3 col-lg-2 goal-tiles">
-        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/en/10.png" alt="Reduced inequalities - Goal 10" id="goal-10" class="goal-icon-image goal-icon-image-" />
+        <img src="https://open-sdg.github.io/sdg-translations/assets/img/goals/es/10.png" alt="Reducción de las Desigualdades - Objetivo 10" id="goal-10" class="goal-icon-image goal-icon-image-" />
       </div>
       <div class="col-xs-8 col-md-9 col-lg-10">
         <h1>
-          <span class="hidden-sm hidden-md hidden-lg">Goal 10: </span>Reduce inequality within and among countries
+          <span class="hidden-sm hidden-md hidden-lg">Objetivo 10: </span>Reducir la desigualdad en los países y entre ellos
         </h1>
       </div>
     </div>
@@ -371,16 +371,16 @@ data-event-label="high"
 
 
   <div class="container">
-    <h2>Targets and indicators</h2>
+    <h2>Metas e indicadores</h2>
 
     
     
       
       <div class="row no-gutters goal-target-and-indicators">
         <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.1</span>
+          <span class="target-number"><span class="sr-only">Meta</span> 10.2</span>
         </h3>
-        <span class="target-name">By 2030, progressively achieve and sustain income growth of the bottom 40 per cent of the population at a rate higher than the national average</span>
+        <span class="target-name">De aquí a 2030, potenciar y promover la inclusión social, económica y política de todas las personas, independientemente de su edad, sexo, discapacidad, raza, etnia, origen, religión o situación económica u otra condición</span>
         
 
           
@@ -389,201 +389,15 @@ data-event-label="high"
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.1.1</span>
+              <span class="indicator-number"><span class="sr-only">Indicador</span> 10.2.1</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-1-1">Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-2-1">Población extranjera</a></span>
+            <span class="sr-only">Estado del indicador</span>
             
 
 
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.2</span>
-        </h3>
-        <span class="target-name">By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.2.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-2-1">Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.3</span>
-        </h3>
-        <span class="target-name">Ensure equal opportunity and reduce inequalities of outcome, including by eliminating discriminatory laws, policies and practices and promoting appropriate legislation, policies and action in this regard</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.3.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-3-1">Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.4</span>
-        </h3>
-        <span class="target-name">Adopt policies, especially fiscal, wage and social protection policies, and progressively achieve greater equality</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.4.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-4-1">Labour share of GDP</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.5</span>
-        </h3>
-        <span class="target-name">Improve the regulation and monitoring of global financial markets and institutions and strengthen the implementation of such regulations</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.5.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-5-1">Financial Soundness Indicators</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.6</span>
-        </h3>
-        <span class="target-name">Ensure enhanced representation and voice for developing countries in decision-making in global international economic and financial institutions in order to deliver more effective, credible, accountable and legitimate institutions</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.6.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-6-1">Proportion of members and voting rights of developing countries in international organizations</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.7</span>
-        </h3>
-        <span class="target-name">Facilitate orderly, safe, regular and responsible migration and mobility of people, including through the implementation of planned and well-managed migration policies</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.7.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-7-1">Recruitment cost borne by employee as a proportion of monthly income earned in country of destination</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
+<span class="status complete">
+    Reportado
 </span>
 
             
@@ -597,108 +411,15 @@ data-event-label="high"
 
           <div class="goal-indicator">
             <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.7.2</span>
+              <span class="indicator-number"><span class="sr-only">Indicador</span> 10.2.2</span>
             </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-7-2">Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people</a></span>
-            <span class="sr-only">Indicator status</span>
+            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-2-2">Concentración residencial de la población extranjera</a></span>
+            <span class="sr-only">Estado del indicador</span>
             
 
 
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.a</span>
-        </h3>
-        <span class="target-name">Implement the principle of special and differential treatment for developing countries, in particular least developed countries, in accordance with World Trade Organization agreements</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.a.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-a-1">Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.b</span>
-        </h3>
-        <span class="target-name">Encourage official development assistance and financial flows, including foreign direct investment, to States where the need is greatest, in particular least developed countries, African countries, small island developing States and landlocked developing countries, in accordance with their national plans and programmes</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.b.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-b-1">Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
-</span>
-
-            
-
-          </div>
-        
-      </div>
-    
-      
-      <div class="row no-gutters goal-target-and-indicators">
-        <h3 class="goal-target">
-          <span class="target-number"><span class="sr-only">Target</span> 10.c</span>
-        </h3>
-        <span class="target-name">By 2030, reduce to less than 3 per cent the transaction costs of migrant remittances and eliminate remittance corridors with costs higher than 5 per cent</span>
-        
-
-          
-          
-          
-
-          <div class="goal-indicator">
-            <h4>
-              <span class="indicator-number"><span class="sr-only">Indicator</span> 10.c.1</span>
-            </h4>
-            <span class="indicator-name"><a href="/open-sdg-simple-starter/10-c-1">Remittance costs as a proportion of the amount remitted</a></span>
-            <span class="sr-only">Indicator status</span>
-            
-
-
-<span class="status notstarted">
-    Exploring data sources
+<span class="status complete">
+    Reportado
 </span>
 
             
@@ -716,11 +437,11 @@ data-event-label="high"
       <div class="col-xs-12">
         <div id="footerLinks">
           <ul>
-            <li><a href="https://open-sdg.org">Built using Open SDG</a></li>
+            <li><a href="https://open-sdg.org">Construido usando Open SDG</a></li>
             
               <li>
                 
-                  <a href="mailto:my-email-address@example.com" target="_blank">Contact us</a>
+                  <a href="mailto:my-email-address@example.com" target="_blank">Contáctenos</a>
                 
                 </li>
               <li>
@@ -734,7 +455,7 @@ data-event-label="high"
                 
                 </li>
               <li>
-                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Cookies</a>
+                <a href="/open-sdg-simple-starter/about/cookies-and-privacy/">Galletas</a>
                 
                 </li>
               
@@ -760,17 +481,17 @@ data-event-label="high"
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.2/dist/FileSaver.min.js"></script>
 <script>translations['general'] = translations['general'] || {};
-    translations['general']['hide'] = 'hide';</script>
+    translations['general']['hide'] = 'Ocultar';</script>
 
 <script>translations['search'] = translations['search'] || {};
-    translations['search']['search'] = 'Search';</script>
+    translations['search']['search'] = 'Buscar';</script>
 
-<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720065342'></script>
+<script src='/open-sdg-simple-starter/assets/js/sdg.js?v=20210720073628'></script>
 
 
     
     
-    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720065342"></script><script>
+    <script src="/open-sdg-simple-starter/assets/js/custom.js?v=20210720073628"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();

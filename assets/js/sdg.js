@@ -2813,8 +2813,8 @@ var mapView = function () {
     $('.map').show();
     $('#map').sdgMap({
       indicatorId: indicatorId,
-      mapOptions: null,
-      mapLayers: null,
+      mapOptions: {"minZoom":5,"tileURL":"https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png","tileOptions":{"attribution":"My map attribution"}},
+      mapLayers: [{"min_zoom":5,"max_zoom":16,"subfolder":"regions","label":"My map layer label (can be a translation key)"}],
       precision: precision,
       decimalSeparator: decimalSeparator,
     });

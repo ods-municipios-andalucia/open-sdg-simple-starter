@@ -1,0 +1,790 @@
+Year,Grado urbanización,Municipio,GeoCode,Value
+2019,Ciudades,,,6.84
+2019,Zona de densidad intermedia,,,9.09
+2019,Zona rural,,,7.84
+2019,,,,7.92
+2019,Zona rural,Abla,4001.0,7.44
+2019,Zona rural,Abrucena,4002.0,6.46
+2019,Zona de densidad intermedia,Adra,4003.0,10.46
+2019,Zona rural,Albanchez,4004.0,3.09
+2019,Zona rural,Alboloduy,4005.0,3.04
+2019,Zona de densidad intermedia,Albox,4006.0,11.68
+2019,Zona rural,Alcolea,4007.0,8.69
+2019,Zona rural,Alcóntar,4008.0,2.18
+2019,Zona rural,Alcudia de Monteagud,4009.0,2.19
+2019,Zona rural,Alhabia,4010.0,13.33
+2019,Zona rural,Alhama de Almería,4011.0,10.45
+2019,Zona rural,Alicún,4012.0,1.32
+2019,Ciudades,Almería,4013.0,9.3
+2019,Zona rural,Almócita,4014.0,0.79
+2019,Zona rural,Alsodux,4015.0,6.08
+2019,Zona rural,Antas,4016.0,5.32
+2019,Zona rural,Arboleas,4017.0,11.65
+2019,Zona rural,Armuña de Almanzora,4018.0,15.23
+2019,Zona rural,Bacares,4019.0,5.13
+2019,Zona rural,Bayárcal,4020.0,3.83
+2019,Zona rural,Bayarque,4021.0,7.62
+2019,Zona rural,Bédar,4022.0,8.84
+2019,Zona rural,Beires,4023.0,3.29
+2019,Zona de densidad intermedia,Benahadux,4024.0,9.29
+2019,Zona rural,Benitagla,4026.0,0.89
+2019,Zona rural,Benizalón,4027.0,1.45
+2019,Zona rural,Bentarique,4028.0,6.87
+2019,Zona de densidad intermedia,Berja,4029.0,8.26
+2019,Zona rural,Canjáyar,4030.0,5.86
+2019,Zona rural,Cantoria,4031.0,6.74
+2019,Zona de densidad intermedia,Carboneras,4032.0,13.85
+2019,Zona rural,Castro de Filabres,4033.0,2.14
+2019,Zona rural,Cóbdar,4034.0,2.69
+2019,Zona de densidad intermedia,Cuevas del Almanzora,4035.0,10.19
+2019,Zona rural,Chercos,4036.0,4.66
+2019,Zona rural,Chirivel,4037.0,9.51
+2019,Zona rural,Dalías,4038.0,13.81
+2019,Zona rural,Enix,4041.0,29.43
+2019,Zona rural,Felix,4043.0,5.4
+2019,Zona rural,Fines,4044.0,15.62
+2019,Zona rural,Fiñana,4045.0,5.85
+2019,Zona rural,Fondón,4046.0,14.13
+2019,Zona rural,Gádor,4047.0,9.13
+2019,Zona rural,"Gallardos, Los",4048.0,4.45
+2019,Zona de densidad intermedia,Garrucha,4049.0,11.31
+2019,Zona rural,Gérgal,4050.0,9.24
+2019,Zona rural,Huécija,4051.0,7.48
+2019,Ciudades,Huércal de Almería,4052.0,6.96
+2019,Zona de densidad intermedia,Huércal-Overa,4053.0,11.74
+2019,Zona rural,Íllar,4054.0,7.52
+2019,Zona rural,Instinción,4055.0,9.55
+2019,Zona rural,Laroya,4056.0,4.35
+2019,Zona rural,Láujar de Andarax,4057.0,5.8
+2019,Zona rural,Líjar,4058.0,12.74
+2019,Zona rural,Lubrín,4059.0,4.22
+2019,Zona rural,Lucainena de las Torres,4060.0,5.53
+2019,Zona rural,Lúcar,4061.0,5.92
+2019,Zona de densidad intermedia,Macael,4062.0,6.84
+2019,Zona rural,María,4063.0,3.37
+2019,Zona rural,Mojácar,4064.0,7.36
+2019,Zona rural,Nacimiento,4065.0,5.57
+2019,Zona de densidad intermedia,Níjar,4066.0,7.32
+2019,Zona rural,Ohanes,4067.0,7.11
+2019,Zona rural,Olula de Castro,4068.0,2.56
+2019,Zona de densidad intermedia,Olula del Río,4069.0,12.08
+2019,Zona rural,Oria,4070.0,7.78
+2019,Zona rural,Padules,4071.0,7.82
+2019,Zona rural,Partaloa,4072.0,4.05
+2019,Zona rural,Paterna del Río,4073.0,12.38
+2019,Zona de densidad intermedia,Pechina,4074.0,12.89
+2019,Zona de densidad intermedia,Pulpí,4075.0,30.51
+2019,Zona rural,Purchena,4076.0,11.08
+2019,Zona rural,Rágol,4077.0,6.49
+2019,Zona rural,Rioja,4078.0,4.6
+2019,Zona de densidad intermedia,Roquetas de Mar,4079.0,14.02
+2019,Zona rural,Santa Cruz de Marchena,4080.0,1.76
+2019,Zona rural,Santa Fe de Mondújar,4081.0,4.49
+2019,Zona rural,Senés,4082.0,2.34
+2019,Zona rural,Serón,4083.0,5.99
+2019,Zona rural,Sierro,4084.0,8.9
+2019,Zona rural,Somontín,4085.0,3.53
+2019,Zona rural,Sorbas,4086.0,8.72
+2019,Zona rural,Suflí,4087.0,14.5
+2019,Zona rural,Tabernas,4088.0,13.18
+2019,Zona rural,Taberno,4089.0,6.32
+2019,Zona rural,Tahal,4090.0,1.27
+2019,Zona rural,Terque,4091.0,29.38
+2019,Zona rural,Tíjola,4092.0,10.73
+2019,Zona rural,Turre,4093.0,9.69
+2019,Zona rural,Turrillas,4094.0,2.27
+2019,Zona rural,Uleila del Campo,4095.0,7.24
+2019,Zona rural,Urrácal,4096.0,5.92
+2019,Zona rural,Velefique,4097.0,1.87
+2019,Zona rural,Vélez-Blanco,4098.0,6.47
+2019,Zona de densidad intermedia,Vélez-Rubio,4099.0,8.0
+2019,Zona de densidad intermedia,Vera,4100.0,9.45
+2019,Ciudades,Viator,4101.0,12.93
+2019,Ciudades,Vícar,4102.0,16.85
+2019,Zona rural,Zurgena,4103.0,3.67
+2019,Zona rural,"Tres Villas, Las",4901.0,8.9
+2019,Zona de densidad intermedia,"Ejido, El",4902.0,12.16
+2019,Zona de densidad intermedia,"Mojonera, La",4903.0,4.55
+2019,Zona rural,Balanegra,4904.0,5.64
+2019,Zona rural,Alcalá de los Gazules,11001.0,8.79
+2019,Zona rural,Alcalá del Valle,11002.0,8.33
+2019,Zona rural,Algar,11003.0,10.06
+2019,Ciudades,Algeciras,11004.0,6.61
+2019,Zona rural,Algodonales,11005.0,7.43
+2019,Zona de densidad intermedia,Arcos de la Frontera,11006.0,8.0
+2019,Zona de densidad intermedia,Barbate,11007.0,5.0
+2019,Zona de densidad intermedia,"Barrios, Los",11008.0,9.05
+2019,Zona rural,Benaocaz,11009.0,10.66
+2019,Zona de densidad intermedia,Bornos,11010.0,7.13
+2019,Zona rural,"Bosque, El",11011.0,6.82
+2019,Ciudades,Cádiz,11012.0,5.1
+2019,Zona rural,Castellar de la Frontera,11013.0,4.91
+2019,Zona de densidad intermedia,Conil de la Frontera,11014.0,12.07
+2019,Ciudades,Chiclana de la Frontera,11015.0,6.93
+2019,Zona de densidad intermedia,Chipiona,11016.0,4.88
+2019,Zona rural,Espera,11017.0,8.42
+2019,Zona rural,"Gastor, El",11018.0,8.16
+2019,Zona rural,Grazalema,11019.0,2.92
+2019,Ciudades,Jerez de la Frontera,11020.0,6.8
+2019,Zona rural,Jimena de la Frontera,11021.0,5.86
+2019,Ciudades,"Línea de la Concepción, La",11022.0,8.23
+2019,Zona de densidad intermedia,Medina Sidonia,11023.0,11.27
+2019,Zona de densidad intermedia,Olvera,11024.0,9.61
+2019,Zona de densidad intermedia,Paterna de Rivera,11025.0,9.3
+2019,Zona de densidad intermedia,Prado del Rey,11026.0,6.22
+2019,Ciudades,"Puerto de Santa María, El",11027.0,5.67
+2019,Zona de densidad intermedia,Puerto Real,11028.0,7.12
+2019,Zona de densidad intermedia,Puerto Serrano,11029.0,5.64
+2019,Zona de densidad intermedia,Rota,11030.0,7.05
+2019,Ciudades,San Fernando,11031.0,5.01
+2019,Ciudades,Sanlúcar de Barrameda,11032.0,8.12
+2019,Zona de densidad intermedia,San Roque,11033.0,9.35
+2019,Zona rural,Setenil de las Bodegas,11034.0,7.63
+2019,Zona de densidad intermedia,Tarifa,11035.0,11.83
+2019,Zona rural,Torre Alháquime,11036.0,15.12
+2019,Zona de densidad intermedia,Trebujena,11037.0,15.06
+2019,Zona de densidad intermedia,Ubrique,11038.0,4.76
+2019,Zona de densidad intermedia,Vejer de la Frontera,11039.0,7.66
+2019,Zona rural,Villaluenga del Rosario,11040.0,4.05
+2019,Zona de densidad intermedia,Villamartín,11041.0,10.37
+2019,Zona rural,Zahara,11042.0,3.74
+2019,Zona de densidad intermedia,Benalup-Casas Viejas,11901.0,9.3
+2019,Zona rural,San José del Valle,11902.0,8.69
+2019,Zona rural,San Martín del Tesorillo,11903.0,6.87
+2019,Zona rural,Adamuz,14001.0,7.49
+2019,Zona de densidad intermedia,Aguilar de la Frontera,14002.0,8.72
+2019,Zona rural,Alcaracejos,14003.0,8.43
+2019,Zona rural,Almedinilla,14004.0,6.54
+2019,Zona de densidad intermedia,Almodóvar del Río,14005.0,9.3
+2019,Zona rural,Añora,14006.0,10.97
+2019,Zona de densidad intermedia,Baena,14007.0,8.04
+2019,Zona rural,Belalcázar,14008.0,2.74
+2019,Zona rural,Belmez,14009.0,3.06
+2019,Zona rural,Benamejí,14010.0,11.84
+2019,Zona rural,"Blázquez, Los",14011.0,6.36
+2019,Zona de densidad intermedia,Bujalance,14012.0,5.44
+2019,Zona de densidad intermedia,Cabra,14013.0,6.46
+2019,Zona rural,Cañete de las Torres,14014.0,5.48
+2019,Zona rural,Carcabuey,14015.0,9.04
+2019,Zona rural,Cardeña,14016.0,3.76
+2019,Zona de densidad intermedia,"Carlota, La",14017.0,10.73
+2019,Zona rural,"Carpio, El",14018.0,8.86
+2019,Zona de densidad intermedia,Castro del Río,14019.0,6.93
+2019,Zona rural,Conquista,14020.0,3.47
+2019,Ciudades,Córdoba,14021.0,6.29
+2019,Zona rural,Doña Mencía,14022.0,7.4
+2019,Zona rural,Dos Torres,14023.0,5.76
+2019,Zona rural,Encinas Reales,14024.0,8.04
+2019,Zona rural,Espejo,14025.0,8.91
+2019,Zona rural,Espiel,14026.0,6.38
+2019,Zona de densidad intermedia,Fernán-Núñez,14027.0,13.32
+2019,Zona rural,Fuente la Lancha,14028.0,2.79
+2019,Zona rural,Fuente Obejuna,14029.0,4.96
+2019,Zona de densidad intermedia,Fuente Palmera,14030.0,12.41
+2019,Zona rural,Fuente-Tójar,14031.0,4.32
+2019,Zona rural,"Granjuela, La",14032.0,5.99
+2019,Zona rural,Guadalcázar,14033.0,19.43
+2019,Zona rural,"Guijo, El",14034.0,6.12
+2019,Zona de densidad intermedia,Hinojosa del Duque,14035.0,4.64
+2019,Zona rural,Hornachuelos,14036.0,7.28
+2019,Zona rural,Iznájar,14037.0,4.83
+2019,Zona de densidad intermedia,Lucena,14038.0,8.47
+2019,Zona rural,Luque,14039.0,8.38
+2019,Zona de densidad intermedia,Montalbán de Córdoba,14040.0,9.94
+2019,Zona rural,Montemayor,14041.0,14.08
+2019,Zona de densidad intermedia,Montilla,14042.0,7.93
+2019,Zona de densidad intermedia,Montoro,14043.0,6.27
+2019,Zona rural,Monturque,14044.0,13.19
+2019,Zona rural,Moriles,14045.0,7.64
+2019,Zona de densidad intermedia,Nueva Carteya,14046.0,7.51
+2019,Zona rural,Obejo,14047.0,6.22
+2019,Zona rural,Palenciana,14048.0,6.37
+2019,Zona de densidad intermedia,Palma del Río,14049.0,5.87
+2019,Zona rural,Pedro Abad,14050.0,8.83
+2019,Zona rural,Pedroche,14051.0,5.99
+2019,Zona de densidad intermedia,Peñarroya-Pueblonuevo,14052.0,3.79
+2019,Zona de densidad intermedia,Posadas,14053.0,7.31
+2019,Zona de densidad intermedia,Pozoblanco,14054.0,8.85
+2019,Zona de densidad intermedia,Priego de Córdoba,14055.0,6.99
+2019,Zona de densidad intermedia,Puente Genil,14056.0,8.98
+2019,Zona de densidad intermedia,"Rambla, La",14057.0,11.04
+2019,Zona de densidad intermedia,Rute,14058.0,9.23
+2019,Zona rural,San Sebastián de los Ballesteros,14059.0,8.89
+2019,Zona rural,Santaella,14060.0,8.53
+2019,Zona rural,Santa Eufemia,14061.0,2.4
+2019,Zona rural,Torrecampo,14062.0,5.26
+2019,Zona rural,Valenzuela,14063.0,5.46
+2019,Zona rural,Valsequillo,14064.0,3.13
+2019,Zona rural,"Victoria, La",14065.0,13.9
+2019,Zona de densidad intermedia,Villa del Río,14066.0,6.58
+2019,Zona rural,Villafranca de Córdoba,14067.0,16.41
+2019,Zona rural,Villaharta,14068.0,3.76
+2019,Zona de densidad intermedia,Villanueva de Córdoba,14069.0,3.48
+2019,Zona rural,Villanueva del Duque,14070.0,4.87
+2019,Zona rural,Villanueva del Rey,14071.0,5.78
+2019,Zona rural,Villaralto,14072.0,2.39
+2019,Zona rural,Villaviciosa de Córdoba,14073.0,4.14
+2019,Zona rural,"Viso, El",14074.0,7.94
+2019,Zona rural,Zuheros,14075.0,1.94
+2019,Zona rural,Fuente Carreteros,14901.0,12.55
+2019,Zona rural,"Guijarrosa, La",14902.0,10.68
+2019,Zona rural,Agrón,18001.0,1.82
+2019,Zona rural,Alamedilla,18002.0,3.27
+2019,Zona de densidad intermedia,Albolote,18003.0,13.45
+2019,Zona rural,Albondón,18004.0,9.96
+2019,Zona rural,Albuñán,18005.0,8.0
+2019,Zona rural,Albuñol,18006.0,7.81
+2019,Zona rural,Albuñuelas,18007.0,2.57
+2019,Zona rural,Aldeire,18010.0,7.15
+2019,Zona de densidad intermedia,Alfacar,18011.0,9.72
+2019,Zona rural,Algarinejo,18012.0,3.21
+2019,Zona rural,Alhama de Granada,18013.0,6.69
+2019,Zona de densidad intermedia,Alhendín,18014.0,34.95
+2019,Zona rural,Alicún de Ortega,18015.0,2.11
+2019,Zona rural,Almegíjar,18016.0,2.37
+2019,Zona de densidad intermedia,Almuñécar,18017.0,3.97
+2019,Zona rural,Alquife,18018.0,3.21
+2019,Zona rural,Arenas del Rey,18020.0,5.07
+2019,Ciudades,Armilla,18021.0,12.11
+2019,Zona de densidad intermedia,Atarfe,18022.0,26.76
+2019,Zona de densidad intermedia,Baza,18023.0,7.27
+2019,Zona rural,Beas de Granada,18024.0,6.98
+2019,Zona rural,Beas de Guadix,18025.0,4.55
+2019,Zona rural,Benalúa,18027.0,7.06
+2019,Zona rural,Benalúa de las Villas,18028.0,4.09
+2019,Zona rural,Benamaurel,18029.0,6.4
+2019,Zona rural,Bérchules,18030.0,7.07
+2019,Zona rural,Bubión,18032.0,1.54
+2019,Zona rural,Busquístar,18033.0,12.54
+2019,Zona rural,Cacín,18034.0,2.07
+2019,Zona rural,Cádiar,18035.0,4.07
+2019,Ciudades,Cájar,18036.0,13.66
+2019,Zona rural,Calicasas,18037.0,29.93
+2019,Zona rural,Campotéjar,18038.0,4.94
+2019,Zona rural,Caniles,18039.0,6.07
+2019,Zona rural,Cáñar,18040.0,12.95
+2019,Zona rural,Capileira,18042.0,8.24
+2019,Zona rural,Carataunas,18043.0,28.57
+2019,Zona rural,Cástaras,18044.0,2.95
+2019,Zona rural,Castilléjar,18045.0,4.96
+2019,Zona rural,Castril,18046.0,6.12
+2019,Zona de densidad intermedia,Cenes de la Vega,18047.0,4.62
+2019,Zona rural,Cijuela,18048.0,25.47
+2019,Zona rural,Cogollos de Guadix,18049.0,8.39
+2019,Zona de densidad intermedia,Cogollos de la Vega,18050.0,17.61
+2019,Zona rural,Colomera,18051.0,7.85
+2019,Zona rural,Cortes de Baza,18053.0,3.41
+2019,Zona rural,Cortes y Graena,18054.0,3.67
+2019,Zona rural,Cúllar,18056.0,5.12
+2019,Zona de densidad intermedia,Cúllar Vega,18057.0,7.1
+2019,Zona de densidad intermedia,Chauchina,18059.0,8.0
+2019,Zona rural,Chimeneas,18061.0,4.39
+2019,Ciudades,Churriana de la Vega,18062.0,16.17
+2019,Zona rural,Darro,18063.0,6.59
+2019,Zona rural,Dehesas de Guadix,18064.0,1.47
+2019,Zona rural,Dehesas Viejas,18065.0,6.67
+2019,Zona rural,Deifontes,18066.0,6.44
+2019,Zona rural,Diezma,18067.0,8.08
+2019,Zona rural,Dílar,18068.0,15.57
+2019,Zona rural,Dólar,18069.0,11.13
+2019,Zona rural,Dúdar,18070.0,6.41
+2019,Zona de densidad intermedia,Dúrcal,18071.0,7.82
+2019,Zona rural,Escúzar,18072.0,9.01
+2019,Zona rural,Ferreira,18074.0,4.7
+2019,Zona rural,Fonelas,18076.0,4.66
+2019,Zona rural,Fornes,18077.0,9.65
+2019,Zona rural,Freila,18078.0,7.22
+2019,Zona de densidad intermedia,Fuente Vaqueros,18079.0,9.53
+2019,Zona rural,Galera,18082.0,4.14
+2019,Zona rural,Gobernador,18083.0,1.55
+2019,Ciudades,Gójar,18084.0,11.9
+2019,Zona rural,Gor,18085.0,2.78
+2019,Zona rural,Gorafe,18086.0,0.79
+2019,Ciudades,Granada,18087.0,5.2
+2019,Zona rural,Guadahortuna,18088.0,2.68
+2019,Zona de densidad intermedia,Guadix,18089.0,6.32
+2019,Zona rural,Gualchos,18093.0,6.67
+2019,Zona rural,Güéjar Sierra,18094.0,13.95
+2019,Zona rural,Güevéjar,18095.0,13.46
+2019,Zona rural,Huélago,18096.0,3.04
+2019,Zona rural,Huéneja,18097.0,8.62
+2019,Zona de densidad intermedia,Huéscar,18098.0,7.65
+2019,Zona rural,Huétor de Santillán,18099.0,6.51
+2019,Zona de densidad intermedia,Huétor Tájar,18100.0,10.83
+2019,Ciudades,Huétor Vega,18101.0,10.58
+2019,Zona rural,Íllora,18102.0,6.76
+2019,Zona rural,Ítrabo,18103.0,17.48
+2019,Zona de densidad intermedia,Iznalloz,18105.0,9.85
+2019,Zona rural,Játar,18106.0,13.13
+2019,Zona rural,Jayena,18107.0,4.63
+2019,Zona rural,Jérez del Marquesado,18108.0,6.87
+2019,Zona rural,Jete,18109.0,5.18
+2019,Zona rural,Jun,18111.0,13.85
+2019,Zona rural,Juviles,18112.0,4.55
+2019,Zona rural,"Calahorra, La",18114.0,8.35
+2019,Zona rural,Láchar,18115.0,35.82
+2019,Zona rural,Lanjarón,18116.0,5.27
+2019,Zona rural,Lanteira,18117.0,7.83
+2019,Zona rural,Lecrín,18119.0,8.2
+2019,Zona rural,Lentegí,18120.0,12.6
+2019,Zona rural,Lobras,18121.0,3.5
+2019,Zona de densidad intermedia,Loja,18122.0,9.25
+2019,Zona rural,Lugros,18123.0,7.19
+2019,Zona rural,Lújar,18124.0,2.96
+2019,Zona rural,"Malahá, La",18126.0,10.27
+2019,Ciudades,Maracena,18127.0,8.4
+2019,Zona rural,Marchal,18128.0,7.07
+2019,Zona rural,Moclín,18132.0,5.26
+2019,Zona rural,Molvízar,18133.0,10.08
+2019,Ciudades,Monachil,18134.0,9.48
+2019,Zona rural,Montefrío,18135.0,3.0
+2019,Zona rural,Montejícar,18136.0,4.68
+2019,Zona rural,Montillana,18137.0,5.88
+2019,Zona rural,Moraleda de Zafayona,18138.0,7.35
+2019,Zona de densidad intermedia,Motril,18140.0,7.75
+2019,Zona rural,Murtas,18141.0,7.78
+2019,Zona rural,Nigüelas,18143.0,12.51
+2019,Zona de densidad intermedia,Nívar,18144.0,7.67
+2019,Ciudades,Ogíjares,18145.0,7.33
+2019,Zona rural,Orce,18146.0,5.06
+2019,Zona rural,Órgiva,18147.0,5.85
+2019,Zona rural,Otívar,18148.0,6.64
+2019,Zona de densidad intermedia,Villa de Otura,18149.0,9.74
+2019,Zona de densidad intermedia,Padul,18150.0,13.14
+2019,Zona rural,Pampaneira,18151.0,3.65
+2019,Zona rural,Pedro Martínez,18152.0,2.53
+2019,Zona de densidad intermedia,Peligros,18153.0,6.44
+2019,Zona rural,"Peza, La",18154.0,3.94
+2019,Zona rural,Pinos Genil,18157.0,19.52
+2019,Zona de densidad intermedia,Pinos Puente,18158.0,5.59
+2019,Zona rural,Píñar,18159.0,1.72
+2019,Zona rural,Polícar,18161.0,6.67
+2019,Zona rural,Polopos,18162.0,5.22
+2019,Zona rural,Pórtugos,18163.0,1.99
+2019,Zona rural,Puebla de Don Fadrique,18164.0,10.29
+2019,Ciudades,Pulianas,18165.0,11.91
+2019,Zona rural,Purullena,18167.0,4.98
+2019,Zona rural,Quéntar,18168.0,5.25
+2019,Zona rural,Rubite,18170.0,3.13
+2019,Zona rural,Salar,18171.0,9.02
+2019,Zona de densidad intermedia,Salobreña,18173.0,6.77
+2019,Zona rural,Santa Cruz del Comercio,18174.0,9.38
+2019,Zona de densidad intermedia,Santa Fe,18175.0,11.29
+2019,Zona rural,Soportújar,18176.0,6.69
+2019,Zona rural,Sorvilán,18177.0,11.98
+2019,Zona rural,Torre-Cardela,18178.0,3.99
+2019,Zona rural,Torvizcón,18179.0,1.93
+2019,Zona rural,Trevélez,18180.0,7.32
+2019,Zona rural,Turón,18181.0,4.37
+2019,Zona rural,Ugíjar,18182.0,6.14
+2019,Zona rural,Válor,18183.0,5.52
+2019,Zona rural,Vélez de Benaudalla,18184.0,23.52
+2019,Zona rural,Ventas de Huelma,18185.0,5.97
+2019,Zona rural,Villanueva de las Torres,18187.0,4.07
+2019,Zona rural,Villanueva Mesía,18188.0,9.33
+2019,Zona de densidad intermedia,Víznar,18189.0,11.07
+2019,Zona rural,Zafarraya,18192.0,6.5
+2019,Ciudades,"Zubia, La",18193.0,13.45
+2019,Zona rural,Zújar,18194.0,6.09
+2019,Zona rural,"Taha, La",18901.0,1.65
+2019,Zona rural,"Valle, El",18902.0,9.61
+2019,Zona rural,Nevada,18903.0,8.51
+2019,Zona rural,Alpujarra de la Sierra,18904.0,8.41
+2019,Ciudades,"Gabias, Las",18905.0,20.73
+2019,Zona rural,"Guájares, Los",18906.0,6.4
+2019,Zona rural,Valle del Zalabí,18907.0,7.49
+2019,Zona de densidad intermedia,Villamena,18908.0,7.57
+2019,Zona rural,Morelábor,18909.0,1.66
+2019,Zona rural,"Pinar, El",18910.0,5.76
+2019,Zona de densidad intermedia,Vegas del Genil,18911.0,16.63
+2019,Zona rural,Cuevas del Campo,18912.0,2.67
+2019,Zona rural,Zagra,18913.0,1.46
+2019,Zona rural,Valderrubio,18914.0,7.75
+2019,Zona rural,Domingo Pérez de Granada,18915.0,0.53
+2019,Zona rural,Torrenueva Costa,18916.0,6.96
+2019,Zona rural,Alájar,21001.0,2.48
+2019,Zona de densidad intermedia,Aljaraque,21002.0,15.32
+2019,Zona rural,"Almendro, El",21003.0,8.87
+2019,Zona rural,Almonaster la Real,21004.0,3.85
+2019,Zona de densidad intermedia,Almonte,21005.0,5.4
+2019,Zona rural,Alosno,21006.0,8.59
+2019,Zona de densidad intermedia,Aracena,21007.0,19.03
+2019,Zona rural,Aroche,21008.0,8.67
+2019,Zona rural,Arroyomolinos de León,21009.0,5.28
+2019,Zona de densidad intermedia,Ayamonte,21010.0,12.4
+2019,Zona rural,Beas,21011.0,4.99
+2019,Zona rural,Berrocal,21012.0,6.02
+2019,Zona de densidad intermedia,Bollullos Par del Condado,21013.0,8.74
+2019,Zona de densidad intermedia,Bonares,21014.0,9.25
+2019,Zona rural,Cabezas Rubias,21015.0,4.23
+2019,Zona rural,Cala,21016.0,4.53
+2019,Zona rural,Calañas,21017.0,9.63
+2019,Zona rural,"Campillo, El",21018.0,6.66
+2019,Zona rural,Campofrío,21019.0,5.75
+2019,Zona rural,Cañaveral de León,21020.0,18.97
+2019,Zona de densidad intermedia,Cartaya,21021.0,8.62
+2019,Zona rural,Castaño del Robledo,21022.0,8.33
+2019,Zona rural,"Cerro de Andévalo, El",21023.0,5.13
+2019,Zona rural,Corteconcepción,21024.0,7.36
+2019,Zona rural,Cortegana,21025.0,7.61
+2019,Zona rural,Cortelazor,21026.0,8.06
+2019,Zona rural,Cumbres de Enmedio,21027.0,3.08
+2019,Zona rural,Cumbres de San Bartolomé,21028.0,2.28
+2019,Zona rural,Cumbres Mayores,21029.0,4.4
+2019,Zona rural,Chucena,21030.0,5.52
+2019,Zona rural,Encinasola,21031.0,0.84
+2019,Zona de densidad intermedia,Escacena del Campo,21032.0,8.44
+2019,Zona rural,Fuenteheridos,21033.0,10.93
+2019,Zona rural,Galaroza,21034.0,4.51
+2019,Zona de densidad intermedia,Gibraleón,21035.0,7.82
+2019,Zona rural,"Granada de Río-Tinto, La",21036.0,4.24
+2019,Zona rural,"Granado, El",21037.0,6.08
+2019,Zona rural,Higuera de la Sierra,21038.0,16.24
+2019,Zona rural,Hinojales,21039.0,6.6
+2019,Zona rural,Hinojos,21040.0,12.85
+2019,Ciudades,Huelva,21041.0,5.22
+2019,Zona de densidad intermedia,Isla Cristina,21042.0,4.89
+2019,Zona rural,Jabugo,21043.0,3.77
+2019,Zona de densidad intermedia,Lepe,21044.0,5.56
+2019,Zona rural,Linares de la Sierra,21045.0,8.65
+2019,Zona rural,Lucena del Puerto,21046.0,8.27
+2019,Zona rural,Manzanilla,21047.0,11.42
+2019,Zona rural,"Marines, Los",21048.0,8.29
+2019,Zona rural,Minas de Riotinto,21049.0,1.64
+2019,Zona de densidad intermedia,Moguer,21050.0,5.29
+2019,Zona rural,"Nava, La",21051.0,6.59
+2019,Zona rural,Nerva,21052.0,3.37
+2019,Zona rural,Niebla,21053.0,4.21
+2019,Zona de densidad intermedia,"Palma del Condado, La",21054.0,12.99
+2019,Zona de densidad intermedia,Palos de la Frontera,21055.0,8.04
+2019,Zona de densidad intermedia,Paterna del Campo,21056.0,10.47
+2019,Zona rural,Paymogo,21057.0,2.72
+2019,Zona rural,Puebla de Guzmán,21058.0,9.07
+2019,Zona rural,Puerto Moral,21059.0,10.12
+2019,Zona de densidad intermedia,Punta Umbría,21060.0,6.21
+2019,Zona de densidad intermedia,Rociana del Condado,21061.0,12.87
+2019,Zona rural,Rosal de la Frontera,21062.0,6.62
+2019,Zona rural,San Bartolomé de la Torre,21063.0,14.31
+2019,Zona de densidad intermedia,San Juan del Puerto,21064.0,8.44
+2019,Zona rural,Sanlúcar de Guadiana,21065.0,8.98
+2019,Zona rural,San Silvestre de Guzmán,21066.0,6.99
+2019,Zona rural,Santa Ana la Real,21067.0,13.99
+2019,Zona rural,Santa Bárbara de Casa,21068.0,4.9
+2019,Zona rural,Santa Olalla del Cala,21069.0,5.51
+2019,Zona de densidad intermedia,Trigueros,21070.0,12.7
+2019,Zona rural,Valdelarco,21071.0,5.12
+2019,Zona de densidad intermedia,Valverde del Camino,21072.0,7.69
+2019,Zona rural,Villablanca,21073.0,9.68
+2019,Zona rural,Villalba del Alcor,21074.0,6.32
+2019,Zona rural,Villanueva de las Cruces,21075.0,6.81
+2019,Zona rural,Villanueva de los Castillejos,21076.0,10.08
+2019,Zona rural,Villarrasa,21077.0,4.89
+2019,Zona rural,Zalamea la Real,21078.0,3.17
+2019,Zona rural,Zufre,21079.0,7.11
+2019,Zona rural,"Zarza-Perrunal, La",21902.0,3.31
+2019,Zona rural,Albanchez de Mágina,23001.0,3.08
+2019,Zona de densidad intermedia,Alcalá la Real,23002.0,5.65
+2019,Zona de densidad intermedia,Alcaudete,23003.0,4.87
+2019,Zona rural,Aldeaquemada,23004.0,4.59
+2019,Zona de densidad intermedia,Andújar,23005.0,5.44
+2019,Zona de densidad intermedia,Arjona,23006.0,5.82
+2019,Zona rural,Arjonilla,23007.0,7.81
+2019,Zona rural,Arquillos,23008.0,3.55
+2019,Zona de densidad intermedia,Baeza,23009.0,10.12
+2019,Zona de densidad intermedia,Bailén,23010.0,6.19
+2019,Zona rural,Baños de la Encina,23011.0,5.32
+2019,Zona rural,Beas de Segura,23012.0,3.84
+2019,Zona rural,Begíjar,23014.0,6.57
+2019,Zona rural,Bélmez de la Moraleda,23015.0,2.41
+2019,Zona rural,Benatae,23016.0,4.67
+2019,Zona rural,Cabra del Santo Cristo,23017.0,4.22
+2019,Zona rural,Cambil,23018.0,8.51
+2019,Zona rural,Campillo de Arenas,23019.0,4.66
+2019,Zona de densidad intermedia,Canena,23020.0,5.12
+2019,Zona rural,Carboneros,23021.0,3.09
+2019,Zona de densidad intermedia,"Carolina, La",23024.0,6.98
+2019,Zona rural,Castellar,23025.0,3.45
+2019,Zona rural,Castillo de Locubín,23026.0,3.78
+2019,Zona rural,Cazalilla,23027.0,4.35
+2019,Zona de densidad intermedia,Cazorla,23028.0,5.96
+2019,Zona rural,Chiclana de Segura,23029.0,3.26
+2019,Zona rural,Chilluévar,23030.0,7.23
+2019,Zona rural,Escañuela,23031.0,5.22
+2019,Zona rural,Espeluy,23032.0,2.41
+2019,Zona rural,Frailes,23033.0,9.46
+2019,Zona rural,Fuensanta de Martos,23034.0,5.25
+2019,Zona rural,Fuerte del Rey,23035.0,11.18
+2019,Zona rural,Génave,23037.0,3.31
+2019,Zona rural,"Guardia de Jaén, La",23038.0,15.56
+2019,Zona rural,Guarromán,23039.0,2.99
+2019,Zona rural,Lahiguera,23040.0,4.82
+2019,Zona rural,Higuera de Calatrava,23041.0,6.62
+2019,Zona rural,Hinojares,23042.0,1.93
+2019,Zona rural,Hornos,23043.0,2.04
+2019,Zona de densidad intermedia,Huelma,23044.0,5.68
+2019,Zona rural,Huesa,23045.0,6.02
+2019,Zona rural,Ibros,23046.0,4.92
+2019,Zona rural,"Iruela, La",23047.0,10.87
+2019,Zona rural,Iznatoraf,23048.0,3.42
+2019,Zona rural,Jabalquinto,23049.0,4.82
+2019,Ciudades,Jaén,23050.0,5.93
+2019,Zona de densidad intermedia,Jamilena,23051.0,6.94
+2019,Zona rural,Jimena,23052.0,4.42
+2019,Zona de densidad intermedia,Jódar,23053.0,4.13
+2019,Zona rural,Larva,23054.0,1.88
+2019,Ciudades,Linares,23055.0,5.37
+2019,Zona rural,Lopera,23056.0,4.76
+2019,Zona rural,Lupión,23057.0,6.43
+2019,Zona de densidad intermedia,Mancha Real,23058.0,12.49
+2019,Zona de densidad intermedia,Marmolejo,23059.0,4.75
+2019,Zona de densidad intermedia,Martos,23060.0,6.38
+2019,Zona de densidad intermedia,Mengíbar,23061.0,14.71
+2019,Zona rural,Montizón,23062.0,4.52
+2019,Zona rural,Navas de San Juan,23063.0,2.92
+2019,Zona rural,Noalejo,23064.0,8.05
+2019,Zona rural,Orcera,23065.0,5.76
+2019,Zona de densidad intermedia,Peal de Becerro,23066.0,8.31
+2019,Zona rural,Pegalajar,23067.0,5.56
+2019,Zona de densidad intermedia,Porcuna,23069.0,5.7
+2019,Zona rural,Pozo Alcón,23070.0,5.87
+2019,Zona rural,Puente de Génave,23071.0,12.58
+2019,Zona rural,"Puerta de Segura, La",23072.0,7.36
+2019,Zona rural,Quesada,23073.0,4.0
+2019,Zona de densidad intermedia,Rus,23074.0,4.95
+2019,Zona rural,Sabiote,23075.0,7.21
+2019,Zona rural,Santa Elena,23076.0,7.07
+2019,Zona rural,Santiago de Calatrava,23077.0,4.81
+2019,Zona rural,Santisteban del Puerto,23079.0,4.07
+2019,Zona rural,Santo Tomé,23080.0,6.62
+2019,Zona rural,Segura de la Sierra,23081.0,6.93
+2019,Zona rural,Siles,23082.0,5.77
+2019,Zona rural,Sorihuela del Guadalimar,23084.0,1.83
+2019,Zona rural,Torreblascopedro,23085.0,3.67
+2019,Zona de densidad intermedia,Torredelcampo,23086.0,8.43
+2019,Zona de densidad intermedia,Torredonjimeno,23087.0,6.55
+2019,Zona de densidad intermedia,Torreperogil,23088.0,9.71
+2019,Zona rural,Torres,23090.0,4.97
+2019,Zona rural,Torres de Albánchez,23091.0,2.75
+2019,Zona de densidad intermedia,Úbeda,23092.0,4.58
+2019,Zona rural,Valdepeñas de Jaén,23093.0,6.31
+2019,Zona rural,Vilches,23094.0,4.67
+2019,Zona de densidad intermedia,Villacarrillo,23095.0,5.23
+2019,Zona rural,Villanueva de la Reina,23096.0,5.27
+2019,Zona de densidad intermedia,Villanueva del Arzobispo,23097.0,4.74
+2019,Zona rural,Villardompardo,23098.0,3.75
+2019,Zona de densidad intermedia,"Villares, Los",23099.0,14.88
+2019,Zona rural,Villarrodrigo,23101.0,3.01
+2019,Zona rural,Cárcheles,23901.0,10.0
+2019,Zona rural,Bedmar y Garcíez,23902.0,3.02
+2019,Zona rural,Villatorres,23903.0,7.21
+2019,Zona rural,Santiago-Pontones,23904.0,4.14
+2019,Zona rural,Arroyo del Ojanco,23905.0,3.79
+2019,Zona de densidad intermedia,Alameda,29001.0,7.57
+2019,Zona rural,Alcaucín,29002.0,11.49
+2019,Zona rural,Alfarnate,29003.0,6.79
+2019,Zona rural,Alfarnatejo,29004.0,4.69
+2019,Zona de densidad intermedia,Algarrobo,29005.0,7.31
+2019,Zona rural,Algatocín,29006.0,13.46
+2019,Zona de densidad intermedia,Alhaurín de la Torre,29007.0,11.06
+2019,Zona de densidad intermedia,Alhaurín el Grande,29008.0,8.85
+2019,Zona rural,Almáchar,29009.0,5.66
+2019,Zona rural,Almargen,29010.0,7.76
+2019,Zona rural,Almogía,29011.0,12.45
+2019,Zona de densidad intermedia,Álora,29012.0,10.45
+2019,Zona rural,Alozaina,29013.0,6.97
+2019,Zona rural,Alpandeire,29014.0,8.33
+2019,Zona de densidad intermedia,Antequera,29015.0,7.54
+2019,Zona rural,Árchez,29016.0,7.84
+2019,Zona de densidad intermedia,Archidona,29017.0,6.16
+2019,Zona rural,Ardales,29018.0,7.82
+2019,Zona rural,Arenas,29019.0,11.02
+2019,Zona rural,Arriate,29020.0,7.69
+2019,Zona rural,Atajate,29021.0,11.61
+2019,Zona rural,Benadalid,29022.0,14.97
+2019,Zona rural,Benahavís,29023.0,13.31
+2019,Zona rural,Benalauría,29024.0,4.81
+2019,Ciudades,Benalmádena,29025.0,8.13
+2019,Zona rural,Benamargosa,29026.0,4.85
+2019,Zona rural,Benamocarra,29027.0,7.6
+2019,Zona rural,Benaoján,29028.0,6.28
+2019,Zona rural,Benarrabá,29029.0,12.24
+2019,Zona rural,"Borge, El",29030.0,11.02
+2019,Zona rural,"Burgo, El",29031.0,5.08
+2019,Zona de densidad intermedia,Campillos,29032.0,9.81
+2019,Zona rural,Canillas de Aceituno,29033.0,9.04
+2019,Zona rural,Canillas de Albaida,29034.0,6.45
+2019,Zona rural,Cañete la Real,29035.0,3.4
+2019,Zona rural,Carratraca,29036.0,3.68
+2019,Zona rural,Cartajima,29037.0,5.99
+2019,Zona de densidad intermedia,Cártama,29038.0,13.72
+2019,Zona rural,Casabermeja,29039.0,13.64
+2019,Zona rural,Casarabonela,29040.0,9.59
+2019,Zona rural,Casares,29041.0,18.54
+2019,Zona de densidad intermedia,Coín,29042.0,9.79
+2019,Zona rural,Colmenar,29043.0,7.59
+2019,Zona rural,Comares,29044.0,4.81
+2019,Zona rural,Cómpeta,29045.0,5.51
+2019,Zona rural,Cortes de la Frontera,29046.0,5.28
+2019,Zona rural,Cuevas Bajas,29047.0,8.26
+2019,Zona rural,Cuevas del Becerro,29048.0,7.11
+2019,Zona rural,Cuevas de San Marcos,29049.0,2.5
+2019,Zona rural,Cútar,29050.0,4.9
+2019,Zona de densidad intermedia,Estepona,29051.0,10.67
+2019,Zona rural,Faraján,29052.0,4.73
+2019,Zona rural,Frigiliana,29053.0,8.26
+2019,Ciudades,Fuengirola,29054.0,5.32
+2019,Zona rural,Fuente de Piedra,29055.0,11.28
+2019,Zona rural,Gaucín,29056.0,7.43
+2019,Zona rural,Genalguacil,29057.0,7.29
+2019,Zona rural,Guaro,29058.0,17.97
+2019,Zona rural,Humilladero,29059.0,20.9
+2019,Zona rural,Igualeja,29060.0,5.61
+2019,Zona rural,Istán,29061.0,6.02
+2019,Zona rural,Iznate,29062.0,7.18
+2019,Zona rural,Jimera de Líbar,29063.0,7.88
+2019,Zona rural,Jubrique,29064.0,4.53
+2019,Zona rural,Júzcar,29065.0,8.65
+2019,Zona rural,Macharaviaya,29066.0,10.58
+2019,Ciudades,Málaga,29067.0,6.08
+2019,Zona de densidad intermedia,Manilva,29068.0,12.85
+2019,Zona de densidad intermedia,Marbella,29069.0,2.97
+2019,Ciudades,Mijas,29070.0,8.61
+2019,Zona rural,Moclinejo,29071.0,9.32
+2019,Zona rural,Mollina,29072.0,9.87
+2019,Zona rural,Monda,29073.0,14.46
+2019,Zona rural,Montejaque,29074.0,10.59
+2019,Zona de densidad intermedia,Nerja,29075.0,6.6
+2019,Zona rural,Ojén,29076.0,13.5
+2019,Zona rural,Parauta,29077.0,4.17
+2019,Zona rural,Periana,29079.0,12.58
+2019,Zona de densidad intermedia,Pizarra,29080.0,10.91
+2019,Zona rural,Pujerra,29081.0,9.7
+2019,Zona de densidad intermedia,Rincón de la Victoria,29082.0,11.9
+2019,Zona rural,Riogordo,29083.0,7.54
+2019,Zona de densidad intermedia,Ronda,29084.0,6.71
+2019,Zona rural,Salares,29085.0,4.6
+2019,Zona rural,Sayalonga,29086.0,9.62
+2019,Zona rural,Sedella,29087.0,6.15
+2019,Zona rural,Sierra de Yeguas,29088.0,11.06
+2019,Zona rural,Teba,29089.0,6.55
+2019,Zona rural,Tolox,29090.0,13.13
+2019,Zona de densidad intermedia,Torrox,29091.0,10.0
+2019,Zona rural,Totalán,29092.0,6.76
+2019,Zona rural,Valle de Abdalajís,29093.0,4.28
+2019,Zona de densidad intermedia,Vélez-Málaga,29094.0,10.9
+2019,Zona rural,Villanueva de Algaidas,29095.0,9.51
+2019,Zona rural,Villanueva del Rosario,29096.0,7.5
+2019,Zona rural,Villanueva del Trabuco,29097.0,6.18
+2019,Zona rural,Villanueva de Tapia,29098.0,6.62
+2019,Zona rural,Viñuela,29099.0,9.43
+2019,Zona rural,Yunquera,29100.0,8.1
+2019,Ciudades,Torremolinos,29901.0,6.31
+2019,Zona rural,Villanueva de la Concepción,29902.0,10.1
+2019,Zona rural,Montecorto,29903.0,2.56
+2019,Zona rural,Serrato,29904.0,1.55
+2019,Zona rural,Aguadulce,41001.0,9.28
+2019,Zona rural,Alanís,41002.0,8.57
+2019,Zona de densidad intermedia,Albaida del Aljarafe,41003.0,5.88
+2019,Ciudades,Alcalá de Guadaíra,41004.0,9.09
+2019,Zona de densidad intermedia,Alcalá del Río,41005.0,17.6
+2019,Zona rural,Alcolea del Río,41006.0,11.59
+2019,Zona de densidad intermedia,"Algaba, La",41007.0,12.26
+2019,Zona rural,Algámitas,41008.0,8.54
+2019,Zona rural,Almadén de la Plata,41009.0,7.4
+2019,Zona de densidad intermedia,Almensilla,41010.0,18.72
+2019,Zona de densidad intermedia,Arahal,41011.0,10.61
+2019,Zona rural,Aznalcázar,41012.0,13.94
+2019,Zona de densidad intermedia,Aznalcóllar,41013.0,11.41
+2019,Zona rural,Badolatosa,41014.0,7.9
+2019,Zona de densidad intermedia,Benacazón,41015.0,12.82
+2019,Zona de densidad intermedia,Bollullos de la Mitación,41016.0,13.84
+2019,Ciudades,Bormujos,41017.0,11.05
+2019,Zona de densidad intermedia,Brenes,41018.0,9.28
+2019,Zona de densidad intermedia,Burguillos,41019.0,12.5
+2019,Zona de densidad intermedia,"Cabezas de San Juan, Las",41020.0,7.93
+2019,Ciudades,Camas,41021.0,10.19
+2019,Zona de densidad intermedia,"Campana, La",41022.0,8.21
+2019,Zona de densidad intermedia,Cantillana,41023.0,9.1
+2019,Zona de densidad intermedia,Carmona,41024.0,7.3
+2019,Zona rural,Carrión de los Céspedes,41025.0,12.44
+2019,Zona de densidad intermedia,Casariche,41026.0,7.82
+2019,Zona rural,Castilblanco de los Arroyos,41027.0,6.58
+2019,Zona de densidad intermedia,Castilleja de Guzmán,41028.0,9.47
+2019,Ciudades,Castilleja de la Cuesta,41029.0,6.81
+2019,Zona rural,Castilleja del Campo,41030.0,3.18
+2019,Zona rural,"Castillo de las Guardas, El",41031.0,9.71
+2019,Zona rural,Cazalla de la Sierra,41032.0,4.14
+2019,Zona de densidad intermedia,Constantina,41033.0,3.41
+2019,Zona de densidad intermedia,Coria del Río,41034.0,8.6
+2019,Zona rural,Coripe,41035.0,9.14
+2019,Zona rural,"Coronil, El",41036.0,8.75
+2019,Zona de densidad intermedia,"Corrales, Los",41037.0,8.42
+2019,Ciudades,Dos Hermanas,41038.0,10.14
+2019,Zona de densidad intermedia,Écija,41039.0,6.28
+2019,Zona de densidad intermedia,Espartinas,41040.0,13.14
+2019,Zona de densidad intermedia,Estepa,41041.0,11.69
+2019,Zona de densidad intermedia,Fuentes de Andalucía,41042.0,8.18
+2019,Zona rural,"Garrobo, El",41043.0,18.16
+2019,Ciudades,Gelves,41044.0,17.14
+2019,Zona de densidad intermedia,Gerena,41045.0,21.73
+2019,Zona rural,Gilena,41046.0,11.16
+2019,Ciudades,Gines,41047.0,6.63
+2019,Zona rural,Guadalcanal,41048.0,4.84
+2019,Zona de densidad intermedia,Guillena,41049.0,17.5
+2019,Zona de densidad intermedia,Herrera,41050.0,10.32
+2019,Zona rural,Huévar del Aljarafe,41051.0,27.64
+2019,Zona rural,Lantejuela,41052.0,8.65
+2019,Zona de densidad intermedia,Lebrija,41053.0,12.87
+2019,Zona rural,Lora de Estepa,41054.0,10.83
+2019,Zona de densidad intermedia,Lora del Río,41055.0,6.15
+2019,Zona rural,"Luisiana, La",41056.0,10.62
+2019,Zona rural,"Madroño, El",41057.0,4.56
+2019,Zona de densidad intermedia,Mairena del Alcor,41058.0,15.07
+2019,Ciudades,Mairena del Aljarafe,41059.0,13.09
+2019,Zona de densidad intermedia,Marchena,41060.0,10.74
+2019,Zona rural,Marinaleda,41061.0,8.19
+2019,Zona de densidad intermedia,Martín de la Jara,41062.0,5.24
+2019,Zona rural,"Molares, Los",41063.0,19.35
+2019,Zona de densidad intermedia,Montellano,41064.0,13.04
+2019,Zona de densidad intermedia,Morón de la Frontera,41065.0,6.57
+2019,Zona rural,"Navas de la Concepción, Las",41066.0,5.09
+2019,Zona de densidad intermedia,Olivares,41067.0,11.1
+2019,Zona de densidad intermedia,Osuna,41068.0,10.99
+2019,Zona de densidad intermedia,"Palacios y Villafranca, Los",41069.0,13.97
+2019,Ciudades,Palomares del Río,41070.0,17.44
+2019,Zona de densidad intermedia,Paradas,41071.0,10.51
+2019,Zona de densidad intermedia,Pedrera,41072.0,10.02
+2019,Zona rural,"Pedroso, El",41073.0,9.68
+2019,Zona rural,Peñaflor,41074.0,10.91
+2019,Zona de densidad intermedia,Pilas,41075.0,13.34
+2019,Zona rural,Pruna,41076.0,6.7
+2019,Zona de densidad intermedia,"Puebla de Cazalla, La",41077.0,5.8
+2019,Zona rural,"Puebla de los Infantes, La",41078.0,6.84
+2019,Zona de densidad intermedia,"Puebla del Río, La",41079.0,4.5
+2019,Zona rural,"Real de la Jara, El",41080.0,11.76
+2019,Zona de densidad intermedia,"Rinconada, La",41081.0,8.41
+2019,Zona rural,"Roda de Andalucía, La",41082.0,8.98
+2019,Zona rural,"Ronquillo, El",41083.0,20.0
+2019,Zona rural,"Rubio, El",41084.0,7.03
+2019,Zona de densidad intermedia,Salteras,41085.0,8.03
+2019,Ciudades,San Juan de Aznalfarache,41086.0,4.92
+2019,Zona de densidad intermedia,Sanlúcar la Mayor,41087.0,14.99
+2019,Zona rural,San Nicolás del Puerto,41088.0,17.21
+2019,Zona de densidad intermedia,Santiponce,41089.0,5.25
+2019,Zona rural,"Saucejo, El",41090.0,4.96
+2019,Ciudades,Sevilla,41091.0,5.01
+2019,Zona de densidad intermedia,Tocina,41092.0,9.21
+2019,Ciudades,Tomares,41093.0,10.22
+2019,Zona de densidad intermedia,Umbrete,41094.0,11.99
+2019,Zona de densidad intermedia,Utrera,41095.0,11.01
+2019,Zona de densidad intermedia,Valencina de la Concepción,41096.0,4.57
+2019,Zona rural,Villamanrique de la Condesa,41097.0,20.28
+2019,Zona de densidad intermedia,Villanueva del Ariscal,41098.0,13.45
+2019,Zona rural,Villanueva del Río y Minas,41099.0,4.8
+2019,Zona rural,Villanueva de San Juan,41100.0,2.52
+2019,Zona de densidad intermedia,Villaverde del Río,41101.0,12.05
+2019,Zona de densidad intermedia,"Viso del Alcor, El",41102.0,12.18
+2019,Zona rural,Cañada Rosal,41901.0,15.58
+2019,Zona de densidad intermedia,Isla Mayor,41902.0,8.99
+2019,Zona de densidad intermedia,"Cuervo de Sevilla, El",41903.0,12.99
+2019,Zona rural,"Palmar de Troya, El",41904.0,12.93
