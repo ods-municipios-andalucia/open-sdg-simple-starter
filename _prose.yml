@@ -109,48 +109,68 @@ prose:
             label: "Unit of measurement"
             translation_key: metadata_fields.computation_units
             scope: national
-      - name: "computation_definitions"
-        field:
-            element: textarea
-            label: "Definitions"
-            translation_key: metadata_fields.computation_definitions
-            scope: national
-      - name: "computation_calculations"
+      # - name: "computation_definitions"
+      #   field:
+      #       element: textarea
+      #       label: "Definitions"
+      #       translation_key: metadata_fields.computation_definitions
+      #       scope: national
+      # - name: "computation_calculations"
+      #   field:
+      #       element: text
+      #       label: "Calculations"
+      #       translation_key: metadata_fields.computation_calculations
+      #       scope: national
+      # - name: "other_info"
+      #   field:
+      #       element: text
+      #       label: "Other information"
+      #       translation_key: metadata_fields.other_info
+      #       scope: national
+      # - name: "quality_assurance"
+      #   field:
+      #       element: text
+      #       label: "Quality assurance"
+      #       translation_key: metadata_fields.quality_assurance
+      #       scope: national
+      # - name: "international_comparability"
+      #   field:
+      #       element: text
+      #       label: "Comparability with international data/standards"
+      #       translation_key: metadata_fields.international_comparability
+      #       scope: national
+      # - name: "comments_limitations"
+      #   field:
+      #       element: text
+      #       label: "Comments and limitations"
+      #       translation_key: metadata_fields.comments_limitations
+      #       scope: national
+      # - name: "rational_interpretation"
+      #   field:
+      #       element: text
+      #       label: "Rational and interpretation"
+      #       translation_key: metadata_fields.rational_interpretation
+      #       scope: national
+#custom national fields            
+      - name: "source_info"
         field:
             element: text
-            label: "Calculations"
-            translation_key: metadata_fields.computation_calculations
-            scope: national
-      - name: "other_info"
+            label: "source_info"
+            translation_key: my-custom-translations.source_info
+            scope: national         
+      - name: "methodology"
         field:
             element: text
-            label: "Other information"
-            translation_key: metadata_fields.other_info
-            scope: national
-      - name: "quality_assurance"
+            label: "methodology"
+            translation_key: my-custom-translations.methodology
+            scope: national  
+      - name: "observations"
         field:
             element: text
-            label: "Quality assurance"
-            translation_key: metadata_fields.quality_assurance
-            scope: national
-      - name: "international_comparability"
-        field:
-            element: text
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
-            scope: national
-      - name: "comments_limitations"
-        field:
-            element: text
-            label: "Comments and limitations"
-            translation_key: metadata_fields.comments_limitations
-            scope: national
-      - name: "rational_interpretation"
-        field:
-            element: text
-            label: "Rational and interpretation"
-            translation_key: metadata_fields.rational_interpretation
-            scope: national
+            label: "observations"
+            translation_key: my-custom-translations.observations
+            scope: national                              
+      - name: "national_data_update_url"            
       - name: "national_data_update_url"
         field:
             element: hidden

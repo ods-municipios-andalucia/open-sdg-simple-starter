@@ -200,3 +200,16 @@ breadcrumbs:
       path: /
     - label: general.goals
       path: /goals
+
+
+#hidden metadata tabs
+metadata_tabs:
+  - scope: national
+    title: my-custom-translations.national_metadata
+  #   description: indicator.national_metadata_blurb
+  # - scope: global
+  #   title: indicator.global_metadata
+  #   description: indicator.global_metadata_blurb
+  # - scope: sources
+  #   title: indicator.sources
+  #   description: ''
