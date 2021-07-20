@@ -93,7 +93,7 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
- - geojson_file: ./geojson/terminos_municipales_simplify.geojson
+ - geojson_file: ./geojson/terminos_municipales_multipolygon_simplify.geojson
    name_property: name
    id_property: geocode
    output_subfolder: regions
