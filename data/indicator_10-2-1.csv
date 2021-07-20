@@ -1,7 +1,787 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Dimension,Municipio,GeoCode,Value
+2019,valor total Andalucia,,,328
+2019,valor municipio,Abla,4001,45.21
+2019,valor municipio,Abrucena,4002,83.61
+2019,valor municipio,Adra,4003,89.6
+2019,valor municipio,Albanchez,4004,34.9
+2019,valor municipio,Alboloduy,4005,69.68
+2019,valor municipio,Albox,4006,168.34
+2019,valor municipio,Alcolea,4007,67.46
+2019,valor municipio,Alcóntar,4008,93.83
+2019,valor municipio,Alcudia de Monteagud,4009,15.51
+2019,valor municipio,Alhabia,4010,16.38
+2019,valor municipio,Alhama de Almería,4011,26.22
+2019,valor municipio,Alicún,4012,5.87
+2019,valor municipio,Almería,4013,295.29
+2019,valor municipio,Almócita,4014,30.8
+2019,valor municipio,Alsodux,4015,20.09
+2019,valor municipio,Antas,4016,99.67
+2019,valor municipio,Arboleas,4017,66.1
+2019,valor municipio,Armuña de Almanzora,4018,7.72
+2019,valor municipio,Bacares,4019,94.45
+2019,valor municipio,Balanegra,4904,31.58
+2019,valor municipio,Bayárcal,4020,37.99
+2019,valor municipio,Bayarque,4021,26.34
+2019,valor municipio,Bédar,4022,46.69
+2019,valor municipio,Beires,4023,38.8
+2019,valor municipio,Benahadux,4024,16.6
+2019,valor municipio,Benitagla,4026,6.39
+2019,valor municipio,Benizalón,4027,31.95
+2019,valor municipio,Bentarique,4028,11.33
+2019,valor municipio,Berja,4029,185.66
+2019,valor municipio,Canjáyar,4030,66.87
+2019,valor municipio,Cantoria,4031,78.89
+2019,valor municipio,Carboneras,4032,95.51
+2019,valor municipio,Castro de Filabres,4033,29.21
+2019,valor municipio,Chercos,4036,13.55
+2019,valor municipio,Chirivel,4037,196.33
+2019,valor municipio,Cóbdar,4034,31.97
+2019,valor municipio,Cuevas del Almanzora,4035,263.77
+2019,valor municipio,Dalías,4038,141.32
+2019,valor municipio,Ejido (El),4902,225.21
+2019,valor municipio,Enix,4041,66.78
+2019,valor municipio,Felix,4043,81.2
+2019,valor municipio,Fines,4044,23.06
+2019,valor municipio,Fiñana,4045,133.85
+2019,valor municipio,Fondón,4046,91.09
+2019,valor municipio,Gádor,4047,87.6
+2019,valor municipio,Gallardos (Los),4048,34.88
+2019,valor municipio,Garrucha,4049,7.76
+2019,valor municipio,Gérgal,4050,229.31
+2019,valor municipio,Huécija,4051,19
+2019,valor municipio,Huércal de Almería,4052,20.91
+2019,valor municipio,Huércal-Overa,4053,317.97
+2019,valor municipio,Íllar,4054,19.17
+2019,valor municipio,Instinción,4055,33.46
+2019,valor municipio,Laroya,4056,21.63
+2019,valor municipio,Láujar de Andarax,4057,92.74
+2019,valor municipio,Líjar,4058,28.22
+2019,valor municipio,Lubrín,4059,138.05
+2019,valor municipio,Lucainena de las Torres,4060,123.12
+2019,valor municipio,Lúcar,4061,100.58
+2019,valor municipio,Macael,4062,43.77
+2019,valor municipio,María,4063,225.46
+2019,valor municipio,Mojácar,4064,71.41
+2019,valor municipio,Mojonera (La),4903,23.85
+2019,valor municipio,Nacimiento,4065,80.7
+2019,valor municipio,Níjar,4066,599.27
+2019,valor municipio,Ohanes,4067,32.39
+2019,valor municipio,Olula de Castro,4068,33.58
+2019,valor municipio,Olula del Río,4069,23.5
+2019,valor municipio,Oria,4070,234.54
+2019,valor municipio,Padules,4071,26.47
+2019,valor municipio,Partaloa,4072,52.57
+2019,valor municipio,Paterna del Río,4073,45.44
+2019,valor municipio,Pechina,4074,46.02
+2019,valor municipio,Pulpí,4075,94.45
+2019,valor municipio,Purchena,4076,56.62
+2019,valor municipio,Rágol,4077,26.9
+2019,valor municipio,Rioja,4078,36.38
+2019,valor municipio,Roquetas de Mar,4079,59.67
+2019,valor municipio,Santa Cruz de Marchena,4080,19.96
+2019,valor municipio,Santa Fe de Mondújar,4081,34.84
+2019,valor municipio,Senés,4082,50.21
+2019,valor municipio,Serón,4083,166.16
+2019,valor municipio,Sierro,4084,27.62
+2019,valor municipio,Somontín,4085,16.18
+2019,valor municipio,Sorbas,4086,249
+2019,valor municipio,Suflí,4087,10.09
+2019,valor municipio,Tabernas,4088,280.17
+2019,valor municipio,Taberno,4089,44.03
+2019,valor municipio,Tahal,4090,94.53
+2019,valor municipio,Terque,4091,15.71
+2019,valor municipio,Tíjola,4092,67.68
+2019,valor municipio,Tres Villas (Las),4901,85.29
+2019,valor municipio,Turre,4093,107.89
+2019,valor municipio,Turrillas,4094,39.14
+2019,valor municipio,Uleila del Campo,4095,38.64
+2019,valor municipio,Urrácal,4096,25.45
+2019,valor municipio,Velefique,4097,66.39
+2019,valor municipio,Vélez-Blanco,4098,441.02
+2019,valor municipio,Vélez-Rubio,4099,281.87
+2019,valor municipio,Vera,4100,57.54
+2019,valor municipio,Viator,4101,20.61
+2019,valor municipio,Vícar,4102,64.29
+2019,valor municipio,Zurgena,4103,71.63
+2019,valor municipio,Alcalá de los Gazules,11001,479.78
+2019,valor municipio,Alcalá del Valle,11002,46.9
+2019,valor municipio,Algar,11003,26.62
+2019,valor municipio,Algeciras,11004,85.71
+2019,valor municipio,Algodonales,11005,134.1
+2019,valor municipio,Arcos de la Frontera,11006,527.17
+2019,valor municipio,Barbate,11007,143.21
+2019,valor municipio,Barrios (Los),11008,330.63
+2019,valor municipio,Benalup-Casas Viejas,11901,60.41
+2019,valor municipio,Benaocaz,11009,69.42
+2019,valor municipio,Bornos,11010,55.11
+2019,valor municipio,Bosque (El),11011,30.76
+2019,valor municipio,Cádiz,11012,11.91
+2019,valor municipio,Castellar de la Frontera,11013,180.52
+2019,valor municipio,Chiclana de la Frontera,11015,206.06
+2019,valor municipio,Chipiona,11016,32.91
+2019,valor municipio,Conil de la Frontera,11014,88.09
+2019,valor municipio,Espera,11017,123.53
+2019,valor municipio,Gastor (El),11018,27.55
+2019,valor municipio,Grazalema,11019,122.45
+2019,valor municipio,Jerez de la Frontera,11020,1189.05
+2019,valor municipio,Jimena de la Frontera,11021,298.54
+2019,valor municipio,Línea de la Concepción (La),11022,26.16
+2019,valor municipio,Medina Sidonia,11023,487.25
+2019,valor municipio,Olvera,11024,193.74
+2019,valor municipio,Paterna de Rivera,11025,13.84
+2019,valor municipio,Prado del Rey,11026,48.6
+2019,valor municipio,Puerto de Santa María (El),11027,159.1
+2019,valor municipio,Puerto Real,11028,196.16
+2019,valor municipio,Puerto Serrano,11029,79.88
+2019,valor municipio,Rota,11030,84.17
+2019,valor municipio,San Fernando,11031,30.69
+2019,valor municipio,San José del Valle,11902,224.01
+2019,valor municipio,San Martín del Tesorillo,11903,48.46
+2019,valor municipio,San Roque,11033,139.43
+2019,valor municipio,Sanlúcar de Barrameda,11032,170.5
+2019,valor municipio,Setenil de las Bodegas,11034,82.16
+2019,valor municipio,Tarifa,11035,419.51
+2019,valor municipio,Torre Alháquime,11036,17.36
+2019,valor municipio,Trebujena,11037,70.81
+2019,valor municipio,Ubrique,11038,69.78
+2019,valor municipio,Vejer de la Frontera,11039,263.09
+2019,valor municipio,Villaluenga del Rosario,11040,59.48
+2019,valor municipio,Villamartín,11041,211.98
+2019,valor municipio,Zahara,11042,72.51
+2019,valor municipio,Adamuz,14001,334.89
+2019,valor municipio,Aguilar de la Frontera,14002,166.01
+2019,valor municipio,Alcaracejos,14003,175.85
+2019,valor municipio,Almedinilla,14004,55.48
+2019,valor municipio,Almodóvar del Río,14005,172.52
+2019,valor municipio,Añora,14006,112.49
+2019,valor municipio,Baena,14007,362.16
+2019,valor municipio,Belalcázar,14008,355.96
+2019,valor municipio,Belmez,14009,207.41
+2019,valor municipio,Benamejí,14010,53.33
+2019,valor municipio,Blázquez (Los),14011,102.77
+2019,valor municipio,Bujalance,14012,124.76
+2019,valor municipio,Cabra,14013,229.13
+2019,valor municipio,Cañete de las Torres,14014,103.47
+2019,valor municipio,Carcabuey,14015,79.78
+2019,valor municipio,Cardeña,14016,512.59
+2019,valor municipio,Carlota (La),14017,79.07
+2019,valor municipio,Carpio (El),14018,46.66
+2019,valor municipio,Castro del Río,14019,219.64
+2019,valor municipio,Conquista,14020,38.52
+2019,valor municipio,Córdoba,14021,1253.91
+2019,valor municipio,Doña Mencía,14022,15.3
+2019,valor municipio,Dos Torres,14023,129.14
+2019,valor municipio,Encinas Reales,14024,33.35
+2019,valor municipio,Espejo,14025,56.46
+2019,valor municipio,Espiel,14026,437.27
+2019,valor municipio,Fernán-Núñez,14027,30.17
+2019,valor municipio,Fuente Carreteros,14901,9.35
+2019,valor municipio,Fuente la Lancha,14028,7.83
+2019,valor municipio,Fuente Obejuna,14029,591.6
+2019,valor municipio,Fuente Palmera,14030,65.38
+2019,valor municipio,Fuente-Tójar,14031,23.65
+2019,valor municipio,Granjuela (La),14032,56.16
+2019,valor municipio,Guadalcázar,14033,72.36
+2019,valor municipio,Guijarrosa (La),14902,45.66
+2019,valor municipio,Guijo (El),14034,67.26
+2019,valor municipio,Hinojosa del Duque,14035,531.5
+2019,valor municipio,Hornachuelos,14036,909.4
+2019,valor municipio,Iznájar,14037,136.48
+2019,valor municipio,Lucena,14038,351.93
+2019,valor municipio,Luque,14039,140.62
+2019,valor municipio,Montalbán de Córdoba,14040,34.05
+2019,valor municipio,Montemayor,14041,57.94
+2019,valor municipio,Montilla,14042,168.98
+2019,valor municipio,Montoro,14043,585.84
+2019,valor municipio,Monturque,14044,32.53
+2019,valor municipio,Moriles,14045,19.58
+2019,valor municipio,Nueva Carteya,14046,69.16
+2019,valor municipio,Obejo,14047,215.3
+2019,valor municipio,Palenciana,14048,16.13
+2019,valor municipio,Palma del Río,14049,200.23
+2019,valor municipio,Pedro Abad,14050,23.45
+2019,valor municipio,Pedroche,14051,121.62
+2019,valor municipio,Peñarroya-Pueblonuevo,14052,64.89
+2019,valor municipio,Posadas,14053,160.28
+2019,valor municipio,Pozoblanco,14054,329.85
+2019,valor municipio,Priego de Córdoba,14055,288.12
+2019,valor municipio,Puente Genil,14056,171.01
+2019,valor municipio,Rambla (La),14057,135.65
+2019,valor municipio,Rute,14058,131.87
+2019,valor municipio,San Sebastián de los Ballesteros,14059,10.5
+2019,valor municipio,Santa Eufemia,14061,187.23
+2019,valor municipio,Santaella,14060,225.77
+2019,valor municipio,Torrecampo,14062,196.47
+2019,valor municipio,Valenzuela,14063,19.03
+2019,valor municipio,Valsequillo,14064,121.83
+2019,valor municipio,Victoria (La),14065,19.44
+2019,valor municipio,Villa del Río,14066,22.06
+2019,valor municipio,Villafranca de Córdoba,14067,58.3
+2019,valor municipio,Villaharta,14068,11.96
+2019,valor municipio,Villanueva de Córdoba,14069,429.39
+2019,valor municipio,Villanueva del Duque,14070,137.6
+2019,valor municipio,Villanueva del Rey,14071,215.82
+2019,valor municipio,Villaralto,14072,23.84
+2019,valor municipio,Villaviciosa de Córdoba,14073,468.73
+2019,valor municipio,Viso (El),14074,254.38
+2019,valor municipio,Zuheros,14075,42.28
+2019,valor municipio,Agrón,18001,26.99
+2019,valor municipio,Alamedilla,18002,90.65
+2019,valor municipio,Albolote,18003,78.53
+2019,valor municipio,Albondón,18004,34.45
+2019,valor municipio,Albuñán,18005,8.52
+2019,valor municipio,Albuñol,18006,63.08
+2019,valor municipio,Albuñuelas,18007,139.95
+2019,valor municipio,Aldeire,18010,70.02
+2019,valor municipio,Alfacar,18011,16.72
+2019,valor municipio,Algarinejo,18012,92.06
+2019,valor municipio,Alhama de Granada,18013,432.28
+2019,valor municipio,Alhendín,18014,50.77
+2019,valor municipio,Alicún de Ortega,18015,22.82
+2019,valor municipio,Almegíjar,18016,29.4
+2019,valor municipio,Almuñécar,18017,83.23
+2019,valor municipio,Alpujarra de la Sierra,18904,68.48
+2019,valor municipio,Alquife,18018,12.18
+2019,valor municipio,Arenas del Rey,18020,92.75
+2019,valor municipio,Armilla,18021,4.31
+2019,valor municipio,Atarfe,18022,47.22
+2019,valor municipio,Baza,18023,544.95
+2019,valor municipio,Beas de Granada,18024,23.18
+2019,valor municipio,Beas de Guadix,18025,16.22
+2019,valor municipio,Benalúa,18027,8.68
+2019,valor municipio,Benalúa de las Villas,18028,21.64
+2019,valor municipio,Benamaurel,18029,127.78
+2019,valor municipio,Bérchules,18030,69.53
+2019,valor municipio,Bubión,18032,14.85
+2019,valor municipio,Busquístar,18033,18.02
+2019,valor municipio,Cacín,18034,39.58
+2019,valor municipio,Cádiar,18035,47.28
+2019,valor municipio,Cájar,18036,1.65
+2019,valor municipio,Calahorra (La),18114,39.42
+2019,valor municipio,Calicasas,18037,11.24
+2019,valor municipio,Campotéjar,18038,35.79
+2019,valor municipio,Caniles,18039,216.59
+2019,valor municipio,Cáñar,18040,26.33
+2019,valor municipio,Capileira,18042,56.85
+2019,valor municipio,Carataunas,18043,4.66
+2019,valor municipio,Cástaras,18044,28.34
+2019,valor municipio,Castilléjar,18045,131.22
+2019,valor municipio,Castril,18046,243.05
+2019,valor municipio,Cenes de la Vega,18047,6.48
+2019,valor municipio,Chauchina,18059,21.2
+2019,valor municipio,Chimeneas,18061,90.27
+2019,valor municipio,Churriana de la Vega,18062,6.6
+2019,valor municipio,Cijuela,18048,17.91
+2019,valor municipio,Cogollos de Guadix,18049,30.23
+2019,valor municipio,Cogollos de la Vega,18050,49.83
+2019,valor municipio,Colomera,18051,111.9
+2019,valor municipio,Cortes de Baza,18053,140.44
+2019,valor municipio,Cortes y Graena,18054,22.44
+2019,valor municipio,Cuevas del Campo,18912,96.53
+2019,valor municipio,Cúllar,18056,427.21
+2019,valor municipio,Cúllar Vega,18057,4.34
+2019,valor municipio,Darro,18063,50.46
+2019,valor municipio,Dehesas de Guadix,18064,56.91
+2019,valor municipio,Dehesas Viejas,18065,13.79
+2019,valor municipio,Deifontes,18066,40.45
+2019,valor municipio,Diezma,18067,42.06
+2019,valor municipio,Dílar,18068,79.22
+2019,valor municipio,Dólar,18069,78.52
+2019,valor municipio,Domingo Pérez de Granada,18915,48.65
+2019,valor municipio,Dúdar,18070,8.36
+2019,valor municipio,Dúrcal,18071,76.58
+2019,valor municipio,Escúzar,18072,46.36
+2019,valor municipio,Ferreira,18074,43.55
+2019,valor municipio,Fonelas,18076,96.36
+2019,valor municipio,Fornes,18077,15.14
+2019,valor municipio,Freila,18078,74.45
+2019,valor municipio,Fuente Vaqueros,18079,16
+2019,valor municipio,Gabias (Las),18905,39.03
+2019,valor municipio,Galera,18082,118.29
+2019,valor municipio,Gobernador,18083,22.99
+2019,valor municipio,Gójar,18084,12
+2019,valor municipio,Gor,18085,180.89
+2019,valor municipio,Gorafe,18086,76.99
+2019,valor municipio,Granada,18087,88.06
+2019,valor municipio,Guadahortuna,18088,121.15
+2019,valor municipio,Guadix,18089,323.9
+2019,valor municipio,Guájares (Los),18906,89.25
+2019,valor municipio,Gualchos,18093,30.89
+2019,valor municipio,Güéjar Sierra,18094,238.76
+2019,valor municipio,Güevéjar,18095,9.74
+2019,valor municipio,Huélago,18096,32.43
+2019,valor municipio,Huéneja,18097,116.65
+2019,valor municipio,Huéscar,18098,472.98
+2019,valor municipio,Huétor de Santillán,18099,93.2
+2019,valor municipio,Huétor Tájar,18100,39.92
+2019,valor municipio,Huétor Vega,18101,4.23
+2019,valor municipio,Íllora,18102,197.3
+2019,valor municipio,Ítrabo,18103,19
+2019,valor municipio,Iznalloz,18105,247.45
+2019,valor municipio,Játar,18106,9.76
+2019,valor municipio,Jayena,18107,79.47
+2019,valor municipio,Jérez del Marquesado,18108,82.69
+2019,valor municipio,Jete,18109,13.9
+2019,valor municipio,Jun,18111,3.69
+2019,valor municipio,Juviles,18112,14.97
+2019,valor municipio,Láchar,18115,13.11
+2019,valor municipio,Lanjarón,18116,60.33
+2019,valor municipio,Lanteira,18117,52.74
+2019,valor municipio,Lecrín,18119,40.46
+2019,valor municipio,Lentegí,18120,23.74
+2019,valor municipio,Lobras,18121,16.04
+2019,valor municipio,Loja,18122,447.29
+2019,valor municipio,Lugros,18123,63.23
+2019,valor municipio,Lújar,18124,36.83
+2019,valor municipio,Malahá (La),18126,25.41
+2019,valor municipio,Maracena,18127,4.89
+2019,valor municipio,Marchal,18128,7.8
+2019,valor municipio,Moclín,18132,113.04
+2019,valor municipio,Molvízar,18133,21.45
+2019,valor municipio,Monachil,18134,88.85
+2019,valor municipio,Montefrío,18135,253.77
+2019,valor municipio,Montejícar,18136,87.51
+2019,valor municipio,Montillana,18137,75.12
+2019,valor municipio,Moraleda de Zafayona,18138,48.14
+2019,valor municipio,Morelábor,18909,38.62
+2019,valor municipio,Motril,18140,102.95
+2019,valor municipio,Murtas,18141,71.64
+2019,valor municipio,Nevada,18903,77.25
+2019,valor municipio,Nigüelas,18143,30.9
+2019,valor municipio,Nívar,18144,11.17
+2019,valor municipio,Ogíjares,18145,6.9
+2019,valor municipio,Orce,18146,324.42
+2019,valor municipio,Órgiva,18147,134.04
+2019,valor municipio,Otívar,18148,57.43
+2019,valor municipio,Padul,18150,89.09
+2019,valor municipio,Pampaneira,18151,17.46
+2019,valor municipio,Pedro Martínez,18152,136.82
+2019,valor municipio,Peligros,18153,10.14
+2019,valor municipio,Peza (La),18154,101.21
+2019,valor municipio,Pinar (El),18910,37.98
+2019,valor municipio,Pinos Genil,18157,13.98
+2019,valor municipio,Pinos Puente,18158,92.88
+2019,valor municipio,Píñar,18159,125.63
+2019,valor municipio,Polícar,18161,5.37
+2019,valor municipio,Polopos,18162,26.47
+2019,valor municipio,Pórtugos,18163,20.81
+2019,valor municipio,Puebla de Don Fadrique,18164,522.94
+2019,valor municipio,Pulianas,18165,6.33
+2019,valor municipio,Purullena,18167,21.4
+2019,valor municipio,Quéntar,18168,66.44
+2019,valor municipio,Rubite,18170,28.47
+2019,valor municipio,Salar,18171,84.3
+2019,valor municipio,Salobreña,18173,34.83
+2019,valor municipio,Santa Cruz del Comercio,18174,16.88
+2019,valor municipio,Santa Fe,18175,38.17
+2019,valor municipio,Soportújar,18176,14.15
+2019,valor municipio,Sorvilán,18177,34.3
+2019,valor municipio,Taha (La),18901,25.57
+2019,valor municipio,Torre-Cardela,18178,15.18
+2019,valor municipio,Torrenueva Costa,18916,6.46
+2019,valor municipio,Torvizcón,18179,51.39
+2019,valor municipio,Trevélez,18180,90.89
+2019,valor municipio,Turón,18181,55.53
+2019,valor municipio,Ugíjar,18182,66.9
+2019,valor municipio,Valderrubio,18914,5.53
+2019,valor municipio,Valle (El),18902,25.82
+2019,valor municipio,Valle del Zalabí,18907,108.6
+2019,valor municipio,Válor,18183,58.52
+2019,valor municipio,Vegas del Genil,18911,14.14
+2019,valor municipio,Vélez de Benaudalla,18184,79.05
+2019,valor municipio,Ventas de Huelma,18185,42.41
+2019,valor municipio,Villa de Otura,18149,24.32
+2019,valor municipio,Villamena,18908,20.17
+2019,valor municipio,Villanueva de las Torres,18187,66.84
+2019,valor municipio,Villanueva Mesía,18188,11.17
+2019,valor municipio,Víznar,18189,12.99
+2019,valor municipio,Zafarraya,18192,57.83
+2019,valor municipio,Zagra,18913,11.33
+2019,valor municipio,Zubia (La),18193,20.09
+2019,valor municipio,Zújar,18194,102.04
+2019,valor municipio,Alájar,21001,41.53
+2019,valor municipio,Aljaraque,21002,33.9
+2019,valor municipio,Almendro (El),21003,171.09
+2019,valor municipio,Almonaster la Real,21004,321.91
+2019,valor municipio,Almonte,21005,859.81
+2019,valor municipio,Alosno,21006,191.53
+2019,valor municipio,Aracena,21007,184.75
+2019,valor municipio,Aroche,21008,499.53
+2019,valor municipio,Arroyomolinos de León,21009,87.07
+2019,valor municipio,Ayamonte,21010,141.53
+2019,valor municipio,Beas,21011,144.97
+2019,valor municipio,Berrocal,21012,126.43
+2019,valor municipio,Bollullos Par del Condado,21013,49.39
+2019,valor municipio,Bonares,21014,64.89
+2019,valor municipio,Cabezas Rubias,21015,108.91
+2019,valor municipio,Cala,21016,84.04
+2019,valor municipio,Calañas,21017,238.33
+2019,valor municipio,Campillo (El),21018,90.88
+2019,valor municipio,Campofrío,21019,47.06
+2019,valor municipio,Cañaveral de León,21020,34.81
+2019,valor municipio,Cartaya,21021,225.65
+2019,valor municipio,Castaño del Robledo,21022,12.95
+2019,valor municipio,Cerro de Andévalo (El),21023,286.78
+2019,valor municipio,Chucena,21030,26.09
+2019,valor municipio,Corteconcepción,21024,49.21
+2019,valor municipio,Cortegana,21025,173.42
+2019,valor municipio,Cortelazor,21026,39.99
+2019,valor municipio,Cumbres de Enmedio,21027,13.57
+2019,valor municipio,Cumbres de San Bartolomé,21028,144.85
+2019,valor municipio,Cumbres Mayores,21029,121.81
+2019,valor municipio,Encinasola,21031,178.11
+2019,valor municipio,Escacena del Campo,21032,135.09
+2019,valor municipio,Fuenteheridos,21033,10.94
+2019,valor municipio,Galaroza,21034,22.31
+2019,valor municipio,Gibraleón,21035,329.08
+2019,valor municipio,Granada de Río-Tinto (La),21036,44.77
+2019,valor municipio,Granado (El),21037,97.84
+2019,valor municipio,Higuera de la Sierra,21038,24.52
+2019,valor municipio,Hinojales,21039,26.75
+2019,valor municipio,Hinojos,21040,320.34
+2019,valor municipio,Huelva,21041,151.82
+2019,valor municipio,Isla Cristina,21042,49.83
+2019,valor municipio,Jabugo,21043,24.96
+2019,valor municipio,Lepe,21044,127.7
+2019,valor municipio,Linares de la Sierra,21045,29.27
+2019,valor municipio,Lucena del Puerto,21046,69.86
+2019,valor municipio,Manzanilla,21047,39.69
+2019,valor municipio,Marines (Los),21048,10
+2019,valor municipio,Minas de Riotinto,21049,23.35
+2019,valor municipio,Moguer,21050,204.15
+2019,valor municipio,Nava (La),21051,61.14
+2019,valor municipio,Nerva,21052,55.48
+2019,valor municipio,Niebla,21053,223.99
+2019,valor municipio,Palma del Condado (La),21054,60.52
+2019,valor municipio,Palos de la Frontera,21055,48.93
+2019,valor municipio,Paterna del Campo,21056,132.73
+2019,valor municipio,Paymogo,21057,214.04
+2019,valor municipio,Puebla de Guzmán,21058,337.21
+2019,valor municipio,Puerto Moral,21059,19.85
+2019,valor municipio,Punta Umbría,21060,38.27
+2019,valor municipio,Rociana del Condado,21061,72.07
+2019,valor municipio,Rosal de la Frontera,21062,210
+2019,valor municipio,San Bartolomé de la Torre,21063,56.75
+2019,valor municipio,San Juan del Puerto,21064,45.39
+2019,valor municipio,San Silvestre de Guzmán,21066,48.73
+2019,valor municipio,Sanlúcar de Guadiana,21065,96.84
+2019,valor municipio,Santa Ana la Real,21067,26.62
+2019,valor municipio,Santa Bárbara de Casa,21068,146.96
+2019,valor municipio,Santa Olalla del Cala,21069,203.17
+2019,valor municipio,Trigueros,21070,118.22
+2019,valor municipio,Valdelarco,21071,14.89
+2019,valor municipio,Valverde del Camino,21072,219.06
+2019,valor municipio,Villablanca,21073,98.58
+2019,valor municipio,Villalba del Alcor,21074,62.47
+2019,valor municipio,Villanueva de las Cruces,21075,34.46
+2019,valor municipio,Villanueva de los Castillejos,21076,264.67
+2019,valor municipio,Villarrasa,21077,72.32
+2019,valor municipio,Zalamea la Real,21078,239.28
+2019,valor municipio,Zarza-Perrunal (La),21902,44.71
+2019,valor municipio,Zufre,21079,341.13
+2019,valor municipio,Albanchez de Mágina,23001,38.8
+2019,valor municipio,Alcalá la Real,23002,261.2
+2019,valor municipio,Alcaudete,23003,236.71
+2019,valor municipio,Aldeaquemada,23004,120.17
+2019,valor municipio,Andújar,23005,964.29
+2019,valor municipio,Arjona,23006,158.36
+2019,valor municipio,Arjonilla,23007,42.53
+2019,valor municipio,Arquillos,23008,65.74
+2019,valor municipio,Arroyo del Ojanco,23905,57.26
+2019,valor municipio,Baeza,23009,192.63
+2019,valor municipio,Bailén,23010,117.06
+2019,valor municipio,Baños de la Encina,23011,391.99
+2019,valor municipio,Beas de Segura,23012,159.25
+2019,valor municipio,Bedmar y Garcíez,23902,118.71
+2019,valor municipio,Begíjar,23014,42.76
+2019,valor municipio,Bélmez de la Moraleda,23015,49.4
+2019,valor municipio,Benatae,23016,44.43
+2019,valor municipio,Cabra del Santo Cristo,23017,186.88
+2019,valor municipio,Cambil,23018,139.78
+2019,valor municipio,Campillo de Arenas,23019,116.64
+2019,valor municipio,Canena,23020,14.32
+2019,valor municipio,Carboneros,23021,58.56
+2019,valor municipio,Cárcheles,23901,40.48
+2019,valor municipio,Carolina (La),23024,201.22
+2019,valor municipio,Castellar,23025,157.21
+2019,valor municipio,Castillo de Locubín,23026,102.49
+2019,valor municipio,Cazalilla,23027,46.59
+2019,valor municipio,Cazorla,23028,305.17
+2019,valor municipio,Chiclana de Segura,23029,235.8
+2019,valor municipio,Chilluévar,23030,38.75
+2019,valor municipio,Escañuela,23031,13.74
+2019,valor municipio,Espeluy,23032,25.48
+2019,valor municipio,Frailes,23033,40.31
+2019,valor municipio,Fuensanta de Martos,23034,54.01
+2019,valor municipio,Fuerte del Rey,23035,35.07
+2019,valor municipio,Génave,23037,63.53
+2019,valor municipio,Guardia de Jaén (La),23038,38.4
+2019,valor municipio,Guarromán,23039,96.15
+2019,valor municipio,Higuera de Calatrava,23041,38.74
+2019,valor municipio,Hinojares,23042,40
+2019,valor municipio,Hornos,23043,117.48
+2019,valor municipio,Huelma,23044,250.09
+2019,valor municipio,Huesa,23045,138.32
+2019,valor municipio,Ibros,23046,55.76
+2019,valor municipio,Iruela (La),23047,123.87
+2019,valor municipio,Iznatoraf,23048,86.47
+2019,valor municipio,Jabalquinto,23049,73.19
+2019,valor municipio,Jaén,23050,423.93
+2019,valor municipio,Jamilena,23051,8.98
+2019,valor municipio,Jimena,23052,48.01
+2019,valor municipio,Jódar,23053,148.66
+2019,valor municipio,Lahiguera,23040,44.73
+2019,valor municipio,Larva,23054,41.73
+2019,valor municipio,Linares,23055,196.56
+2019,valor municipio,Lopera,23056,67.86
+2019,valor municipio,Lupión,23057,24.31
+2019,valor municipio,Mancha Real,23058,97.63
+2019,valor municipio,Marmolejo,23059,177.97
+2019,valor municipio,Martos,23060,260.95
+2019,valor municipio,Mengíbar,23061,62.3
+2019,valor municipio,Montizón,23062,211.79
+2019,valor municipio,Navas de San Juan,23063,175.63
+2019,valor municipio,Noalejo,23064,49.77
+2019,valor municipio,Orcera,23065,126.1
+2019,valor municipio,Peal de Becerro,23066,147.24
+2019,valor municipio,Pegalajar,23067,79.89
+2019,valor municipio,Porcuna,23069,175.48
+2019,valor municipio,Pozo Alcón,23070,138.5
+2019,valor municipio,Puente de Génave,23071,38.81
+2019,valor municipio,Puerta de Segura (La),23072,97.38
+2019,valor municipio,Quesada,23073,328.09
+2019,valor municipio,Rus,23074,47.08
+2019,valor municipio,Sabiote,23075,112.11
+2019,valor municipio,Santa Elena,23076,145.36
+2019,valor municipio,Santiago de Calatrava,23077,47.51
+2019,valor municipio,Santiago-Pontones,23904,682.3
+2019,valor municipio,Santisteban del Puerto,23079,372.62
+2019,valor municipio,Santo Tomé,23080,73.42
+2019,valor municipio,Segura de la Sierra,23081,224.83
+2019,valor municipio,Siles,23082,177.69
+2019,valor municipio,Sorihuela del Guadalimar,23084,55.26
+2019,valor municipio,Torreblascopedro,23085,61.38
+2019,valor municipio,Torredelcampo,23086,182.05
+2019,valor municipio,Torredonjimeno,23087,157.68
+2019,valor municipio,Torreperogil,23088,90.87
+2019,valor municipio,Torres,23090,79.98
+2019,valor municipio,Torres de Albánchez,23091,64.83
+2019,valor municipio,Úbeda,23092,403.45
+2019,valor municipio,Valdepeñas de Jaén,23093,183.68
+2019,valor municipio,Vilches,23094,273.38
+2019,valor municipio,Villacarrillo,23095,239.37
+2019,valor municipio,Villanueva de la Reina,23096,209.12
+2019,valor municipio,Villanueva del Arzobispo,23097,177.67
+2019,valor municipio,Villardompardo,23098,17.46
+2019,valor municipio,Villares (Los),23099,88.55
+2019,valor municipio,Villarrodrigo,23101,78.43
+2019,valor municipio,Villatorres,23903,72.62
+2019,valor municipio,Alameda,29001,65.09
+2019,valor municipio,Alcaucín,29002,45.1
+2019,valor municipio,Alfarnate,29003,33.97
+2019,valor municipio,Alfarnatejo,29004,20.35
+2019,valor municipio,Algarrobo,29005,9.7
+2019,valor municipio,Algatocín,29006,19.72
+2019,valor municipio,Alhaurín de la Torre,29007,82.67
+2019,valor municipio,Alhaurín el Grande,29008,73.08
+2019,valor municipio,Almáchar,29009,14.39
+2019,valor municipio,Almargen,29010,34.37
+2019,valor municipio,Almogía,29011,162.83
+2019,valor municipio,Álora,29012,169.58
+2019,valor municipio,Alozaina,29013,33.85
+2019,valor municipio,Alpandeire,29014,31.25
+2019,valor municipio,Antequera,29015,749.2
+2019,valor municipio,Árchez,29016,4.79
+2019,valor municipio,Archidona,29017,186.18
+2019,valor municipio,Ardales,29018,106.45
+2019,valor municipio,Arenas,29019,26.29
+2019,valor municipio,Arriate,29020,8.27
+2019,valor municipio,Atajate,29021,10.9
+2019,valor municipio,Benadalid,29022,20.68
+2019,valor municipio,Benahavís,29023,145.4
+2019,valor municipio,Benalauría,29024,19.75
+2019,valor municipio,Benalmádena,29025,26.8
+2019,valor municipio,Benamargosa,29026,12.11
+2019,valor municipio,Benamocarra,29027,5.73
+2019,valor municipio,Benaoján,29028,32
+2019,valor municipio,Benarrabá,29029,24.9
+2019,valor municipio,Borge (El),29030,24.38
+2019,valor municipio,Burgo (El),29031,118.35
+2019,valor municipio,Campillos,29032,187.42
+2019,valor municipio,Canillas de Aceituno,29033,42
+2019,valor municipio,Canillas de Albaida,29034,33.2
+2019,valor municipio,Cañete la Real,29035,164.97
+2019,valor municipio,Carratraca,29036,22.56
+2019,valor municipio,Cartajima,29037,21.47
+2019,valor municipio,Cártama,29038,105.07
+2019,valor municipio,Casabermeja,29039,67.26
+2019,valor municipio,Casarabonela,29040,113.72
+2019,valor municipio,Casares,29041,162.37
+2019,valor municipio,Coín,29042,127.34
+2019,valor municipio,Colmenar,29043,65.92
+2019,valor municipio,Comares,29044,25.49
+2019,valor municipio,Cómpeta,29045,54.2
+2019,valor municipio,Cortes de la Frontera,29046,175.34
+2019,valor municipio,Cuevas Bajas,29047,16.51
+2019,valor municipio,Cuevas de San Marcos,29049,36.87
+2019,valor municipio,Cuevas del Becerro,29048,16.3
+2019,valor municipio,Cútar,29050,19.41
+2019,valor municipio,Estepona,29051,137.35
+2019,valor municipio,Faraján,29052,20.41
+2019,valor municipio,Frigiliana,29053,40.49
+2019,valor municipio,Fuengirola,29054,10.31
+2019,valor municipio,Fuente de Piedra,29055,90.53
+2019,valor municipio,Gaucín,29056,98.26
+2019,valor municipio,Genalguacil,29057,31.87
+2019,valor municipio,Guaro,29058,22.39
+2019,valor municipio,Humilladero,29059,34.65
+2019,valor municipio,Igualeja,29060,43.87
+2019,valor municipio,Istán,29061,99.28
+2019,valor municipio,Iznate,29062,7.46
+2019,valor municipio,Jimera de Líbar,29063,27.18
+2019,valor municipio,Jubrique,29064,39.33
+2019,valor municipio,Júzcar,29065,33.66
+2019,valor municipio,Macharaviaya,29066,7.26
+2019,valor municipio,Málaga,29067,394.88
+2019,valor municipio,Manilva,29068,35.55
+2019,valor municipio,Marbella,29069,117.11
+2019,valor municipio,Mijas,29070,148.68
+2019,valor municipio,Moclinejo,29071,14.28
+2019,valor municipio,Mollina,29072,74.54
+2019,valor municipio,Monda,29073,57.65
+2019,valor municipio,Montecorto,29903,54.5
+2019,valor municipio,Montejaque,29074,45.47
+2019,valor municipio,Nerja,29075,85.02
+2019,valor municipio,Ojén,29076,85.6
+2019,valor municipio,Parauta,29077,44.46
+2019,valor municipio,Periana,29079,58.73
+2019,valor municipio,Pizarra,29080,63.6
+2019,valor municipio,Pujerra,29081,24.39
+2019,valor municipio,Rincón de la Victoria,29082,27.87
+2019,valor municipio,Riogordo,29083,39.97
+2019,valor municipio,Ronda,29084,397.34
+2019,valor municipio,Salares,29085,10.28
+2019,valor municipio,Sayalonga,29086,18.29
+2019,valor municipio,Sedella,29087,31.6
+2019,valor municipio,Serrato,29904,29.11
+2019,valor municipio,Sierra de Yeguas,29088,85.62
+2019,valor municipio,Teba,29089,143.73
+2019,valor municipio,Tolox,29090,94.43
+2019,valor municipio,Torremolinos,29901,19.87
+2019,valor municipio,Torrox,29091,49.94
+2019,valor municipio,Totalán,29092,9.2
+2019,valor municipio,Valle de Abdalajís,29093,21.17
+2019,valor municipio,Vélez-Málaga,29094,157.94
+2019,valor municipio,Villanueva de Algaidas,29095,70.74
+2019,valor municipio,Villanueva de la Concepción,29902,66.41
+2019,valor municipio,Villanueva de Tapia,29098,21.86
+2019,valor municipio,Villanueva del Rosario,29096,43.94
+2019,valor municipio,Villanueva del Trabuco,29097,59.14
+2019,valor municipio,Viñuela,29099,27.2
+2019,valor municipio,Yunquera,29100,55.15
+2019,valor municipio,Aguadulce,41001,13.69
+2019,valor municipio,Alanís,41002,281.2
+2019,valor municipio,Albaida del Aljarafe,41003,10.93
+2019,valor municipio,Alcalá de Guadaíra,41004,285.21
+2019,valor municipio,Alcalá del Río,41005,82.65
+2019,valor municipio,Alcolea del Río,41006,50.2
+2019,valor municipio,Algaba (La),41007,18.13
+2019,valor municipio,Algámitas,41008,20.43
+2019,valor municipio,Almadén de la Plata,41009,256.02
+2019,valor municipio,Almensilla,41010,14.11
+2019,valor municipio,Arahal,41011,201.23
+2019,valor municipio,Aznalcázar,41012,450.21
+2019,valor municipio,Aznalcóllar,41013,199.47
+2019,valor municipio,Badolatosa,41014,47.78
+2019,valor municipio,Benacazón,41015,32.17
+2019,valor municipio,Bollullos de la Mitación,41016,62.61
+2019,valor municipio,Bormujos,41017,12.24
+2019,valor municipio,Brenes,41018,21.48
+2019,valor municipio,Burguillos,41019,43.18
+2019,valor municipio,Cabezas de San Juan (Las),41020,229.9
+2019,valor municipio,Camas,41021,11.66
+2019,valor municipio,Campana (La),41022,125.81
+2019,valor municipio,Cantillana,41023,107.11
+2019,valor municipio,Cañada Rosal,41901,25.83
+2019,valor municipio,Carmona,41024,922.57
+2019,valor municipio,Carrión de los Céspedes,41025,6.04
+2019,valor municipio,Casariche,41026,52.88
+2019,valor municipio,Castilblanco de los Arroyos,41027,323.84
+2019,valor municipio,Castilleja de Guzmán,41028,2.04
+2019,valor municipio,Castilleja de la Cuesta,41029,2.17
+2019,valor municipio,Castilleja del Campo,41030,16.24
+2019,valor municipio,Castillo de las Guardas (El),41031,259.07
+2019,valor municipio,Cazalla de la Sierra,41032,356.39
+2019,valor municipio,Constantina,41033,481.57
+2019,valor municipio,Coria del Río,41034,62.07
+2019,valor municipio,Coripe,41035,51.47
+2019,valor municipio,Coronil (El),41036,91.69
+2019,valor municipio,Corrales (Los),41037,67.53
+2019,valor municipio,Cuervo de Sevilla (El),41903,30.47
+2019,valor municipio,Dos Hermanas,41038,160.73
+2019,valor municipio,Écija,41039,978.51
+2019,valor municipio,Espartinas,41040,22.71
+2019,valor municipio,Estepa,41041,189.95
+2019,valor municipio,Fuentes de Andalucía,41042,150.56
+2019,valor municipio,Garrobo (El),41043,44.37
+2019,valor municipio,Gelves,41044,8.07
+2019,valor municipio,Gerena,41045,129.22
+2019,valor municipio,Gilena,41046,50.96
+2019,valor municipio,Gines,41047,2.91
+2019,valor municipio,Guadalcanal,41048,275.09
+2019,valor municipio,Guillena,41049,227.14
+2019,valor municipio,Herrera,41050,53.47
+2019,valor municipio,Huévar del Aljarafe,41051,57.67
+2019,valor municipio,Isla Mayor,41902,114.51
+2019,valor municipio,Lantejuela,41052,17.75
+2019,valor municipio,Lebrija,41053,375.58
+2019,valor municipio,Lora de Estepa,41054,18.08
+2019,valor municipio,Lora del Río,41055,294.37
+2019,valor municipio,Luisiana (La),41056,42.98
+2019,valor municipio,Madroño (El),41057,103.07
+2019,valor municipio,Mairena del Alcor,41058,69.96
+2019,valor municipio,Mairena del Aljarafe,41059,17.71
+2019,valor municipio,Marchena,41060,378.66
+2019,valor municipio,Marinaleda,41061,24.82
+2019,valor municipio,Martín de la Jara,41062,49.23
+2019,valor municipio,Molares (Los),41063,42.78
+2019,valor municipio,Montellano,41064,116.77
+2019,valor municipio,Morón de la Frontera,41065,432.08
+2019,valor municipio,Navas de la Concepción (Las),41066,63.38
+2019,valor municipio,Olivares,41067,45.54
+2019,valor municipio,Osuna,41068,592.29
+2019,valor municipio,Palacios y Villafranca (Los),41069,109.56
+2019,valor municipio,Palmar de Troya (El),41904,33.04
+2019,valor municipio,Palomares del Río,41070,13.13
+2019,valor municipio,Paradas,41071,109.82
+2019,valor municipio,Pedrera,41072,60.63
+2019,valor municipio,Pedroso (El),41073,314.34
+2019,valor municipio,Peñaflor,41074,82.91
+2019,valor municipio,Pilas,41075,46
+2019,valor municipio,Pruna,41076,100.65
+2019,valor municipio,Puebla de Cazalla (La),41077,189.84
+2019,valor municipio,Puebla de los Infantes (La),41078,154.28
+2019,valor municipio,Puebla del Río (La),41079,375.21
+2019,valor municipio,Real de la Jara (El),41080,157.5
+2019,valor municipio,Rinconada (La),41081,138.8
+2019,valor municipio,Roda de Andalucía (La),41082,76.67
+2019,valor municipio,Ronquillo (El),41083,76.61
+2019,valor municipio,Rubio (El),41084,20.8
+2019,valor municipio,Salteras,41085,57.45
+2019,valor municipio,San Juan de Aznalfarache,41086,4.08
+2019,valor municipio,San Nicolás del Puerto,41088,45.01
+2019,valor municipio,Sanlúcar la Mayor,41087,136.33
+2019,valor municipio,Santiponce,41089,8.41
+2019,valor municipio,Saucejo (El),41090,92.3
+2019,valor municipio,Sevilla,41091,141.63
+2019,valor municipio,Tocina,41092,15.63
+2019,valor municipio,Tomares,41093,5.17
+2019,valor municipio,Umbrete,41094,12.48
+2019,valor municipio,Utrera,41095,651.74
+2019,valor municipio,Valencina de la Concepción,41096,25.17
+2019,valor municipio,Villamanrique de la Condesa,41097,57.74
+2019,valor municipio,Villanueva de San Juan,41100,34.75
+2019,valor municipio,Villanueva del Ariscal,41098,4.72
+2019,valor municipio,Villanueva del Río y Minas,41099,150.8
+2019,valor municipio,Villaverde del Río,41101,41.18
+2019,valor municipio,Viso del Alcor (El),41102,20.23
