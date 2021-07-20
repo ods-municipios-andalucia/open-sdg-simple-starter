@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Variable",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Tasa de paro",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Municipio",
             "type": "string",
             "constraints": {

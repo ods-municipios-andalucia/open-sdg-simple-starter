@@ -2490,17 +2490,6 @@
             "title": "Value"
           },
           {
-            "name": "Variable",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Tasa de paro"
-              ]
-            },
-            "title": "Variable"
-          },
-          {
             "name": "Year",
             "type": "integer",
             "title": "Year"

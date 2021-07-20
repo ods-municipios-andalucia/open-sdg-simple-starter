@@ -1,787 +1,787 @@
-Year,Variable,Municipio,GeoCode,Value
-2020,Tasa de paro,,,26.47
-2020,Tasa de paro,Abla,4001.0,20.03
-2020,Tasa de paro,Abrucena,4002.0,22.46
-2020,Tasa de paro,Adra,4003.0,21.87
-2020,Tasa de paro,Albanchez,4004.0,16.53
-2020,Tasa de paro,Alboloduy,4005.0,18.43
-2020,Tasa de paro,Albox,4006.0,20.17
-2020,Tasa de paro,Alcolea,4007.0,26.17
-2020,Tasa de paro,Alcóntar,4008.0,14.13
-2020,Tasa de paro,Alcudia de Monteagud,4009.0,12.96
-2020,Tasa de paro,Alhabia,4010.0,27.06
-2020,Tasa de paro,Alhama de Almería,4011.0,23.82
-2020,Tasa de paro,Alicún,4012.0,26.92
-2020,Tasa de paro,Almería,4013.0,25.27
-2020,Tasa de paro,Almócita,4014.0,17.23
-2020,Tasa de paro,Alsodux,4015.0,18.08
-2020,Tasa de paro,Antas,4016.0,12.88
-2020,Tasa de paro,Arboleas,4017.0,19.03
-2020,Tasa de paro,Armuña de Almanzora,4018.0,14.04
-2020,Tasa de paro,Bacares,4019.0,19.21
-2020,Tasa de paro,Bayárcal,4020.0,16.08
-2020,Tasa de paro,Bayarque,4021.0,17.61
-2020,Tasa de paro,Bédar,4022.0,20.11
-2020,Tasa de paro,Beires,4023.0,21.31
-2020,Tasa de paro,Benahadux,4024.0,20.81
-2020,Tasa de paro,Benitagla,4026.0,9.78
-2020,Tasa de paro,Benizalón,4027.0,17.69
-2020,Tasa de paro,Bentarique,4028.0,24.51
-2020,Tasa de paro,Berja,4029.0,23.48
-2020,Tasa de paro,Canjáyar,4030.0,29.41
-2020,Tasa de paro,Cantoria,4031.0,20.71
-2020,Tasa de paro,Carboneras,4032.0,23.05
-2020,Tasa de paro,Castro de Filabres,4033.0,11.19
-2020,Tasa de paro,Cóbdar,4034.0,17.18
-2020,Tasa de paro,Cuevas del Almanzora,4035.0,19.41
-2020,Tasa de paro,Chercos,4036.0,19.34
-2020,Tasa de paro,Chirivel,4037.0,15.27
-2020,Tasa de paro,Dalías,4038.0,15.64
-2020,Tasa de paro,Enix,4041.0,11.55
-2020,Tasa de paro,Felix,4043.0,14.46
-2020,Tasa de paro,Fines,4044.0,21.42
-2020,Tasa de paro,Fiñana,4045.0,25.0
-2020,Tasa de paro,Fondón,4046.0,18.22
-2020,Tasa de paro,Gádor,4047.0,30.44
-2020,Tasa de paro,"Gallardos, Los",4048.0,17.15
-2020,Tasa de paro,Garrucha,4049.0,26.71
-2020,Tasa de paro,Gérgal,4050.0,22.38
-2020,Tasa de paro,Huécija,4051.0,15.22
-2020,Tasa de paro,Huércal de Almería,4052.0,20.47
-2020,Tasa de paro,Huércal-Overa,4053.0,17.95
-2020,Tasa de paro,Íllar,4054.0,20.84
-2020,Tasa de paro,Instinción,4055.0,20.05
-2020,Tasa de paro,Laroya,4056.0,16.99
-2020,Tasa de paro,Láujar de Andarax,4057.0,21.11
-2020,Tasa de paro,Líjar,4058.0,22.88
-2020,Tasa de paro,Lubrín,4059.0,18.78
-2020,Tasa de paro,Lucainena de las Torres,4060.0,22.32
-2020,Tasa de paro,Lúcar,4061.0,22.84
-2020,Tasa de paro,Macael,4062.0,22.37
-2020,Tasa de paro,María,4063.0,14.81
-2020,Tasa de paro,Mojácar,4064.0,21.38
-2020,Tasa de paro,Nacimiento,4065.0,17.12
-2020,Tasa de paro,Níjar,4066.0,16.98
-2020,Tasa de paro,Ohanes,4067.0,28.34
-2020,Tasa de paro,Olula de Castro,4068.0,12.94
-2020,Tasa de paro,Olula del Río,4069.0,25.7
-2020,Tasa de paro,Oria,4070.0,16.06
-2020,Tasa de paro,Padules,4071.0,20.14
-2020,Tasa de paro,Partaloa,4072.0,16.81
-2020,Tasa de paro,Paterna del Río,4073.0,22.47
-2020,Tasa de paro,Pechina,4074.0,28.35
-2020,Tasa de paro,Pulpí,4075.0,9.24
-2020,Tasa de paro,Purchena,4076.0,20.6
-2020,Tasa de paro,Rágol,4077.0,19.21
-2020,Tasa de paro,Rioja,4078.0,32.05
-2020,Tasa de paro,Roquetas de Mar,4079.0,22.06
-2020,Tasa de paro,Santa Cruz de Marchena,4080.0,21.57
-2020,Tasa de paro,Santa Fe de Mondújar,4081.0,30.52
-2020,Tasa de paro,Senés,4082.0,22.07
-2020,Tasa de paro,Serón,4083.0,17.09
-2020,Tasa de paro,Sierro,4084.0,25.35
-2020,Tasa de paro,Somontín,4085.0,18.06
-2020,Tasa de paro,Sorbas,4086.0,24.15
-2020,Tasa de paro,Suflí,4087.0,26.15
-2020,Tasa de paro,Tabernas,4088.0,26.05
-2020,Tasa de paro,Taberno,4089.0,19.31
-2020,Tasa de paro,Tahal,4090.0,14.42
-2020,Tasa de paro,Terque,4091.0,24.71
-2020,Tasa de paro,Tíjola,4092.0,19.21
-2020,Tasa de paro,Turre,4093.0,28.82
-2020,Tasa de paro,Turrillas,4094.0,17.77
-2020,Tasa de paro,Uleila del Campo,4095.0,20.46
-2020,Tasa de paro,Urrácal,4096.0,20.06
-2020,Tasa de paro,Velefique,4097.0,19.28
-2020,Tasa de paro,Vélez-Blanco,4098.0,17.88
-2020,Tasa de paro,Vélez-Rubio,4099.0,20.23
-2020,Tasa de paro,Vera,4100.0,23.65
-2020,Tasa de paro,Viator,4101.0,22.96
-2020,Tasa de paro,Vícar,4102.0,20.15
-2020,Tasa de paro,Zurgena,4103.0,22.25
-2020,Tasa de paro,"Tres Villas, Las",4901.0,21.28
-2020,Tasa de paro,"Ejido, El",4902.0,16.67
-2020,Tasa de paro,"Mojonera, La",4903.0,15.82
-2020,Tasa de paro,Balanegra,4904.0,13.76
-2020,Tasa de paro,Alcalá de los Gazules,11001.0,34.67
-2020,Tasa de paro,Alcalá del Valle,11002.0,29.39
-2020,Tasa de paro,Algar,11003.0,30.25
-2020,Tasa de paro,Algeciras,11004.0,32.74
-2020,Tasa de paro,Algodonales,11005.0,29.68
-2020,Tasa de paro,Arcos de la Frontera,11006.0,40.59
-2020,Tasa de paro,Barbate,11007.0,44.25
-2020,Tasa de paro,"Barrios, Los",11008.0,28.28
-2020,Tasa de paro,Benaocaz,11009.0,25.75
-2020,Tasa de paro,Bornos,11010.0,33.69
-2020,Tasa de paro,"Bosque, El",11011.0,28.85
-2020,Tasa de paro,Cádiz,11012.0,31.3
-2020,Tasa de paro,Castellar de la Frontera,11013.0,28.35
-2020,Tasa de paro,Conil de la Frontera,11014.0,30.28
-2020,Tasa de paro,Chiclana de la Frontera,11015.0,35.68
-2020,Tasa de paro,Chipiona,11016.0,36.6
-2020,Tasa de paro,Espera,11017.0,31.25
-2020,Tasa de paro,"Gastor, El",11018.0,27.68
-2020,Tasa de paro,Grazalema,11019.0,29.64
-2020,Tasa de paro,Jerez de la Frontera,11020.0,34.62
-2020,Tasa de paro,Jimena de la Frontera,11021.0,29.32
-2020,Tasa de paro,"Línea de la Concepción, La",11022.0,43.16
-2020,Tasa de paro,Medina Sidonia,11023.0,34.14
-2020,Tasa de paro,Olvera,11024.0,25.79
-2020,Tasa de paro,Paterna de Rivera,11025.0,37.82
-2020,Tasa de paro,Prado del Rey,11026.0,37.09
-2020,Tasa de paro,"Puerto de Santa María, El",11027.0,32.81
-2020,Tasa de paro,Puerto Real,11028.0,32.59
-2020,Tasa de paro,Puerto Serrano,11029.0,24.71
-2020,Tasa de paro,Rota,11030.0,29.91
-2020,Tasa de paro,San Fernando,11031.0,35.16
-2020,Tasa de paro,Sanlúcar de Barrameda,11032.0,34.48
-2020,Tasa de paro,San Roque,11033.0,31.52
-2020,Tasa de paro,Setenil de las Bodegas,11034.0,23.59
-2020,Tasa de paro,Tarifa,11035.0,30.62
-2020,Tasa de paro,Torre Alháquime,11036.0,29.1
-2020,Tasa de paro,Trebujena,11037.0,26.77
-2020,Tasa de paro,Ubrique,11038.0,32.43
-2020,Tasa de paro,Vejer de la Frontera,11039.0,36.74
-2020,Tasa de paro,Villaluenga del Rosario,11040.0,20.5
-2020,Tasa de paro,Villamartín,11041.0,34.2
-2020,Tasa de paro,Zahara,11042.0,26.58
-2020,Tasa de paro,Benalup-Casas Viejas,11901.0,32.07
-2020,Tasa de paro,San José del Valle,11902.0,31.95
-2020,Tasa de paro,San Martín del Tesorillo,11903.0,
-2020,Tasa de paro,Adamuz,14001.0,20.68
-2020,Tasa de paro,Aguilar de la Frontera,14002.0,23.79
-2020,Tasa de paro,Alcaracejos,14003.0,25.66
-2020,Tasa de paro,Almedinilla,14004.0,19.68
-2020,Tasa de paro,Almodóvar del Río,14005.0,31.13
-2020,Tasa de paro,Añora,14006.0,24.28
-2020,Tasa de paro,Baena,14007.0,23.54
-2020,Tasa de paro,Belalcázar,14008.0,33.28
-2020,Tasa de paro,Belmez,14009.0,42.92
-2020,Tasa de paro,Benamejí,14010.0,23.64
-2020,Tasa de paro,"Blázquez, Los",14011.0,33.59
-2020,Tasa de paro,Bujalance,14012.0,24.65
-2020,Tasa de paro,Cabra,14013.0,24.09
-2020,Tasa de paro,Cañete de las Torres,14014.0,21.03
-2020,Tasa de paro,Carcabuey,14015.0,18.79
-2020,Tasa de paro,Cardeña,14016.0,23.16
-2020,Tasa de paro,"Carlota, La",14017.0,23.33
-2020,Tasa de paro,"Carpio, El",14018.0,27.68
-2020,Tasa de paro,Castro del Río,14019.0,20.79
-2020,Tasa de paro,Conquista,14020.0,24.33
-2020,Tasa de paro,Córdoba,14021.0,28.06
-2020,Tasa de paro,Doña Mencía,14022.0,22.42
-2020,Tasa de paro,Dos Torres,14023.0,22.52
-2020,Tasa de paro,Encinas Reales,14024.0,25.01
-2020,Tasa de paro,Espejo,14025.0,19.65
-2020,Tasa de paro,Espiel,14026.0,27.01
-2020,Tasa de paro,Fernán-Núñez,14027.0,23.16
-2020,Tasa de paro,Fuente la Lancha,14028.0,38.5
-2020,Tasa de paro,Fuente Obejuna,14029.0,36.42
-2020,Tasa de paro,Fuente Palmera,14030.0,20.6
-2020,Tasa de paro,Fuente-Tójar,14031.0,22.06
-2020,Tasa de paro,"Granjuela, La",14032.0,38.71
-2020,Tasa de paro,Guadalcázar,14033.0,24.7
-2020,Tasa de paro,"Guijo, El",14034.0,21.19
-2020,Tasa de paro,Hinojosa del Duque,14035.0,30.9
-2020,Tasa de paro,Hornachuelos,14036.0,22.79
-2020,Tasa de paro,Iznájar,14037.0,18.71
-2020,Tasa de paro,Lucena,14038.0,26.6
-2020,Tasa de paro,Luque,14039.0,23.39
-2020,Tasa de paro,Montalbán de Córdoba,14040.0,13.65
-2020,Tasa de paro,Montemayor,14041.0,21.91
-2020,Tasa de paro,Montilla,14042.0,22.57
-2020,Tasa de paro,Montoro,14043.0,24.2
-2020,Tasa de paro,Monturque,14044.0,21.21
-2020,Tasa de paro,Moriles,14045.0,23.21
-2020,Tasa de paro,Nueva Carteya,14046.0,20.36
-2020,Tasa de paro,Obejo,14047.0,29.44
-2020,Tasa de paro,Palenciana,14048.0,21.63
-2020,Tasa de paro,Palma del Río,14049.0,24.49
-2020,Tasa de paro,Pedro Abad,14050.0,26.39
-2020,Tasa de paro,Pedroche,14051.0,25.95
-2020,Tasa de paro,Peñarroya-Pueblonuevo,14052.0,40.82
-2020,Tasa de paro,Posadas,14053.0,24.08
-2020,Tasa de paro,Pozoblanco,14054.0,21.6
-2020,Tasa de paro,Priego de Córdoba,14055.0,23.87
-2020,Tasa de paro,Puente Genil,14056.0,27.93
-2020,Tasa de paro,"Rambla, La",14057.0,16.76
-2020,Tasa de paro,Rute,14058.0,19.22
-2020,Tasa de paro,San Sebastián de los Ballesteros,14059.0,21.66
-2020,Tasa de paro,Santaella,14060.0,19.59
-2020,Tasa de paro,Santa Eufemia,14061.0,26.92
-2020,Tasa de paro,Torrecampo,14062.0,21.94
-2020,Tasa de paro,Valenzuela,14063.0,19.16
-2020,Tasa de paro,Valsequillo,14064.0,28.04
-2020,Tasa de paro,"Victoria, La",14065.0,24.0
-2020,Tasa de paro,Villa del Río,14066.0,25.49
-2020,Tasa de paro,Villafranca de Córdoba,14067.0,24.67
-2020,Tasa de paro,Villaharta,14068.0,33.73
-2020,Tasa de paro,Villanueva de Córdoba,14069.0,21.77
-2020,Tasa de paro,Villanueva del Duque,14070.0,24.37
-2020,Tasa de paro,Villanueva del Rey,14071.0,31.37
-2020,Tasa de paro,Villaralto,14072.0,23.51
-2020,Tasa de paro,Villaviciosa de Córdoba,14073.0,28.21
-2020,Tasa de paro,"Viso, El",14074.0,25.39
-2020,Tasa de paro,Zuheros,14075.0,24.38
-2020,Tasa de paro,Fuente Carreteros,14901.0,
-2020,Tasa de paro,"Guijarrosa, La",14902.0,
-2020,Tasa de paro,Agrón,18001.0,32.97
-2020,Tasa de paro,Alamedilla,18002.0,26.63
-2020,Tasa de paro,Albolote,18003.0,23.5
-2020,Tasa de paro,Albondón,18004.0,22.84
-2020,Tasa de paro,Albuñán,18005.0,21.35
-2020,Tasa de paro,Albuñol,18006.0,16.97
-2020,Tasa de paro,Albuñuelas,18007.0,27.15
-2020,Tasa de paro,Aldeire,18010.0,26.99
-2020,Tasa de paro,Alfacar,18011.0,24.7
-2020,Tasa de paro,Algarinejo,18012.0,24.28
-2020,Tasa de paro,Alhama de Granada,18013.0,17.0
-2020,Tasa de paro,Alhendín,18014.0,24.65
-2020,Tasa de paro,Alicún de Ortega,18015.0,24.91
-2020,Tasa de paro,Almegíjar,18016.0,22.05
-2020,Tasa de paro,Almuñécar,18017.0,29.32
-2020,Tasa de paro,Alquife,18018.0,22.65
-2020,Tasa de paro,Arenas del Rey,18020.0,25.92
-2020,Tasa de paro,Armilla,18021.0,26.82
-2020,Tasa de paro,Atarfe,18022.0,27.37
-2020,Tasa de paro,Baza,18023.0,21.81
-2020,Tasa de paro,Beas de Granada,18024.0,19.52
-2020,Tasa de paro,Beas de Guadix,18025.0,30.98
-2020,Tasa de paro,Benalúa,18027.0,34.58
-2020,Tasa de paro,Benalúa de las Villas,18028.0,17.21
-2020,Tasa de paro,Benamaurel,18029.0,23.77
-2020,Tasa de paro,Bérchules,18030.0,20.17
-2020,Tasa de paro,Bubión,18032.0,28.88
-2020,Tasa de paro,Busquístar,18033.0,31.55
-2020,Tasa de paro,Cacín,18034.0,21.84
-2020,Tasa de paro,Cádiar,18035.0,25.11
-2020,Tasa de paro,Cájar,18036.0,21.64
-2020,Tasa de paro,Calicasas,18037.0,23.26
-2020,Tasa de paro,Campotéjar,18038.0,19.47
-2020,Tasa de paro,Caniles,18039.0,21.66
-2020,Tasa de paro,Cáñar,18040.0,33.67
-2020,Tasa de paro,Capileira,18042.0,22.2
-2020,Tasa de paro,Carataunas,18043.0,33.89
-2020,Tasa de paro,Cástaras,18044.0,14.95
-2020,Tasa de paro,Castilléjar,18045.0,25.74
-2020,Tasa de paro,Castril,18046.0,22.97
-2020,Tasa de paro,Cenes de la Vega,18047.0,26.24
-2020,Tasa de paro,Cijuela,18048.0,25.36
-2020,Tasa de paro,Cogollos de Guadix,18049.0,27.3
-2020,Tasa de paro,Cogollos de la Vega,18050.0,26.26
-2020,Tasa de paro,Colomera,18051.0,23.63
-2020,Tasa de paro,Cortes de Baza,18053.0,27.6
-2020,Tasa de paro,Cortes y Graena,18054.0,25.84
-2020,Tasa de paro,Cúllar,18056.0,21.17
-2020,Tasa de paro,Cúllar Vega,18057.0,24.61
-2020,Tasa de paro,Chauchina,18059.0,24.54
-2020,Tasa de paro,Chimeneas,18061.0,25.46
-2020,Tasa de paro,Churriana de la Vega,18062.0,25.56
-2020,Tasa de paro,Darro,18063.0,32.5
-2020,Tasa de paro,Dehesas de Guadix,18064.0,20.12
-2020,Tasa de paro,Dehesas Viejas,18065.0,21.23
-2020,Tasa de paro,Deifontes,18066.0,28.26
-2020,Tasa de paro,Diezma,18067.0,26.25
-2020,Tasa de paro,Dílar,18068.0,23.07
-2020,Tasa de paro,Dólar,18069.0,18.32
-2020,Tasa de paro,Dúdar,18070.0,17.7
-2020,Tasa de paro,Dúrcal,18071.0,29.73
-2020,Tasa de paro,Escúzar,18072.0,25.62
-2020,Tasa de paro,Ferreira,18074.0,16.23
-2020,Tasa de paro,Fonelas,18076.0,28.51
-2020,Tasa de paro,Fornes,18077.0,
-2020,Tasa de paro,Freila,18078.0,23.13
-2020,Tasa de paro,Fuente Vaqueros,18079.0,32.77
-2020,Tasa de paro,Galera,18082.0,27.22
-2020,Tasa de paro,Gobernador,18083.0,18.95
-2020,Tasa de paro,Gójar,18084.0,23.19
-2020,Tasa de paro,Gor,18085.0,22.81
-2020,Tasa de paro,Gorafe,18086.0,36.43
-2020,Tasa de paro,Granada,18087.0,28.4
-2020,Tasa de paro,Guadahortuna,18088.0,33.26
-2020,Tasa de paro,Guadix,18089.0,24.99
-2020,Tasa de paro,Gualchos,18093.0,14.67
-2020,Tasa de paro,Güéjar Sierra,18094.0,23.1
-2020,Tasa de paro,Güevéjar,18095.0,29.01
-2020,Tasa de paro,Huélago,18096.0,29.15
-2020,Tasa de paro,Huéneja,18097.0,19.23
-2020,Tasa de paro,Huéscar,18098.0,23.03
-2020,Tasa de paro,Huétor de Santillán,18099.0,25.17
-2020,Tasa de paro,Huétor Tájar,18100.0,20.37
-2020,Tasa de paro,Huétor Vega,18101.0,22.04
-2020,Tasa de paro,Íllora,18102.0,24.24
-2020,Tasa de paro,Ítrabo,18103.0,23.16
-2020,Tasa de paro,Iznalloz,18105.0,30.57
-2020,Tasa de paro,Játar,18106.0,12.34
-2020,Tasa de paro,Jayena,18107.0,28.8
-2020,Tasa de paro,Jérez del Marquesado,18108.0,31.59
-2020,Tasa de paro,Jete,18109.0,19.64
-2020,Tasa de paro,Jun,18111.0,21.87
-2020,Tasa de paro,Juviles,18112.0,23.91
-2020,Tasa de paro,"Calahorra, La",18114.0,27.77
-2020,Tasa de paro,Láchar,18115.0,27.12
-2020,Tasa de paro,Lanjarón,18116.0,31.2
-2020,Tasa de paro,Lanteira,18117.0,24.98
-2020,Tasa de paro,Lecrín,18119.0,22.84
-2020,Tasa de paro,Lentegí,18120.0,24.54
-2020,Tasa de paro,Lobras,18121.0,15.97
-2020,Tasa de paro,Loja,18122.0,23.57
-2020,Tasa de paro,Lugros,18123.0,18.32
-2020,Tasa de paro,Lújar,18124.0,11.95
-2020,Tasa de paro,"Malahá, La",18126.0,26.83
-2020,Tasa de paro,Maracena,18127.0,25.5
-2020,Tasa de paro,Marchal,18128.0,29.86
-2020,Tasa de paro,Moclín,18132.0,23.8
-2020,Tasa de paro,Molvízar,18133.0,26.89
-2020,Tasa de paro,Monachil,18134.0,26.26
-2020,Tasa de paro,Montefrío,18135.0,19.5
-2020,Tasa de paro,Montejícar,18136.0,20.95
-2020,Tasa de paro,Montillana,18137.0,18.7
-2020,Tasa de paro,Moraleda de Zafayona,18138.0,20.57
-2020,Tasa de paro,Motril,18140.0,24.5
-2020,Tasa de paro,Murtas,18141.0,24.21
-2020,Tasa de paro,Nigüelas,18143.0,23.51
-2020,Tasa de paro,Nívar,18144.0,21.32
-2020,Tasa de paro,Ogíjares,18145.0,22.34
-2020,Tasa de paro,Orce,18146.0,22.33
-2020,Tasa de paro,Órgiva,18147.0,32.72
-2020,Tasa de paro,Otívar,18148.0,19.76
-2020,Tasa de paro,Villa de Otura,18149.0,24.0
-2020,Tasa de paro,Padul,18150.0,27.71
-2020,Tasa de paro,Pampaneira,18151.0,25.15
-2020,Tasa de paro,Pedro Martínez,18152.0,29.82
-2020,Tasa de paro,Peligros,18153.0,24.91
-2020,Tasa de paro,"Peza, La",18154.0,27.3
-2020,Tasa de paro,Pinos Genil,18157.0,18.65
-2020,Tasa de paro,Pinos Puente,18158.0,36.41
-2020,Tasa de paro,Píñar,18159.0,23.54
-2020,Tasa de paro,Polícar,18161.0,18.05
-2020,Tasa de paro,Polopos,18162.0,15.05
-2020,Tasa de paro,Pórtugos,18163.0,21.6
-2020,Tasa de paro,Puebla de Don Fadrique,18164.0,20.74
-2020,Tasa de paro,Pulianas,18165.0,28.25
-2020,Tasa de paro,Purullena,18167.0,29.52
-2020,Tasa de paro,Quéntar,18168.0,30.08
-2020,Tasa de paro,Rubite,18170.0,22.36
-2020,Tasa de paro,Salar,18171.0,24.52
-2020,Tasa de paro,Salobreña,18173.0,28.53
-2020,Tasa de paro,Santa Cruz del Comercio,18174.0,17.63
-2020,Tasa de paro,Santa Fe,18175.0,32.31
-2020,Tasa de paro,Soportújar,18176.0,18.22
-2020,Tasa de paro,Sorvilán,18177.0,21.96
-2020,Tasa de paro,Torre-Cardela,18178.0,24.74
-2020,Tasa de paro,Torvizcón,18179.0,27.45
-2020,Tasa de paro,Trevélez,18180.0,20.36
-2020,Tasa de paro,Turón,18181.0,15.17
-2020,Tasa de paro,Ugíjar,18182.0,28.43
-2020,Tasa de paro,Válor,18183.0,26.94
-2020,Tasa de paro,Vélez de Benaudalla,18184.0,23.8
-2020,Tasa de paro,Ventas de Huelma,18185.0,24.68
-2020,Tasa de paro,Villanueva de las Torres,18187.0,35.16
-2020,Tasa de paro,Villanueva Mesía,18188.0,18.72
-2020,Tasa de paro,Víznar,18189.0,20.61
-2020,Tasa de paro,Zafarraya,18192.0,15.56
-2020,Tasa de paro,"Zubia, La",18193.0,24.31
-2020,Tasa de paro,Zújar,18194.0,22.78
-2020,Tasa de paro,"Taha, La",18901.0,31.3
-2020,Tasa de paro,"Valle, El",18902.0,25.45
-2020,Tasa de paro,Nevada,18903.0,30.53
-2020,Tasa de paro,Alpujarra de la Sierra,18904.0,20.68
-2020,Tasa de paro,"Gabias, Las",18905.0,26.73
-2020,Tasa de paro,"Guájares, Los",18906.0,23.38
-2020,Tasa de paro,Valle del Zalabí,18907.0,19.68
-2020,Tasa de paro,Villamena,18908.0,26.27
-2020,Tasa de paro,Morelábor,18909.0,23.12
-2020,Tasa de paro,"Pinar, El",18910.0,30.72
-2020,Tasa de paro,Vegas del Genil,18911.0,23.6
-2020,Tasa de paro,Cuevas del Campo,18912.0,23.5
-2020,Tasa de paro,Zagra,18913.0,20.57
-2020,Tasa de paro,Valderrubio,18914.0,23.24
-2020,Tasa de paro,Domingo Pérez de Granada,18915.0,26.26
-2020,Tasa de paro,Torrenueva Costa,18916.0,
-2020,Tasa de paro,Alájar,21001.0,34.04
-2020,Tasa de paro,Aljaraque,21002.0,20.28
-2020,Tasa de paro,"Almendro, El",21003.0,23.52
-2020,Tasa de paro,Almonaster la Real,21004.0,22.04
-2020,Tasa de paro,Almonte,21005.0,25.07
-2020,Tasa de paro,Alosno,21006.0,28.62
-2020,Tasa de paro,Aracena,21007.0,24.93
-2020,Tasa de paro,Aroche,21008.0,24.57
-2020,Tasa de paro,Arroyomolinos de León,21009.0,34.01
-2020,Tasa de paro,Ayamonte,21010.0,26.13
-2020,Tasa de paro,Beas,21011.0,23.42
-2020,Tasa de paro,Berrocal,21012.0,17.27
-2020,Tasa de paro,Bollullos Par del Condado,21013.0,23.13
-2020,Tasa de paro,Bonares,21014.0,14.07
-2020,Tasa de paro,Cabezas Rubias,21015.0,27.67
-2020,Tasa de paro,Cala,21016.0,35.36
-2020,Tasa de paro,Calañas,21017.0,26.5
-2020,Tasa de paro,"Campillo, El",21018.0,28.28
-2020,Tasa de paro,Campofrío,21019.0,25.85
-2020,Tasa de paro,Cañaveral de León,21020.0,31.85
-2020,Tasa de paro,Cartaya,21021.0,16.98
-2020,Tasa de paro,Castaño del Robledo,21022.0,37.7
-2020,Tasa de paro,"Cerro de Andévalo, El",21023.0,25.09
-2020,Tasa de paro,Corteconcepción,21024.0,29.8
-2020,Tasa de paro,Cortegana,21025.0,27.58
-2020,Tasa de paro,Cortelazor,21026.0,33.94
-2020,Tasa de paro,Cumbres de Enmedio,21027.0,38.89
-2020,Tasa de paro,Cumbres de San Bartolomé,21028.0,27.72
-2020,Tasa de paro,Cumbres Mayores,21029.0,29.8
-2020,Tasa de paro,Chucena,21030.0,24.48
-2020,Tasa de paro,Encinasola,21031.0,27.52
-2020,Tasa de paro,Escacena del Campo,21032.0,21.19
-2020,Tasa de paro,Fuenteheridos,21033.0,32.71
-2020,Tasa de paro,Galaroza,21034.0,29.05
-2020,Tasa de paro,Gibraleón,21035.0,23.1
-2020,Tasa de paro,"Granada de Río-Tinto, La",21036.0,29.62
-2020,Tasa de paro,"Granado, El",21037.0,23.3
-2020,Tasa de paro,Higuera de la Sierra,21038.0,29.7
-2020,Tasa de paro,Hinojales,21039.0,29.67
-2020,Tasa de paro,Hinojos,21040.0,17.48
-2020,Tasa de paro,Huelva,21041.0,28.94
-2020,Tasa de paro,Isla Cristina,21042.0,31.3
-2020,Tasa de paro,Jabugo,21043.0,31.52
-2020,Tasa de paro,Lepe,21044.0,20.98
-2020,Tasa de paro,Linares de la Sierra,21045.0,28.73
-2020,Tasa de paro,Lucena del Puerto,21046.0,7.5
-2020,Tasa de paro,Manzanilla,21047.0,26.41
-2020,Tasa de paro,"Marines, Los",21048.0,33.51
-2020,Tasa de paro,Minas de Riotinto,21049.0,25.81
-2020,Tasa de paro,Moguer,21050.0,14.75
-2020,Tasa de paro,"Nava, La",21051.0,38.34
-2020,Tasa de paro,Nerva,21052.0,29.22
-2020,Tasa de paro,Niebla,21053.0,26.3
-2020,Tasa de paro,"Palma del Condado, La",21054.0,23.81
-2020,Tasa de paro,Palos de la Frontera,21055.0,18.15
-2020,Tasa de paro,Paterna del Campo,21056.0,23.53
-2020,Tasa de paro,Paymogo,21057.0,28.2
-2020,Tasa de paro,Puebla de Guzmán,21058.0,26.33
-2020,Tasa de paro,Puerto Moral,21059.0,26.36
-2020,Tasa de paro,Punta Umbría,21060.0,28.71
-2020,Tasa de paro,Rociana del Condado,21061.0,23.32
-2020,Tasa de paro,Rosal de la Frontera,21062.0,26.06
-2020,Tasa de paro,San Bartolomé de la Torre,21063.0,17.92
-2020,Tasa de paro,San Juan del Puerto,21064.0,22.74
-2020,Tasa de paro,Sanlúcar de Guadiana,21065.0,24.86
-2020,Tasa de paro,San Silvestre de Guzmán,21066.0,20.76
-2020,Tasa de paro,Santa Ana la Real,21067.0,28.23
-2020,Tasa de paro,Santa Bárbara de Casa,21068.0,25.93
-2020,Tasa de paro,Santa Olalla del Cala,21069.0,28.87
-2020,Tasa de paro,Trigueros,21070.0,25.01
-2020,Tasa de paro,Valdelarco,21071.0,25.97
-2020,Tasa de paro,Valverde del Camino,21072.0,24.22
-2020,Tasa de paro,Villablanca,21073.0,16.93
-2020,Tasa de paro,Villalba del Alcor,21074.0,29.99
-2020,Tasa de paro,Villanueva de las Cruces,21075.0,23.11
-2020,Tasa de paro,Villanueva de los Castillejos,21076.0,19.0
-2020,Tasa de paro,Villarrasa,21077.0,24.3
-2020,Tasa de paro,Zalamea la Real,21078.0,27.28
-2020,Tasa de paro,Zufre,21079.0,28.61
-2020,Tasa de paro,"Zarza-Perrunal, La",21902.0,
-2020,Tasa de paro,Albanchez de Mágina,23001.0,23.46
-2020,Tasa de paro,Alcalá la Real,23002.0,17.19
-2020,Tasa de paro,Alcaudete,23003.0,19.91
-2020,Tasa de paro,Aldeaquemada,23004.0,22.32
-2020,Tasa de paro,Andújar,23005.0,30.25
-2020,Tasa de paro,Arjona,23006.0,20.54
-2020,Tasa de paro,Arjonilla,23007.0,22.2
-2020,Tasa de paro,Arquillos,23008.0,21.92
-2020,Tasa de paro,Baeza,23009.0,20.88
-2020,Tasa de paro,Bailén,23010.0,30.92
-2020,Tasa de paro,Baños de la Encina,23011.0,27.03
-2020,Tasa de paro,Beas de Segura,23012.0,21.7
-2020,Tasa de paro,Begíjar,23014.0,24.56
-2020,Tasa de paro,Bélmez de la Moraleda,23015.0,26.08
-2020,Tasa de paro,Benatae,23016.0,15.07
-2020,Tasa de paro,Cabra del Santo Cristo,23017.0,22.79
-2020,Tasa de paro,Cambil,23018.0,23.99
-2020,Tasa de paro,Campillo de Arenas,23019.0,18.82
-2020,Tasa de paro,Canena,23020.0,16.9
-2020,Tasa de paro,Carboneros,23021.0,22.74
-2020,Tasa de paro,"Carolina, La",23024.0,35.85
-2020,Tasa de paro,Castellar,23025.0,20.37
-2020,Tasa de paro,Castillo de Locubín,23026.0,16.27
-2020,Tasa de paro,Cazalilla,23027.0,24.84
-2020,Tasa de paro,Cazorla,23028.0,22.28
-2020,Tasa de paro,Chiclana de Segura,23029.0,14.56
-2020,Tasa de paro,Chilluévar,23030.0,22.71
-2020,Tasa de paro,Escañuela,23031.0,22.45
-2020,Tasa de paro,Espeluy,23032.0,27.53
-2020,Tasa de paro,Frailes,23033.0,16.27
-2020,Tasa de paro,Fuensanta de Martos,23034.0,20.17
-2020,Tasa de paro,Fuerte del Rey,23035.0,18.76
-2020,Tasa de paro,Génave,23037.0,20.77
-2020,Tasa de paro,"Guardia de Jaén, La",23038.0,18.74
-2020,Tasa de paro,Guarromán,23039.0,32.54
-2020,Tasa de paro,Lahiguera,23040.0,22.22
-2020,Tasa de paro,Higuera de Calatrava,23041.0,19.06
-2020,Tasa de paro,Hinojares,23042.0,21.28
-2020,Tasa de paro,Hornos,23043.0,22.06
-2020,Tasa de paro,Huelma,23044.0,22.68
-2020,Tasa de paro,Huesa,23045.0,19.95
-2020,Tasa de paro,Ibros,23046.0,24.22
-2020,Tasa de paro,"Iruela, La",23047.0,21.39
-2020,Tasa de paro,Iznatoraf,23048.0,17.09
-2020,Tasa de paro,Jabalquinto,23049.0,23.46
-2020,Tasa de paro,Jaén,23050.0,22.37
-2020,Tasa de paro,Jamilena,23051.0,20.72
-2020,Tasa de paro,Jimena,23052.0,16.82
-2020,Tasa de paro,Jódar,23053.0,21.18
-2020,Tasa de paro,Larva,23054.0,18.48
-2020,Tasa de paro,Linares,23055.0,32.9
-2020,Tasa de paro,Lopera,23056.0,23.05
-2020,Tasa de paro,Lupión,23057.0,24.0
-2020,Tasa de paro,Mancha Real,23058.0,18.57
-2020,Tasa de paro,Marmolejo,23059.0,23.88
-2020,Tasa de paro,Martos,23060.0,19.02
-2020,Tasa de paro,Mengíbar,23061.0,27.2
-2020,Tasa de paro,Montizón,23062.0,19.3
-2020,Tasa de paro,Navas de San Juan,23063.0,19.08
-2020,Tasa de paro,Noalejo,23064.0,17.57
-2020,Tasa de paro,Orcera,23065.0,22.77
-2020,Tasa de paro,Peal de Becerro,23066.0,19.82
-2020,Tasa de paro,Pegalajar,23067.0,20.14
-2020,Tasa de paro,Porcuna,23069.0,18.69
-2020,Tasa de paro,Pozo Alcón,23070.0,28.02
-2020,Tasa de paro,Puente de Génave,23071.0,19.33
-2020,Tasa de paro,"Puerta de Segura, La",23072.0,22.49
-2020,Tasa de paro,Quesada,23073.0,20.73
-2020,Tasa de paro,Rus,23074.0,24.17
-2020,Tasa de paro,Sabiote,23075.0,20.77
-2020,Tasa de paro,Santa Elena,23076.0,31.46
-2020,Tasa de paro,Santiago de Calatrava,23077.0,17.95
-2020,Tasa de paro,Santisteban del Puerto,23079.0,19.35
-2020,Tasa de paro,Santo Tomé,23080.0,19.91
-2020,Tasa de paro,Segura de la Sierra,23081.0,20.93
-2020,Tasa de paro,Siles,23082.0,21.11
-2020,Tasa de paro,Sorihuela del Guadalimar,23084.0,24.57
-2020,Tasa de paro,Torreblascopedro,23085.0,22.96
-2020,Tasa de paro,Torredelcampo,23086.0,21.28
-2020,Tasa de paro,Torredonjimeno,23087.0,21.89
-2020,Tasa de paro,Torreperogil,23088.0,25.58
-2020,Tasa de paro,Torres,23090.0,13.32
-2020,Tasa de paro,Torres de Albánchez,23091.0,26.32
-2020,Tasa de paro,Úbeda,23092.0,25.08
-2020,Tasa de paro,Valdepeñas de Jaén,23093.0,20.62
-2020,Tasa de paro,Vilches,23094.0,23.37
-2020,Tasa de paro,Villacarrillo,23095.0,19.52
-2020,Tasa de paro,Villanueva de la Reina,23096.0,23.57
-2020,Tasa de paro,Villanueva del Arzobispo,23097.0,18.57
-2020,Tasa de paro,Villardompardo,23098.0,21.71
-2020,Tasa de paro,"Villares, Los",23099.0,16.44
-2020,Tasa de paro,Villarrodrigo,23101.0,25.14
-2020,Tasa de paro,Cárcheles,23901.0,18.43
-2020,Tasa de paro,Bedmar y Garcíez,23902.0,17.94
-2020,Tasa de paro,Villatorres,23903.0,19.46
-2020,Tasa de paro,Santiago-Pontones,23904.0,18.98
-2020,Tasa de paro,Arroyo del Ojanco,23905.0,18.47
-2020,Tasa de paro,Alameda,29001.0,23.08
-2020,Tasa de paro,Alcaucín,29002.0,26.08
-2020,Tasa de paro,Alfarnate,29003.0,20.26
-2020,Tasa de paro,Alfarnatejo,29004.0,27.07
-2020,Tasa de paro,Algarrobo,29005.0,22.94
-2020,Tasa de paro,Algatocín,29006.0,29.07
-2020,Tasa de paro,Alhaurín de la Torre,29007.0,23.19
-2020,Tasa de paro,Alhaurín el Grande,29008.0,28.74
-2020,Tasa de paro,Almáchar,29009.0,28.95
-2020,Tasa de paro,Almargen,29010.0,22.44
-2020,Tasa de paro,Almogía,29011.0,26.21
-2020,Tasa de paro,Álora,29012.0,29.8
-2020,Tasa de paro,Alozaina,29013.0,28.02
-2020,Tasa de paro,Alpandeire,29014.0,27.94
-2020,Tasa de paro,Antequera,29015.0,22.52
-2020,Tasa de paro,Árchez,29016.0,33.33
-2020,Tasa de paro,Archidona,29017.0,21.17
-2020,Tasa de paro,Ardales,29018.0,23.36
-2020,Tasa de paro,Arenas,29019.0,27.25
-2020,Tasa de paro,Arriate,29020.0,27.39
-2020,Tasa de paro,Atajate,29021.0,29.21
-2020,Tasa de paro,Benadalid,29022.0,26.88
-2020,Tasa de paro,Benahavís,29023.0,13.28
-2020,Tasa de paro,Benalauría,29024.0,22.34
-2020,Tasa de paro,Benalmádena,29025.0,25.45
-2020,Tasa de paro,Benamargosa,29026.0,19.59
-2020,Tasa de paro,Benamocarra,29027.0,20.22
-2020,Tasa de paro,Benaoján,29028.0,36.11
-2020,Tasa de paro,Benarrabá,29029.0,21.26
-2020,Tasa de paro,"Borge, El",29030.0,28.93
-2020,Tasa de paro,"Burgo, El",29031.0,31.42
-2020,Tasa de paro,Campillos,29032.0,25.68
-2020,Tasa de paro,Canillas de Aceituno,29033.0,26.08
-2020,Tasa de paro,Canillas de Albaida,29034.0,27.28
-2020,Tasa de paro,Cañete la Real,29035.0,27.74
-2020,Tasa de paro,Carratraca,29036.0,27.67
-2020,Tasa de paro,Cartajima,29037.0,25.49
-2020,Tasa de paro,Cártama,29038.0,22.83
-2020,Tasa de paro,Casabermeja,29039.0,19.04
-2020,Tasa de paro,Casarabonela,29040.0,24.65
-2020,Tasa de paro,Casares,29041.0,20.51
-2020,Tasa de paro,Coín,29042.0,26.99
-2020,Tasa de paro,Colmenar,29043.0,25.04
-2020,Tasa de paro,Comares,29044.0,22.8
-2020,Tasa de paro,Cómpeta,29045.0,29.97
-2020,Tasa de paro,Cortes de la Frontera,29046.0,32.35
-2020,Tasa de paro,Cuevas Bajas,29047.0,21.74
-2020,Tasa de paro,Cuevas del Becerro,29048.0,30.33
-2020,Tasa de paro,Cuevas de San Marcos,29049.0,22.25
-2020,Tasa de paro,Cútar,29050.0,20.81
-2020,Tasa de paro,Estepona,29051.0,23.74
-2020,Tasa de paro,Faraján,29052.0,22.43
-2020,Tasa de paro,Frigiliana,29053.0,26.13
-2020,Tasa de paro,Fuengirola,29054.0,27.96
-2020,Tasa de paro,Fuente de Piedra,29055.0,23.28
-2020,Tasa de paro,Gaucín,29056.0,22.88
-2020,Tasa de paro,Genalguacil,29057.0,32.95
-2020,Tasa de paro,Guaro,29058.0,31.06
-2020,Tasa de paro,Humilladero,29059.0,24.91
-2020,Tasa de paro,Igualeja,29060.0,18.88
-2020,Tasa de paro,Istán,29061.0,19.0
-2020,Tasa de paro,Iznate,29062.0,24.84
-2020,Tasa de paro,Jimera de Líbar,29063.0,25.85
-2020,Tasa de paro,Jubrique,29064.0,30.21
-2020,Tasa de paro,Júzcar,29065.0,17.21
-2020,Tasa de paro,Macharaviaya,29066.0,19.02
-2020,Tasa de paro,Málaga,29067.0,27.39
-2020,Tasa de paro,Manilva,29068.0,24.44
-2020,Tasa de paro,Marbella,29069.0,23.14
-2020,Tasa de paro,Mijas,29070.0,25.13
-2020,Tasa de paro,Moclinejo,29071.0,27.32
-2020,Tasa de paro,Mollina,29072.0,21.95
-2020,Tasa de paro,Monda,29073.0,30.13
-2020,Tasa de paro,Montejaque,29074.0,28.59
-2020,Tasa de paro,Nerja,29075.0,32.45
-2020,Tasa de paro,Ojén,29076.0,22.76
-2020,Tasa de paro,Parauta,29077.0,15.53
-2020,Tasa de paro,Periana,29079.0,27.67
-2020,Tasa de paro,Pizarra,29080.0,26.71
-2020,Tasa de paro,Pujerra,29081.0,15.4
-2020,Tasa de paro,Rincón de la Victoria,29082.0,20.59
-2020,Tasa de paro,Riogordo,29083.0,23.01
-2020,Tasa de paro,Ronda,29084.0,27.79
-2020,Tasa de paro,Salares,29085.0,29.26
-2020,Tasa de paro,Sayalonga,29086.0,29.95
-2020,Tasa de paro,Sedella,29087.0,27.25
-2020,Tasa de paro,Sierra de Yeguas,29088.0,22.65
-2020,Tasa de paro,Teba,29089.0,25.8
-2020,Tasa de paro,Tolox,29090.0,26.41
-2020,Tasa de paro,Torrox,29091.0,27.92
-2020,Tasa de paro,Totalán,29092.0,27.06
-2020,Tasa de paro,Valle de Abdalajís,29093.0,28.54
-2020,Tasa de paro,Vélez-Málaga,29094.0,24.15
-2020,Tasa de paro,Villanueva de Algaidas,29095.0,19.2
-2020,Tasa de paro,Villanueva del Rosario,29096.0,25.77
-2020,Tasa de paro,Villanueva del Trabuco,29097.0,22.92
-2020,Tasa de paro,Villanueva de Tapia,29098.0,20.86
-2020,Tasa de paro,Viñuela,29099.0,24.4
-2020,Tasa de paro,Yunquera,29100.0,34.28
-2020,Tasa de paro,Torremolinos,29901.0,27.17
-2020,Tasa de paro,Villanueva de la Concepción,29902.0,20.36
-2020,Tasa de paro,Montecorto,29903.0,25.66
-2020,Tasa de paro,Serrato,29904.0,31.46
-2020,Tasa de paro,Aguadulce,41001.0,23.15
-2020,Tasa de paro,Alanís,41002.0,30.98
-2020,Tasa de paro,Albaida del Aljarafe,41003.0,26.42
-2020,Tasa de paro,Alcalá de Guadaíra,41004.0,28.86
-2020,Tasa de paro,Alcalá del Río,41005.0,24.97
-2020,Tasa de paro,Alcolea del Río,41006.0,23.93
-2020,Tasa de paro,"Algaba, La",41007.0,30.21
-2020,Tasa de paro,Algámitas,41008.0,29.43
-2020,Tasa de paro,Almadén de la Plata,41009.0,30.22
-2020,Tasa de paro,Almensilla,41010.0,25.28
-2020,Tasa de paro,Arahal,41011.0,23.14
-2020,Tasa de paro,Aznalcázar,41012.0,26.51
-2020,Tasa de paro,Aznalcóllar,41013.0,31.51
-2020,Tasa de paro,Badolatosa,41014.0,23.01
-2020,Tasa de paro,Benacazón,41015.0,26.32
-2020,Tasa de paro,Bollullos de la Mitación,41016.0,23.63
-2020,Tasa de paro,Bormujos,41017.0,22.09
-2020,Tasa de paro,Brenes,41018.0,23.4
-2020,Tasa de paro,Burguillos,41019.0,28.34
-2020,Tasa de paro,"Cabezas de San Juan, Las",41020.0,34.34
-2020,Tasa de paro,Camas,41021.0,31.8
-2020,Tasa de paro,"Campana, La",41022.0,23.65
-2020,Tasa de paro,Cantillana,41023.0,24.09
-2020,Tasa de paro,Carmona,41024.0,26.89
-2020,Tasa de paro,Carrión de los Céspedes,41025.0,25.2
-2020,Tasa de paro,Casariche,41026.0,25.1
-2020,Tasa de paro,Castilblanco de los Arroyos,41027.0,31.76
-2020,Tasa de paro,Castilleja de Guzmán,41028.0,22.45
-2020,Tasa de paro,Castilleja de la Cuesta,41029.0,25.2
-2020,Tasa de paro,Castilleja del Campo,41030.0,25.26
-2020,Tasa de paro,"Castillo de las Guardas, El",41031.0,27.82
-2020,Tasa de paro,Cazalla de la Sierra,41032.0,27.94
-2020,Tasa de paro,Constantina,41033.0,27.73
-2020,Tasa de paro,Coria del Río,41034.0,28.14
-2020,Tasa de paro,Coripe,41035.0,20.1
-2020,Tasa de paro,"Coronil, El",41036.0,26.86
-2020,Tasa de paro,"Corrales, Los",41037.0,24.34
-2020,Tasa de paro,Dos Hermanas,41038.0,26.91
-2020,Tasa de paro,Écija,41039.0,27.9
-2020,Tasa de paro,Espartinas,41040.0,19.37
-2020,Tasa de paro,Estepa,41041.0,21.75
-2020,Tasa de paro,Fuentes de Andalucía,41042.0,24.05
-2020,Tasa de paro,"Garrobo, El",41043.0,30.43
-2020,Tasa de paro,Gelves,41044.0,22.9
-2020,Tasa de paro,Gerena,41045.0,29.02
-2020,Tasa de paro,Gilena,41046.0,19.45
-2020,Tasa de paro,Gines,41047.0,21.36
-2020,Tasa de paro,Guadalcanal,41048.0,26.71
-2020,Tasa de paro,Guillena,41049.0,31.22
-2020,Tasa de paro,Herrera,41050.0,19.05
-2020,Tasa de paro,Huévar del Aljarafe,41051.0,23.19
-2020,Tasa de paro,Lantejuela,41052.0,24.82
-2020,Tasa de paro,Lebrija,41053.0,28.81
-2020,Tasa de paro,Lora de Estepa,41054.0,22.83
-2020,Tasa de paro,Lora del Río,41055.0,25.59
-2020,Tasa de paro,"Luisiana, La",41056.0,24.74
-2020,Tasa de paro,"Madroño, El",41057.0,20.54
-2020,Tasa de paro,Mairena del Alcor,41058.0,26.1
-2020,Tasa de paro,Mairena del Aljarafe,41059.0,22.34
-2020,Tasa de paro,Marchena,41060.0,26.1
-2020,Tasa de paro,Marinaleda,41061.0,19.31
-2020,Tasa de paro,Martín de la Jara,41062.0,24.3
-2020,Tasa de paro,"Molares, Los",41063.0,31.26
-2020,Tasa de paro,Montellano,41064.0,26.46
-2020,Tasa de paro,Morón de la Frontera,41065.0,27.68
-2020,Tasa de paro,"Navas de la Concepción, Las",41066.0,25.44
-2020,Tasa de paro,Olivares,41067.0,30.35
-2020,Tasa de paro,Osuna,41068.0,28.11
-2020,Tasa de paro,"Palacios y Villafranca, Los",41069.0,29.33
-2020,Tasa de paro,Palomares del Río,41070.0,19.67
-2020,Tasa de paro,Paradas,41071.0,24.98
-2020,Tasa de paro,Pedrera,41072.0,22.58
-2020,Tasa de paro,"Pedroso, El",41073.0,31.39
-2020,Tasa de paro,Peñaflor,41074.0,22.2
-2020,Tasa de paro,Pilas,41075.0,25.47
-2020,Tasa de paro,Pruna,41076.0,29.9
-2020,Tasa de paro,"Puebla de Cazalla, La",41077.0,26.39
-2020,Tasa de paro,"Puebla de los Infantes, La",41078.0,24.77
-2020,Tasa de paro,"Puebla del Río, La",41079.0,31.81
-2020,Tasa de paro,"Real de la Jara, El",41080.0,30.15
-2020,Tasa de paro,"Rinconada, La",41081.0,28.2
-2020,Tasa de paro,"Roda de Andalucía, La",41082.0,21.6
-2020,Tasa de paro,"Ronquillo, El",41083.0,27.04
-2020,Tasa de paro,"Rubio, El",41084.0,24.75
-2020,Tasa de paro,Salteras,41085.0,24.13
-2020,Tasa de paro,San Juan de Aznalfarache,41086.0,32.9
-2020,Tasa de paro,Sanlúcar la Mayor,41087.0,27.59
-2020,Tasa de paro,San Nicolás del Puerto,41088.0,31.85
-2020,Tasa de paro,Santiponce,41089.0,29.93
-2020,Tasa de paro,"Saucejo, El",41090.0,25.94
-2020,Tasa de paro,Sevilla,41091.0,26.57
-2020,Tasa de paro,Tocina,41092.0,22.92
-2020,Tasa de paro,Tomares,41093.0,18.65
-2020,Tasa de paro,Umbrete,41094.0,24.04
-2020,Tasa de paro,Utrera,41095.0,33.97
-2020,Tasa de paro,Valencina de la Concepción,41096.0,26.19
-2020,Tasa de paro,Villamanrique de la Condesa,41097.0,22.57
-2020,Tasa de paro,Villanueva del Ariscal,41098.0,30.01
-2020,Tasa de paro,Villanueva del Río y Minas,41099.0,32.0
-2020,Tasa de paro,Villanueva de San Juan,41100.0,29.95
-2020,Tasa de paro,Villaverde del Río,41101.0,23.98
-2020,Tasa de paro,"Viso del Alcor, El",41102.0,26.7
-2020,Tasa de paro,Cañada Rosal,41901.0,22.65
-2020,Tasa de paro,Isla Mayor,41902.0,25.36
-2020,Tasa de paro,"Cuervo de Sevilla, El",41903.0,32.26
-2020,Tasa de paro,"Palmar de Troya, El",41904.0,
+Year,Municipio,GeoCode,Value
+2020,,,26.47
+2020,Abla,4001.0,20.03
+2020,Abrucena,4002.0,22.46
+2020,Adra,4003.0,21.87
+2020,Albanchez,4004.0,16.53
+2020,Alboloduy,4005.0,18.43
+2020,Albox,4006.0,20.17
+2020,Alcolea,4007.0,26.17
+2020,Alcóntar,4008.0,14.13
+2020,Alcudia de Monteagud,4009.0,12.96
+2020,Alhabia,4010.0,27.06
+2020,Alhama de Almería,4011.0,23.82
+2020,Alicún,4012.0,26.92
+2020,Almería,4013.0,25.27
+2020,Almócita,4014.0,17.23
+2020,Alsodux,4015.0,18.08
+2020,Antas,4016.0,12.88
+2020,Arboleas,4017.0,19.03
+2020,Armuña de Almanzora,4018.0,14.04
+2020,Bacares,4019.0,19.21
+2020,Bayárcal,4020.0,16.08
+2020,Bayarque,4021.0,17.61
+2020,Bédar,4022.0,20.11
+2020,Beires,4023.0,21.31
+2020,Benahadux,4024.0,20.81
+2020,Benitagla,4026.0,9.78
+2020,Benizalón,4027.0,17.69
+2020,Bentarique,4028.0,24.51
+2020,Berja,4029.0,23.48
+2020,Canjáyar,4030.0,29.41
+2020,Cantoria,4031.0,20.71
+2020,Carboneras,4032.0,23.05
+2020,Castro de Filabres,4033.0,11.19
+2020,Cóbdar,4034.0,17.18
+2020,Cuevas del Almanzora,4035.0,19.41
+2020,Chercos,4036.0,19.34
+2020,Chirivel,4037.0,15.27
+2020,Dalías,4038.0,15.64
+2020,Enix,4041.0,11.55
+2020,Felix,4043.0,14.46
+2020,Fines,4044.0,21.42
+2020,Fiñana,4045.0,25.0
+2020,Fondón,4046.0,18.22
+2020,Gádor,4047.0,30.44
+2020,"Gallardos, Los",4048.0,17.15
+2020,Garrucha,4049.0,26.71
+2020,Gérgal,4050.0,22.38
+2020,Huécija,4051.0,15.22
+2020,Huércal de Almería,4052.0,20.47
+2020,Huércal-Overa,4053.0,17.95
+2020,Íllar,4054.0,20.84
+2020,Instinción,4055.0,20.05
+2020,Laroya,4056.0,16.99
+2020,Láujar de Andarax,4057.0,21.11
+2020,Líjar,4058.0,22.88
+2020,Lubrín,4059.0,18.78
+2020,Lucainena de las Torres,4060.0,22.32
+2020,Lúcar,4061.0,22.84
+2020,Macael,4062.0,22.37
+2020,María,4063.0,14.81
+2020,Mojácar,4064.0,21.38
+2020,Nacimiento,4065.0,17.12
+2020,Níjar,4066.0,16.98
+2020,Ohanes,4067.0,28.34
+2020,Olula de Castro,4068.0,12.94
+2020,Olula del Río,4069.0,25.7
+2020,Oria,4070.0,16.06
+2020,Padules,4071.0,20.14
+2020,Partaloa,4072.0,16.81
+2020,Paterna del Río,4073.0,22.47
+2020,Pechina,4074.0,28.35
+2020,Pulpí,4075.0,9.24
+2020,Purchena,4076.0,20.6
+2020,Rágol,4077.0,19.21
+2020,Rioja,4078.0,32.05
+2020,Roquetas de Mar,4079.0,22.06
+2020,Santa Cruz de Marchena,4080.0,21.57
+2020,Santa Fe de Mondújar,4081.0,30.52
+2020,Senés,4082.0,22.07
+2020,Serón,4083.0,17.09
+2020,Sierro,4084.0,25.35
+2020,Somontín,4085.0,18.06
+2020,Sorbas,4086.0,24.15
+2020,Suflí,4087.0,26.15
+2020,Tabernas,4088.0,26.05
+2020,Taberno,4089.0,19.31
+2020,Tahal,4090.0,14.42
+2020,Terque,4091.0,24.71
+2020,Tíjola,4092.0,19.21
+2020,Turre,4093.0,28.82
+2020,Turrillas,4094.0,17.77
+2020,Uleila del Campo,4095.0,20.46
+2020,Urrácal,4096.0,20.06
+2020,Velefique,4097.0,19.28
+2020,Vélez-Blanco,4098.0,17.88
+2020,Vélez-Rubio,4099.0,20.23
+2020,Vera,4100.0,23.65
+2020,Viator,4101.0,22.96
+2020,Vícar,4102.0,20.15
+2020,Zurgena,4103.0,22.25
+2020,"Tres Villas, Las",4901.0,21.28
+2020,"Ejido, El",4902.0,16.67
+2020,"Mojonera, La",4903.0,15.82
+2020,Balanegra,4904.0,13.76
+2020,Alcalá de los Gazules,11001.0,34.67
+2020,Alcalá del Valle,11002.0,29.39
+2020,Algar,11003.0,30.25
+2020,Algeciras,11004.0,32.74
+2020,Algodonales,11005.0,29.68
+2020,Arcos de la Frontera,11006.0,40.59
+2020,Barbate,11007.0,44.25
+2020,"Barrios, Los",11008.0,28.28
+2020,Benaocaz,11009.0,25.75
+2020,Bornos,11010.0,33.69
+2020,"Bosque, El",11011.0,28.85
+2020,Cádiz,11012.0,31.3
+2020,Castellar de la Frontera,11013.0,28.35
+2020,Conil de la Frontera,11014.0,30.28
+2020,Chiclana de la Frontera,11015.0,35.68
+2020,Chipiona,11016.0,36.6
+2020,Espera,11017.0,31.25
+2020,"Gastor, El",11018.0,27.68
+2020,Grazalema,11019.0,29.64
+2020,Jerez de la Frontera,11020.0,34.62
+2020,Jimena de la Frontera,11021.0,29.32
+2020,"Línea de la Concepción, La",11022.0,43.16
+2020,Medina Sidonia,11023.0,34.14
+2020,Olvera,11024.0,25.79
+2020,Paterna de Rivera,11025.0,37.82
+2020,Prado del Rey,11026.0,37.09
+2020,"Puerto de Santa María, El",11027.0,32.81
+2020,Puerto Real,11028.0,32.59
+2020,Puerto Serrano,11029.0,24.71
+2020,Rota,11030.0,29.91
+2020,San Fernando,11031.0,35.16
+2020,Sanlúcar de Barrameda,11032.0,34.48
+2020,San Roque,11033.0,31.52
+2020,Setenil de las Bodegas,11034.0,23.59
+2020,Tarifa,11035.0,30.62
+2020,Torre Alháquime,11036.0,29.1
+2020,Trebujena,11037.0,26.77
+2020,Ubrique,11038.0,32.43
+2020,Vejer de la Frontera,11039.0,36.74
+2020,Villaluenga del Rosario,11040.0,20.5
+2020,Villamartín,11041.0,34.2
+2020,Zahara,11042.0,26.58
+2020,Benalup-Casas Viejas,11901.0,32.07
+2020,San José del Valle,11902.0,31.95
+2020,San Martín del Tesorillo,11903.0,
+2020,Adamuz,14001.0,20.68
+2020,Aguilar de la Frontera,14002.0,23.79
+2020,Alcaracejos,14003.0,25.66
+2020,Almedinilla,14004.0,19.68
+2020,Almodóvar del Río,14005.0,31.13
+2020,Añora,14006.0,24.28
+2020,Baena,14007.0,23.54
+2020,Belalcázar,14008.0,33.28
+2020,Belmez,14009.0,42.92
+2020,Benamejí,14010.0,23.64
+2020,"Blázquez, Los",14011.0,33.59
+2020,Bujalance,14012.0,24.65
+2020,Cabra,14013.0,24.09
+2020,Cañete de las Torres,14014.0,21.03
+2020,Carcabuey,14015.0,18.79
+2020,Cardeña,14016.0,23.16
+2020,"Carlota, La",14017.0,23.33
+2020,"Carpio, El",14018.0,27.68
+2020,Castro del Río,14019.0,20.79
+2020,Conquista,14020.0,24.33
+2020,Córdoba,14021.0,28.06
+2020,Doña Mencía,14022.0,22.42
+2020,Dos Torres,14023.0,22.52
+2020,Encinas Reales,14024.0,25.01
+2020,Espejo,14025.0,19.65
+2020,Espiel,14026.0,27.01
+2020,Fernán-Núñez,14027.0,23.16
+2020,Fuente la Lancha,14028.0,38.5
+2020,Fuente Obejuna,14029.0,36.42
+2020,Fuente Palmera,14030.0,20.6
+2020,Fuente-Tójar,14031.0,22.06
+2020,"Granjuela, La",14032.0,38.71
+2020,Guadalcázar,14033.0,24.7
+2020,"Guijo, El",14034.0,21.19
+2020,Hinojosa del Duque,14035.0,30.9
+2020,Hornachuelos,14036.0,22.79
+2020,Iznájar,14037.0,18.71
+2020,Lucena,14038.0,26.6
+2020,Luque,14039.0,23.39
+2020,Montalbán de Córdoba,14040.0,13.65
+2020,Montemayor,14041.0,21.91
+2020,Montilla,14042.0,22.57
+2020,Montoro,14043.0,24.2
+2020,Monturque,14044.0,21.21
+2020,Moriles,14045.0,23.21
+2020,Nueva Carteya,14046.0,20.36
+2020,Obejo,14047.0,29.44
+2020,Palenciana,14048.0,21.63
+2020,Palma del Río,14049.0,24.49
+2020,Pedro Abad,14050.0,26.39
+2020,Pedroche,14051.0,25.95
+2020,Peñarroya-Pueblonuevo,14052.0,40.82
+2020,Posadas,14053.0,24.08
+2020,Pozoblanco,14054.0,21.6
+2020,Priego de Córdoba,14055.0,23.87
+2020,Puente Genil,14056.0,27.93
+2020,"Rambla, La",14057.0,16.76
+2020,Rute,14058.0,19.22
+2020,San Sebastián de los Ballesteros,14059.0,21.66
+2020,Santaella,14060.0,19.59
+2020,Santa Eufemia,14061.0,26.92
+2020,Torrecampo,14062.0,21.94
+2020,Valenzuela,14063.0,19.16
+2020,Valsequillo,14064.0,28.04
+2020,"Victoria, La",14065.0,24.0
+2020,Villa del Río,14066.0,25.49
+2020,Villafranca de Córdoba,14067.0,24.67
+2020,Villaharta,14068.0,33.73
+2020,Villanueva de Córdoba,14069.0,21.77
+2020,Villanueva del Duque,14070.0,24.37
+2020,Villanueva del Rey,14071.0,31.37
+2020,Villaralto,14072.0,23.51
+2020,Villaviciosa de Córdoba,14073.0,28.21
+2020,"Viso, El",14074.0,25.39
+2020,Zuheros,14075.0,24.38
+2020,Fuente Carreteros,14901.0,
+2020,"Guijarrosa, La",14902.0,
+2020,Agrón,18001.0,32.97
+2020,Alamedilla,18002.0,26.63
+2020,Albolote,18003.0,23.5
+2020,Albondón,18004.0,22.84
+2020,Albuñán,18005.0,21.35
+2020,Albuñol,18006.0,16.97
+2020,Albuñuelas,18007.0,27.15
+2020,Aldeire,18010.0,26.99
+2020,Alfacar,18011.0,24.7
+2020,Algarinejo,18012.0,24.28
+2020,Alhama de Granada,18013.0,17.0
+2020,Alhendín,18014.0,24.65
+2020,Alicún de Ortega,18015.0,24.91
+2020,Almegíjar,18016.0,22.05
+2020,Almuñécar,18017.0,29.32
+2020,Alquife,18018.0,22.65
+2020,Arenas del Rey,18020.0,25.92
+2020,Armilla,18021.0,26.82
+2020,Atarfe,18022.0,27.37
+2020,Baza,18023.0,21.81
+2020,Beas de Granada,18024.0,19.52
+2020,Beas de Guadix,18025.0,30.98
+2020,Benalúa,18027.0,34.58
+2020,Benalúa de las Villas,18028.0,17.21
+2020,Benamaurel,18029.0,23.77
+2020,Bérchules,18030.0,20.17
+2020,Bubión,18032.0,28.88
+2020,Busquístar,18033.0,31.55
+2020,Cacín,18034.0,21.84
+2020,Cádiar,18035.0,25.11
+2020,Cájar,18036.0,21.64
+2020,Calicasas,18037.0,23.26
+2020,Campotéjar,18038.0,19.47
+2020,Caniles,18039.0,21.66
+2020,Cáñar,18040.0,33.67
+2020,Capileira,18042.0,22.2
+2020,Carataunas,18043.0,33.89
+2020,Cástaras,18044.0,14.95
+2020,Castilléjar,18045.0,25.74
+2020,Castril,18046.0,22.97
+2020,Cenes de la Vega,18047.0,26.24
+2020,Cijuela,18048.0,25.36
+2020,Cogollos de Guadix,18049.0,27.3
+2020,Cogollos de la Vega,18050.0,26.26
+2020,Colomera,18051.0,23.63
+2020,Cortes de Baza,18053.0,27.6
+2020,Cortes y Graena,18054.0,25.84
+2020,Cúllar,18056.0,21.17
+2020,Cúllar Vega,18057.0,24.61
+2020,Chauchina,18059.0,24.54
+2020,Chimeneas,18061.0,25.46
+2020,Churriana de la Vega,18062.0,25.56
+2020,Darro,18063.0,32.5
+2020,Dehesas de Guadix,18064.0,20.12
+2020,Dehesas Viejas,18065.0,21.23
+2020,Deifontes,18066.0,28.26
+2020,Diezma,18067.0,26.25
+2020,Dílar,18068.0,23.07
+2020,Dólar,18069.0,18.32
+2020,Dúdar,18070.0,17.7
+2020,Dúrcal,18071.0,29.73
+2020,Escúzar,18072.0,25.62
+2020,Ferreira,18074.0,16.23
+2020,Fonelas,18076.0,28.51
+2020,Fornes,18077.0,
+2020,Freila,18078.0,23.13
+2020,Fuente Vaqueros,18079.0,32.77
+2020,Galera,18082.0,27.22
+2020,Gobernador,18083.0,18.95
+2020,Gójar,18084.0,23.19
+2020,Gor,18085.0,22.81
+2020,Gorafe,18086.0,36.43
+2020,Granada,18087.0,28.4
+2020,Guadahortuna,18088.0,33.26
+2020,Guadix,18089.0,24.99
+2020,Gualchos,18093.0,14.67
+2020,Güéjar Sierra,18094.0,23.1
+2020,Güevéjar,18095.0,29.01
+2020,Huélago,18096.0,29.15
+2020,Huéneja,18097.0,19.23
+2020,Huéscar,18098.0,23.03
+2020,Huétor de Santillán,18099.0,25.17
+2020,Huétor Tájar,18100.0,20.37
+2020,Huétor Vega,18101.0,22.04
+2020,Íllora,18102.0,24.24
+2020,Ítrabo,18103.0,23.16
+2020,Iznalloz,18105.0,30.57
+2020,Játar,18106.0,12.34
+2020,Jayena,18107.0,28.8
+2020,Jérez del Marquesado,18108.0,31.59
+2020,Jete,18109.0,19.64
+2020,Jun,18111.0,21.87
+2020,Juviles,18112.0,23.91
+2020,"Calahorra, La",18114.0,27.77
+2020,Láchar,18115.0,27.12
+2020,Lanjarón,18116.0,31.2
+2020,Lanteira,18117.0,24.98
+2020,Lecrín,18119.0,22.84
+2020,Lentegí,18120.0,24.54
+2020,Lobras,18121.0,15.97
+2020,Loja,18122.0,23.57
+2020,Lugros,18123.0,18.32
+2020,Lújar,18124.0,11.95
+2020,"Malahá, La",18126.0,26.83
+2020,Maracena,18127.0,25.5
+2020,Marchal,18128.0,29.86
+2020,Moclín,18132.0,23.8
+2020,Molvízar,18133.0,26.89
+2020,Monachil,18134.0,26.26
+2020,Montefrío,18135.0,19.5
+2020,Montejícar,18136.0,20.95
+2020,Montillana,18137.0,18.7
+2020,Moraleda de Zafayona,18138.0,20.57
+2020,Motril,18140.0,24.5
+2020,Murtas,18141.0,24.21
+2020,Nigüelas,18143.0,23.51
+2020,Nívar,18144.0,21.32
+2020,Ogíjares,18145.0,22.34
+2020,Orce,18146.0,22.33
+2020,Órgiva,18147.0,32.72
+2020,Otívar,18148.0,19.76
+2020,Villa de Otura,18149.0,24.0
+2020,Padul,18150.0,27.71
+2020,Pampaneira,18151.0,25.15
+2020,Pedro Martínez,18152.0,29.82
+2020,Peligros,18153.0,24.91
+2020,"Peza, La",18154.0,27.3
+2020,Pinos Genil,18157.0,18.65
+2020,Pinos Puente,18158.0,36.41
+2020,Píñar,18159.0,23.54
+2020,Polícar,18161.0,18.05
+2020,Polopos,18162.0,15.05
+2020,Pórtugos,18163.0,21.6
+2020,Puebla de Don Fadrique,18164.0,20.74
+2020,Pulianas,18165.0,28.25
+2020,Purullena,18167.0,29.52
+2020,Quéntar,18168.0,30.08
+2020,Rubite,18170.0,22.36
+2020,Salar,18171.0,24.52
+2020,Salobreña,18173.0,28.53
+2020,Santa Cruz del Comercio,18174.0,17.63
+2020,Santa Fe,18175.0,32.31
+2020,Soportújar,18176.0,18.22
+2020,Sorvilán,18177.0,21.96
+2020,Torre-Cardela,18178.0,24.74
+2020,Torvizcón,18179.0,27.45
+2020,Trevélez,18180.0,20.36
+2020,Turón,18181.0,15.17
+2020,Ugíjar,18182.0,28.43
+2020,Válor,18183.0,26.94
+2020,Vélez de Benaudalla,18184.0,23.8
+2020,Ventas de Huelma,18185.0,24.68
+2020,Villanueva de las Torres,18187.0,35.16
+2020,Villanueva Mesía,18188.0,18.72
+2020,Víznar,18189.0,20.61
+2020,Zafarraya,18192.0,15.56
+2020,"Zubia, La",18193.0,24.31
+2020,Zújar,18194.0,22.78
+2020,"Taha, La",18901.0,31.3
+2020,"Valle, El",18902.0,25.45
+2020,Nevada,18903.0,30.53
+2020,Alpujarra de la Sierra,18904.0,20.68
+2020,"Gabias, Las",18905.0,26.73
+2020,"Guájares, Los",18906.0,23.38
+2020,Valle del Zalabí,18907.0,19.68
+2020,Villamena,18908.0,26.27
+2020,Morelábor,18909.0,23.12
+2020,"Pinar, El",18910.0,30.72
+2020,Vegas del Genil,18911.0,23.6
+2020,Cuevas del Campo,18912.0,23.5
+2020,Zagra,18913.0,20.57
+2020,Valderrubio,18914.0,23.24
+2020,Domingo Pérez de Granada,18915.0,26.26
+2020,Torrenueva Costa,18916.0,
+2020,Alájar,21001.0,34.04
+2020,Aljaraque,21002.0,20.28
+2020,"Almendro, El",21003.0,23.52
+2020,Almonaster la Real,21004.0,22.04
+2020,Almonte,21005.0,25.07
+2020,Alosno,21006.0,28.62
+2020,Aracena,21007.0,24.93
+2020,Aroche,21008.0,24.57
+2020,Arroyomolinos de León,21009.0,34.01
+2020,Ayamonte,21010.0,26.13
+2020,Beas,21011.0,23.42
+2020,Berrocal,21012.0,17.27
+2020,Bollullos Par del Condado,21013.0,23.13
+2020,Bonares,21014.0,14.07
+2020,Cabezas Rubias,21015.0,27.67
+2020,Cala,21016.0,35.36
+2020,Calañas,21017.0,26.5
+2020,"Campillo, El",21018.0,28.28
+2020,Campofrío,21019.0,25.85
+2020,Cañaveral de León,21020.0,31.85
+2020,Cartaya,21021.0,16.98
+2020,Castaño del Robledo,21022.0,37.7
+2020,"Cerro de Andévalo, El",21023.0,25.09
+2020,Corteconcepción,21024.0,29.8
+2020,Cortegana,21025.0,27.58
+2020,Cortelazor,21026.0,33.94
+2020,Cumbres de Enmedio,21027.0,38.89
+2020,Cumbres de San Bartolomé,21028.0,27.72
+2020,Cumbres Mayores,21029.0,29.8
+2020,Chucena,21030.0,24.48
+2020,Encinasola,21031.0,27.52
+2020,Escacena del Campo,21032.0,21.19
+2020,Fuenteheridos,21033.0,32.71
+2020,Galaroza,21034.0,29.05
+2020,Gibraleón,21035.0,23.1
+2020,"Granada de Río-Tinto, La",21036.0,29.62
+2020,"Granado, El",21037.0,23.3
+2020,Higuera de la Sierra,21038.0,29.7
+2020,Hinojales,21039.0,29.67
+2020,Hinojos,21040.0,17.48
+2020,Huelva,21041.0,28.94
+2020,Isla Cristina,21042.0,31.3
+2020,Jabugo,21043.0,31.52
+2020,Lepe,21044.0,20.98
+2020,Linares de la Sierra,21045.0,28.73
+2020,Lucena del Puerto,21046.0,7.5
+2020,Manzanilla,21047.0,26.41
+2020,"Marines, Los",21048.0,33.51
+2020,Minas de Riotinto,21049.0,25.81
+2020,Moguer,21050.0,14.75
+2020,"Nava, La",21051.0,38.34
+2020,Nerva,21052.0,29.22
+2020,Niebla,21053.0,26.3
+2020,"Palma del Condado, La",21054.0,23.81
+2020,Palos de la Frontera,21055.0,18.15
+2020,Paterna del Campo,21056.0,23.53
+2020,Paymogo,21057.0,28.2
+2020,Puebla de Guzmán,21058.0,26.33
+2020,Puerto Moral,21059.0,26.36
+2020,Punta Umbría,21060.0,28.71
+2020,Rociana del Condado,21061.0,23.32
+2020,Rosal de la Frontera,21062.0,26.06
+2020,San Bartolomé de la Torre,21063.0,17.92
+2020,San Juan del Puerto,21064.0,22.74
+2020,Sanlúcar de Guadiana,21065.0,24.86
+2020,San Silvestre de Guzmán,21066.0,20.76
+2020,Santa Ana la Real,21067.0,28.23
+2020,Santa Bárbara de Casa,21068.0,25.93
+2020,Santa Olalla del Cala,21069.0,28.87
+2020,Trigueros,21070.0,25.01
+2020,Valdelarco,21071.0,25.97
+2020,Valverde del Camino,21072.0,24.22
+2020,Villablanca,21073.0,16.93
+2020,Villalba del Alcor,21074.0,29.99
+2020,Villanueva de las Cruces,21075.0,23.11
+2020,Villanueva de los Castillejos,21076.0,19.0
+2020,Villarrasa,21077.0,24.3
+2020,Zalamea la Real,21078.0,27.28
+2020,Zufre,21079.0,28.61
+2020,"Zarza-Perrunal, La",21902.0,
+2020,Albanchez de Mágina,23001.0,23.46
+2020,Alcalá la Real,23002.0,17.19
+2020,Alcaudete,23003.0,19.91
+2020,Aldeaquemada,23004.0,22.32
+2020,Andújar,23005.0,30.25
+2020,Arjona,23006.0,20.54
+2020,Arjonilla,23007.0,22.2
+2020,Arquillos,23008.0,21.92
+2020,Baeza,23009.0,20.88
+2020,Bailén,23010.0,30.92
+2020,Baños de la Encina,23011.0,27.03
+2020,Beas de Segura,23012.0,21.7
+2020,Begíjar,23014.0,24.56
+2020,Bélmez de la Moraleda,23015.0,26.08
+2020,Benatae,23016.0,15.07
+2020,Cabra del Santo Cristo,23017.0,22.79
+2020,Cambil,23018.0,23.99
+2020,Campillo de Arenas,23019.0,18.82
+2020,Canena,23020.0,16.9
+2020,Carboneros,23021.0,22.74
+2020,"Carolina, La",23024.0,35.85
+2020,Castellar,23025.0,20.37
+2020,Castillo de Locubín,23026.0,16.27
+2020,Cazalilla,23027.0,24.84
+2020,Cazorla,23028.0,22.28
+2020,Chiclana de Segura,23029.0,14.56
+2020,Chilluévar,23030.0,22.71
+2020,Escañuela,23031.0,22.45
+2020,Espeluy,23032.0,27.53
+2020,Frailes,23033.0,16.27
+2020,Fuensanta de Martos,23034.0,20.17
+2020,Fuerte del Rey,23035.0,18.76
+2020,Génave,23037.0,20.77
+2020,"Guardia de Jaén, La",23038.0,18.74
+2020,Guarromán,23039.0,32.54
+2020,Lahiguera,23040.0,22.22
+2020,Higuera de Calatrava,23041.0,19.06
+2020,Hinojares,23042.0,21.28
+2020,Hornos,23043.0,22.06
+2020,Huelma,23044.0,22.68
+2020,Huesa,23045.0,19.95
+2020,Ibros,23046.0,24.22
+2020,"Iruela, La",23047.0,21.39
+2020,Iznatoraf,23048.0,17.09
+2020,Jabalquinto,23049.0,23.46
+2020,Jaén,23050.0,22.37
+2020,Jamilena,23051.0,20.72
+2020,Jimena,23052.0,16.82
+2020,Jódar,23053.0,21.18
+2020,Larva,23054.0,18.48
+2020,Linares,23055.0,32.9
+2020,Lopera,23056.0,23.05
+2020,Lupión,23057.0,24.0
+2020,Mancha Real,23058.0,18.57
+2020,Marmolejo,23059.0,23.88
+2020,Martos,23060.0,19.02
+2020,Mengíbar,23061.0,27.2
+2020,Montizón,23062.0,19.3
+2020,Navas de San Juan,23063.0,19.08
+2020,Noalejo,23064.0,17.57
+2020,Orcera,23065.0,22.77
+2020,Peal de Becerro,23066.0,19.82
+2020,Pegalajar,23067.0,20.14
+2020,Porcuna,23069.0,18.69
+2020,Pozo Alcón,23070.0,28.02
+2020,Puente de Génave,23071.0,19.33
+2020,"Puerta de Segura, La",23072.0,22.49
+2020,Quesada,23073.0,20.73
+2020,Rus,23074.0,24.17
+2020,Sabiote,23075.0,20.77
+2020,Santa Elena,23076.0,31.46
+2020,Santiago de Calatrava,23077.0,17.95
+2020,Santisteban del Puerto,23079.0,19.35
+2020,Santo Tomé,23080.0,19.91
+2020,Segura de la Sierra,23081.0,20.93
+2020,Siles,23082.0,21.11
+2020,Sorihuela del Guadalimar,23084.0,24.57
+2020,Torreblascopedro,23085.0,22.96
+2020,Torredelcampo,23086.0,21.28
+2020,Torredonjimeno,23087.0,21.89
+2020,Torreperogil,23088.0,25.58
+2020,Torres,23090.0,13.32
+2020,Torres de Albánchez,23091.0,26.32
+2020,Úbeda,23092.0,25.08
+2020,Valdepeñas de Jaén,23093.0,20.62
+2020,Vilches,23094.0,23.37
+2020,Villacarrillo,23095.0,19.52
+2020,Villanueva de la Reina,23096.0,23.57
+2020,Villanueva del Arzobispo,23097.0,18.57
+2020,Villardompardo,23098.0,21.71
+2020,"Villares, Los",23099.0,16.44
+2020,Villarrodrigo,23101.0,25.14
+2020,Cárcheles,23901.0,18.43
+2020,Bedmar y Garcíez,23902.0,17.94
+2020,Villatorres,23903.0,19.46
+2020,Santiago-Pontones,23904.0,18.98
+2020,Arroyo del Ojanco,23905.0,18.47
+2020,Alameda,29001.0,23.08
+2020,Alcaucín,29002.0,26.08
+2020,Alfarnate,29003.0,20.26
+2020,Alfarnatejo,29004.0,27.07
+2020,Algarrobo,29005.0,22.94
+2020,Algatocín,29006.0,29.07
+2020,Alhaurín de la Torre,29007.0,23.19
+2020,Alhaurín el Grande,29008.0,28.74
+2020,Almáchar,29009.0,28.95
+2020,Almargen,29010.0,22.44
+2020,Almogía,29011.0,26.21
+2020,Álora,29012.0,29.8
+2020,Alozaina,29013.0,28.02
+2020,Alpandeire,29014.0,27.94
+2020,Antequera,29015.0,22.52
+2020,Árchez,29016.0,33.33
+2020,Archidona,29017.0,21.17
+2020,Ardales,29018.0,23.36
+2020,Arenas,29019.0,27.25
+2020,Arriate,29020.0,27.39
+2020,Atajate,29021.0,29.21
+2020,Benadalid,29022.0,26.88
+2020,Benahavís,29023.0,13.28
+2020,Benalauría,29024.0,22.34
+2020,Benalmádena,29025.0,25.45
+2020,Benamargosa,29026.0,19.59
+2020,Benamocarra,29027.0,20.22
+2020,Benaoján,29028.0,36.11
+2020,Benarrabá,29029.0,21.26
+2020,"Borge, El",29030.0,28.93
+2020,"Burgo, El",29031.0,31.42
+2020,Campillos,29032.0,25.68
+2020,Canillas de Aceituno,29033.0,26.08
+2020,Canillas de Albaida,29034.0,27.28
+2020,Cañete la Real,29035.0,27.74
+2020,Carratraca,29036.0,27.67
+2020,Cartajima,29037.0,25.49
+2020,Cártama,29038.0,22.83
+2020,Casabermeja,29039.0,19.04
+2020,Casarabonela,29040.0,24.65
+2020,Casares,29041.0,20.51
+2020,Coín,29042.0,26.99
+2020,Colmenar,29043.0,25.04
+2020,Comares,29044.0,22.8
+2020,Cómpeta,29045.0,29.97
+2020,Cortes de la Frontera,29046.0,32.35
+2020,Cuevas Bajas,29047.0,21.74
+2020,Cuevas del Becerro,29048.0,30.33
+2020,Cuevas de San Marcos,29049.0,22.25
+2020,Cútar,29050.0,20.81
+2020,Estepona,29051.0,23.74
+2020,Faraján,29052.0,22.43
+2020,Frigiliana,29053.0,26.13
+2020,Fuengirola,29054.0,27.96
+2020,Fuente de Piedra,29055.0,23.28
+2020,Gaucín,29056.0,22.88
+2020,Genalguacil,29057.0,32.95
+2020,Guaro,29058.0,31.06
+2020,Humilladero,29059.0,24.91
+2020,Igualeja,29060.0,18.88
+2020,Istán,29061.0,19.0
+2020,Iznate,29062.0,24.84
+2020,Jimera de Líbar,29063.0,25.85
+2020,Jubrique,29064.0,30.21
+2020,Júzcar,29065.0,17.21
+2020,Macharaviaya,29066.0,19.02
+2020,Málaga,29067.0,27.39
+2020,Manilva,29068.0,24.44
+2020,Marbella,29069.0,23.14
+2020,Mijas,29070.0,25.13
+2020,Moclinejo,29071.0,27.32
+2020,Mollina,29072.0,21.95
+2020,Monda,29073.0,30.13
+2020,Montejaque,29074.0,28.59
+2020,Nerja,29075.0,32.45
+2020,Ojén,29076.0,22.76
+2020,Parauta,29077.0,15.53
+2020,Periana,29079.0,27.67
+2020,Pizarra,29080.0,26.71
+2020,Pujerra,29081.0,15.4
+2020,Rincón de la Victoria,29082.0,20.59
+2020,Riogordo,29083.0,23.01
+2020,Ronda,29084.0,27.79
+2020,Salares,29085.0,29.26
+2020,Sayalonga,29086.0,29.95
+2020,Sedella,29087.0,27.25
+2020,Sierra de Yeguas,29088.0,22.65
+2020,Teba,29089.0,25.8
+2020,Tolox,29090.0,26.41
+2020,Torrox,29091.0,27.92
+2020,Totalán,29092.0,27.06
+2020,Valle de Abdalajís,29093.0,28.54
+2020,Vélez-Málaga,29094.0,24.15
+2020,Villanueva de Algaidas,29095.0,19.2
+2020,Villanueva del Rosario,29096.0,25.77
+2020,Villanueva del Trabuco,29097.0,22.92
+2020,Villanueva de Tapia,29098.0,20.86
+2020,Viñuela,29099.0,24.4
+2020,Yunquera,29100.0,34.28
+2020,Torremolinos,29901.0,27.17
+2020,Villanueva de la Concepción,29902.0,20.36
+2020,Montecorto,29903.0,25.66
+2020,Serrato,29904.0,31.46
+2020,Aguadulce,41001.0,23.15
+2020,Alanís,41002.0,30.98
+2020,Albaida del Aljarafe,41003.0,26.42
+2020,Alcalá de Guadaíra,41004.0,28.86
+2020,Alcalá del Río,41005.0,24.97
+2020,Alcolea del Río,41006.0,23.93
+2020,"Algaba, La",41007.0,30.21
+2020,Algámitas,41008.0,29.43
+2020,Almadén de la Plata,41009.0,30.22
+2020,Almensilla,41010.0,25.28
+2020,Arahal,41011.0,23.14
+2020,Aznalcázar,41012.0,26.51
+2020,Aznalcóllar,41013.0,31.51
+2020,Badolatosa,41014.0,23.01
+2020,Benacazón,41015.0,26.32
+2020,Bollullos de la Mitación,41016.0,23.63
+2020,Bormujos,41017.0,22.09
+2020,Brenes,41018.0,23.4
+2020,Burguillos,41019.0,28.34
+2020,"Cabezas de San Juan, Las",41020.0,34.34
+2020,Camas,41021.0,31.8
+2020,"Campana, La",41022.0,23.65
+2020,Cantillana,41023.0,24.09
+2020,Carmona,41024.0,26.89
+2020,Carrión de los Céspedes,41025.0,25.2
+2020,Casariche,41026.0,25.1
+2020,Castilblanco de los Arroyos,41027.0,31.76
+2020,Castilleja de Guzmán,41028.0,22.45
+2020,Castilleja de la Cuesta,41029.0,25.2
+2020,Castilleja del Campo,41030.0,25.26
+2020,"Castillo de las Guardas, El",41031.0,27.82
+2020,Cazalla de la Sierra,41032.0,27.94
+2020,Constantina,41033.0,27.73
+2020,Coria del Río,41034.0,28.14
+2020,Coripe,41035.0,20.1
+2020,"Coronil, El",41036.0,26.86
+2020,"Corrales, Los",41037.0,24.34
+2020,Dos Hermanas,41038.0,26.91
+2020,Écija,41039.0,27.9
+2020,Espartinas,41040.0,19.37
+2020,Estepa,41041.0,21.75
+2020,Fuentes de Andalucía,41042.0,24.05
+2020,"Garrobo, El",41043.0,30.43
+2020,Gelves,41044.0,22.9
+2020,Gerena,41045.0,29.02
+2020,Gilena,41046.0,19.45
+2020,Gines,41047.0,21.36
+2020,Guadalcanal,41048.0,26.71
+2020,Guillena,41049.0,31.22
+2020,Herrera,41050.0,19.05
+2020,Huévar del Aljarafe,41051.0,23.19
+2020,Lantejuela,41052.0,24.82
+2020,Lebrija,41053.0,28.81
+2020,Lora de Estepa,41054.0,22.83
+2020,Lora del Río,41055.0,25.59
+2020,"Luisiana, La",41056.0,24.74
+2020,"Madroño, El",41057.0,20.54
+2020,Mairena del Alcor,41058.0,26.1
+2020,Mairena del Aljarafe,41059.0,22.34
+2020,Marchena,41060.0,26.1
+2020,Marinaleda,41061.0,19.31
+2020,Martín de la Jara,41062.0,24.3
+2020,"Molares, Los",41063.0,31.26
+2020,Montellano,41064.0,26.46
+2020,Morón de la Frontera,41065.0,27.68
+2020,"Navas de la Concepción, Las",41066.0,25.44
+2020,Olivares,41067.0,30.35
+2020,Osuna,41068.0,28.11
+2020,"Palacios y Villafranca, Los",41069.0,29.33
+2020,Palomares del Río,41070.0,19.67
+2020,Paradas,41071.0,24.98
+2020,Pedrera,41072.0,22.58
+2020,"Pedroso, El",41073.0,31.39
+2020,Peñaflor,41074.0,22.2
+2020,Pilas,41075.0,25.47
+2020,Pruna,41076.0,29.9
+2020,"Puebla de Cazalla, La",41077.0,26.39
+2020,"Puebla de los Infantes, La",41078.0,24.77
+2020,"Puebla del Río, La",41079.0,31.81
+2020,"Real de la Jara, El",41080.0,30.15
+2020,"Rinconada, La",41081.0,28.2
+2020,"Roda de Andalucía, La",41082.0,21.6
+2020,"Ronquillo, El",41083.0,27.04
+2020,"Rubio, El",41084.0,24.75
+2020,Salteras,41085.0,24.13
+2020,San Juan de Aznalfarache,41086.0,32.9
+2020,Sanlúcar la Mayor,41087.0,27.59
+2020,San Nicolás del Puerto,41088.0,31.85
+2020,Santiponce,41089.0,29.93
+2020,"Saucejo, El",41090.0,25.94
+2020,Sevilla,41091.0,26.57
+2020,Tocina,41092.0,22.92
+2020,Tomares,41093.0,18.65
+2020,Umbrete,41094.0,24.04
+2020,Utrera,41095.0,33.97
+2020,Valencina de la Concepción,41096.0,26.19
+2020,Villamanrique de la Condesa,41097.0,22.57
+2020,Villanueva del Ariscal,41098.0,30.01
+2020,Villanueva del Río y Minas,41099.0,32.0
+2020,Villanueva de San Juan,41100.0,29.95
+2020,Villaverde del Río,41101.0,23.98
+2020,"Viso del Alcor, El",41102.0,26.7
+2020,Cañada Rosal,41901.0,22.65
+2020,Isla Mayor,41902.0,25.36
+2020,"Cuervo de Sevilla, El",41903.0,32.26
+2020,"Palmar de Troya, El",41904.0,
