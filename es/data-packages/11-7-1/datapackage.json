@@ -11,20 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "valor municipio",
-                "valor rural Andalucia",
-                "valor total Andalucia",
-                "valor urbano  Andalucia"
-              ]
-            },
-            "title": "Dimension"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"

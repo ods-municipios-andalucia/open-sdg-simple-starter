@@ -15,17 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "valor total Andalucia",
-                "valor municipio",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Municipio",
             "type": "string",
             "constraints": {

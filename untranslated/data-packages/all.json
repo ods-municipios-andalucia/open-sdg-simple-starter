@@ -17,17 +17,6 @@
             "type": "integer"
           },
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "valor total Andalucia",
-                "valor municipio",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Municipio",
             "type": "string",
             "constraints": {
@@ -846,17 +835,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "valor total Andalucia",
-                "valor municipio",
-                ""
-              ]
-            }
           },
           {
             "name": "Municipio",
@@ -3331,19 +3309,6 @@
             "type": "integer"
           },
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "valor total Andalucia",
-                "valor urbano  Andalucia",
-                "valor rural Andalucia",
-                "valor municipio",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Municipio",
             "type": "string",
             "constraints": {
@@ -4994,17 +4959,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "valor total Andalucia",
-                "valor municipio",
-                ""
-              ]
-            }
           },
           {
             "name": "Municipio",

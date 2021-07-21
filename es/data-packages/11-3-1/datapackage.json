@@ -11,18 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "valor municipio",
-                "valor total Andalucia"
-              ]
-            },
-            "title": "Dimension"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"

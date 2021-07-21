@@ -1,787 +1,787 @@
-Year,Dimension,Municipio,GeoCode,Value
-2019,valor total Andalucia,,,328.0
-2019,valor municipio,Abla,4001.0,45.21
-2019,valor municipio,Abrucena,4002.0,83.61
-2019,valor municipio,Adra,4003.0,89.6
-2019,valor municipio,Albanchez,4004.0,34.9
-2019,valor municipio,Alboloduy,4005.0,69.68
-2019,valor municipio,Albox,4006.0,168.34
-2019,valor municipio,Alcolea,4007.0,67.46
-2019,valor municipio,Alcóntar,4008.0,93.83
-2019,valor municipio,Alcudia de Monteagud,4009.0,15.51
-2019,valor municipio,Alhabia,4010.0,16.38
-2019,valor municipio,Alhama de Almería,4011.0,26.22
-2019,valor municipio,Alicún,4012.0,5.87
-2019,valor municipio,Almería,4013.0,295.29
-2019,valor municipio,Almócita,4014.0,30.8
-2019,valor municipio,Alsodux,4015.0,20.09
-2019,valor municipio,Antas,4016.0,99.67
-2019,valor municipio,Arboleas,4017.0,66.1
-2019,valor municipio,Armuña de Almanzora,4018.0,7.72
-2019,valor municipio,Bacares,4019.0,94.45
-2019,valor municipio,Balanegra,4904.0,31.58
-2019,valor municipio,Bayárcal,4020.0,37.99
-2019,valor municipio,Bayarque,4021.0,26.34
-2019,valor municipio,Bédar,4022.0,46.69
-2019,valor municipio,Beires,4023.0,38.8
-2019,valor municipio,Benahadux,4024.0,16.6
-2019,valor municipio,Benitagla,4026.0,6.39
-2019,valor municipio,Benizalón,4027.0,31.95
-2019,valor municipio,Bentarique,4028.0,11.33
-2019,valor municipio,Berja,4029.0,185.66
-2019,valor municipio,Canjáyar,4030.0,66.87
-2019,valor municipio,Cantoria,4031.0,78.89
-2019,valor municipio,Carboneras,4032.0,95.51
-2019,valor municipio,Castro de Filabres,4033.0,29.21
-2019,valor municipio,Chercos,4036.0,13.55
-2019,valor municipio,Chirivel,4037.0,196.33
-2019,valor municipio,Cóbdar,4034.0,31.97
-2019,valor municipio,Cuevas del Almanzora,4035.0,263.77
-2019,valor municipio,Dalías,4038.0,141.32
-2019,valor municipio,Ejido (El),4902.0,225.21
-2019,valor municipio,Enix,4041.0,66.78
-2019,valor municipio,Felix,4043.0,81.2
-2019,valor municipio,Fines,4044.0,23.06
-2019,valor municipio,Fiñana,4045.0,133.85
-2019,valor municipio,Fondón,4046.0,91.09
-2019,valor municipio,Gádor,4047.0,87.6
-2019,valor municipio,Gallardos (Los),4048.0,34.88
-2019,valor municipio,Garrucha,4049.0,7.76
-2019,valor municipio,Gérgal,4050.0,229.31
-2019,valor municipio,Huécija,4051.0,19.0
-2019,valor municipio,Huércal de Almería,4052.0,20.91
-2019,valor municipio,Huércal-Overa,4053.0,317.97
-2019,valor municipio,Íllar,4054.0,19.17
-2019,valor municipio,Instinción,4055.0,33.46
-2019,valor municipio,Laroya,4056.0,21.63
-2019,valor municipio,Láujar de Andarax,4057.0,92.74
-2019,valor municipio,Líjar,4058.0,28.22
-2019,valor municipio,Lubrín,4059.0,138.05
-2019,valor municipio,Lucainena de las Torres,4060.0,123.12
-2019,valor municipio,Lúcar,4061.0,100.58
-2019,valor municipio,Macael,4062.0,43.77
-2019,valor municipio,María,4063.0,225.46
-2019,valor municipio,Mojácar,4064.0,71.41
-2019,valor municipio,Mojonera (La),4903.0,23.85
-2019,valor municipio,Nacimiento,4065.0,80.7
-2019,valor municipio,Níjar,4066.0,599.27
-2019,valor municipio,Ohanes,4067.0,32.39
-2019,valor municipio,Olula de Castro,4068.0,33.58
-2019,valor municipio,Olula del Río,4069.0,23.5
-2019,valor municipio,Oria,4070.0,234.54
-2019,valor municipio,Padules,4071.0,26.47
-2019,valor municipio,Partaloa,4072.0,52.57
-2019,valor municipio,Paterna del Río,4073.0,45.44
-2019,valor municipio,Pechina,4074.0,46.02
-2019,valor municipio,Pulpí,4075.0,94.45
-2019,valor municipio,Purchena,4076.0,56.62
-2019,valor municipio,Rágol,4077.0,26.9
-2019,valor municipio,Rioja,4078.0,36.38
-2019,valor municipio,Roquetas de Mar,4079.0,59.67
-2019,valor municipio,Santa Cruz de Marchena,4080.0,19.96
-2019,valor municipio,Santa Fe de Mondújar,4081.0,34.84
-2019,valor municipio,Senés,4082.0,50.21
-2019,valor municipio,Serón,4083.0,166.16
-2019,valor municipio,Sierro,4084.0,27.62
-2019,valor municipio,Somontín,4085.0,16.18
-2019,valor municipio,Sorbas,4086.0,249.0
-2019,valor municipio,Suflí,4087.0,10.09
-2019,valor municipio,Tabernas,4088.0,280.17
-2019,valor municipio,Taberno,4089.0,44.03
-2019,valor municipio,Tahal,4090.0,94.53
-2019,valor municipio,Terque,4091.0,15.71
-2019,valor municipio,Tíjola,4092.0,67.68
-2019,valor municipio,Tres Villas (Las),4901.0,85.29
-2019,valor municipio,Turre,4093.0,107.89
-2019,valor municipio,Turrillas,4094.0,39.14
-2019,valor municipio,Uleila del Campo,4095.0,38.64
-2019,valor municipio,Urrácal,4096.0,25.45
-2019,valor municipio,Velefique,4097.0,66.39
-2019,valor municipio,Vélez-Blanco,4098.0,441.02
-2019,valor municipio,Vélez-Rubio,4099.0,281.87
-2019,valor municipio,Vera,4100.0,57.54
-2019,valor municipio,Viator,4101.0,20.61
-2019,valor municipio,Vícar,4102.0,64.29
-2019,valor municipio,Zurgena,4103.0,71.63
-2019,valor municipio,Alcalá de los Gazules,11001.0,479.78
-2019,valor municipio,Alcalá del Valle,11002.0,46.9
-2019,valor municipio,Algar,11003.0,26.62
-2019,valor municipio,Algeciras,11004.0,85.71
-2019,valor municipio,Algodonales,11005.0,134.1
-2019,valor municipio,Arcos de la Frontera,11006.0,527.17
-2019,valor municipio,Barbate,11007.0,143.21
-2019,valor municipio,Barrios (Los),11008.0,330.63
-2019,valor municipio,Benalup-Casas Viejas,11901.0,60.41
-2019,valor municipio,Benaocaz,11009.0,69.42
-2019,valor municipio,Bornos,11010.0,55.11
-2019,valor municipio,Bosque (El),11011.0,30.76
-2019,valor municipio,Cádiz,11012.0,11.91
-2019,valor municipio,Castellar de la Frontera,11013.0,180.52
-2019,valor municipio,Chiclana de la Frontera,11015.0,206.06
-2019,valor municipio,Chipiona,11016.0,32.91
-2019,valor municipio,Conil de la Frontera,11014.0,88.09
-2019,valor municipio,Espera,11017.0,123.53
-2019,valor municipio,Gastor (El),11018.0,27.55
-2019,valor municipio,Grazalema,11019.0,122.45
-2019,valor municipio,Jerez de la Frontera,11020.0,1189.05
-2019,valor municipio,Jimena de la Frontera,11021.0,298.54
-2019,valor municipio,Línea de la Concepción (La),11022.0,26.16
-2019,valor municipio,Medina Sidonia,11023.0,487.25
-2019,valor municipio,Olvera,11024.0,193.74
-2019,valor municipio,Paterna de Rivera,11025.0,13.84
-2019,valor municipio,Prado del Rey,11026.0,48.6
-2019,valor municipio,Puerto de Santa María (El),11027.0,159.1
-2019,valor municipio,Puerto Real,11028.0,196.16
-2019,valor municipio,Puerto Serrano,11029.0,79.88
-2019,valor municipio,Rota,11030.0,84.17
-2019,valor municipio,San Fernando,11031.0,30.69
-2019,valor municipio,San José del Valle,11902.0,224.01
-2019,valor municipio,San Martín del Tesorillo,11903.0,48.46
-2019,valor municipio,San Roque,11033.0,139.43
-2019,valor municipio,Sanlúcar de Barrameda,11032.0,170.5
-2019,valor municipio,Setenil de las Bodegas,11034.0,82.16
-2019,valor municipio,Tarifa,11035.0,419.51
-2019,valor municipio,Torre Alháquime,11036.0,17.36
-2019,valor municipio,Trebujena,11037.0,70.81
-2019,valor municipio,Ubrique,11038.0,69.78
-2019,valor municipio,Vejer de la Frontera,11039.0,263.09
-2019,valor municipio,Villaluenga del Rosario,11040.0,59.48
-2019,valor municipio,Villamartín,11041.0,211.98
-2019,valor municipio,Zahara,11042.0,72.51
-2019,valor municipio,Adamuz,14001.0,334.89
-2019,valor municipio,Aguilar de la Frontera,14002.0,166.01
-2019,valor municipio,Alcaracejos,14003.0,175.85
-2019,valor municipio,Almedinilla,14004.0,55.48
-2019,valor municipio,Almodóvar del Río,14005.0,172.52
-2019,valor municipio,Añora,14006.0,112.49
-2019,valor municipio,Baena,14007.0,362.16
-2019,valor municipio,Belalcázar,14008.0,355.96
-2019,valor municipio,Belmez,14009.0,207.41
-2019,valor municipio,Benamejí,14010.0,53.33
-2019,valor municipio,Blázquez (Los),14011.0,102.77
-2019,valor municipio,Bujalance,14012.0,124.76
-2019,valor municipio,Cabra,14013.0,229.13
-2019,valor municipio,Cañete de las Torres,14014.0,103.47
-2019,valor municipio,Carcabuey,14015.0,79.78
-2019,valor municipio,Cardeña,14016.0,512.59
-2019,valor municipio,Carlota (La),14017.0,79.07
-2019,valor municipio,Carpio (El),14018.0,46.66
-2019,valor municipio,Castro del Río,14019.0,219.64
-2019,valor municipio,Conquista,14020.0,38.52
-2019,valor municipio,Córdoba,14021.0,1253.91
-2019,valor municipio,Doña Mencía,14022.0,15.3
-2019,valor municipio,Dos Torres,14023.0,129.14
-2019,valor municipio,Encinas Reales,14024.0,33.35
-2019,valor municipio,Espejo,14025.0,56.46
-2019,valor municipio,Espiel,14026.0,437.27
-2019,valor municipio,Fernán-Núñez,14027.0,30.17
-2019,valor municipio,Fuente Carreteros,14901.0,9.35
-2019,valor municipio,Fuente la Lancha,14028.0,7.83
-2019,valor municipio,Fuente Obejuna,14029.0,591.6
-2019,valor municipio,Fuente Palmera,14030.0,65.38
-2019,valor municipio,Fuente-Tójar,14031.0,23.65
-2019,valor municipio,Granjuela (La),14032.0,56.16
-2019,valor municipio,Guadalcázar,14033.0,72.36
-2019,valor municipio,Guijarrosa (La),14902.0,45.66
-2019,valor municipio,Guijo (El),14034.0,67.26
-2019,valor municipio,Hinojosa del Duque,14035.0,531.5
-2019,valor municipio,Hornachuelos,14036.0,909.4
-2019,valor municipio,Iznájar,14037.0,136.48
-2019,valor municipio,Lucena,14038.0,351.93
-2019,valor municipio,Luque,14039.0,140.62
-2019,valor municipio,Montalbán de Córdoba,14040.0,34.05
-2019,valor municipio,Montemayor,14041.0,57.94
-2019,valor municipio,Montilla,14042.0,168.98
-2019,valor municipio,Montoro,14043.0,585.84
-2019,valor municipio,Monturque,14044.0,32.53
-2019,valor municipio,Moriles,14045.0,19.58
-2019,valor municipio,Nueva Carteya,14046.0,69.16
-2019,valor municipio,Obejo,14047.0,215.3
-2019,valor municipio,Palenciana,14048.0,16.13
-2019,valor municipio,Palma del Río,14049.0,200.23
-2019,valor municipio,Pedro Abad,14050.0,23.45
-2019,valor municipio,Pedroche,14051.0,121.62
-2019,valor municipio,Peñarroya-Pueblonuevo,14052.0,64.89
-2019,valor municipio,Posadas,14053.0,160.28
-2019,valor municipio,Pozoblanco,14054.0,329.85
-2019,valor municipio,Priego de Córdoba,14055.0,288.12
-2019,valor municipio,Puente Genil,14056.0,171.01
-2019,valor municipio,Rambla (La),14057.0,135.65
-2019,valor municipio,Rute,14058.0,131.87
-2019,valor municipio,San Sebastián de los Ballesteros,14059.0,10.5
-2019,valor municipio,Santa Eufemia,14061.0,187.23
-2019,valor municipio,Santaella,14060.0,225.77
-2019,valor municipio,Torrecampo,14062.0,196.47
-2019,valor municipio,Valenzuela,14063.0,19.03
-2019,valor municipio,Valsequillo,14064.0,121.83
-2019,valor municipio,Victoria (La),14065.0,19.44
-2019,valor municipio,Villa del Río,14066.0,22.06
-2019,valor municipio,Villafranca de Córdoba,14067.0,58.3
-2019,valor municipio,Villaharta,14068.0,11.96
-2019,valor municipio,Villanueva de Córdoba,14069.0,429.39
-2019,valor municipio,Villanueva del Duque,14070.0,137.6
-2019,valor municipio,Villanueva del Rey,14071.0,215.82
-2019,valor municipio,Villaralto,14072.0,23.84
-2019,valor municipio,Villaviciosa de Córdoba,14073.0,468.73
-2019,valor municipio,Viso (El),14074.0,254.38
-2019,valor municipio,Zuheros,14075.0,42.28
-2019,valor municipio,Agrón,18001.0,26.99
-2019,valor municipio,Alamedilla,18002.0,90.65
-2019,valor municipio,Albolote,18003.0,78.53
-2019,valor municipio,Albondón,18004.0,34.45
-2019,valor municipio,Albuñán,18005.0,8.52
-2019,valor municipio,Albuñol,18006.0,63.08
-2019,valor municipio,Albuñuelas,18007.0,139.95
-2019,valor municipio,Aldeire,18010.0,70.02
-2019,valor municipio,Alfacar,18011.0,16.72
-2019,valor municipio,Algarinejo,18012.0,92.06
-2019,valor municipio,Alhama de Granada,18013.0,432.28
-2019,valor municipio,Alhendín,18014.0,50.77
-2019,valor municipio,Alicún de Ortega,18015.0,22.82
-2019,valor municipio,Almegíjar,18016.0,29.4
-2019,valor municipio,Almuñécar,18017.0,83.23
-2019,valor municipio,Alpujarra de la Sierra,18904.0,68.48
-2019,valor municipio,Alquife,18018.0,12.18
-2019,valor municipio,Arenas del Rey,18020.0,92.75
-2019,valor municipio,Armilla,18021.0,4.31
-2019,valor municipio,Atarfe,18022.0,47.22
-2019,valor municipio,Baza,18023.0,544.95
-2019,valor municipio,Beas de Granada,18024.0,23.18
-2019,valor municipio,Beas de Guadix,18025.0,16.22
-2019,valor municipio,Benalúa,18027.0,8.68
-2019,valor municipio,Benalúa de las Villas,18028.0,21.64
-2019,valor municipio,Benamaurel,18029.0,127.78
-2019,valor municipio,Bérchules,18030.0,69.53
-2019,valor municipio,Bubión,18032.0,14.85
-2019,valor municipio,Busquístar,18033.0,18.02
-2019,valor municipio,Cacín,18034.0,39.58
-2019,valor municipio,Cádiar,18035.0,47.28
-2019,valor municipio,Cájar,18036.0,1.65
-2019,valor municipio,Calahorra (La),18114.0,39.42
-2019,valor municipio,Calicasas,18037.0,11.24
-2019,valor municipio,Campotéjar,18038.0,35.79
-2019,valor municipio,Caniles,18039.0,216.59
-2019,valor municipio,Cáñar,18040.0,26.33
-2019,valor municipio,Capileira,18042.0,56.85
-2019,valor municipio,Carataunas,18043.0,4.66
-2019,valor municipio,Cástaras,18044.0,28.34
-2019,valor municipio,Castilléjar,18045.0,131.22
-2019,valor municipio,Castril,18046.0,243.05
-2019,valor municipio,Cenes de la Vega,18047.0,6.48
-2019,valor municipio,Chauchina,18059.0,21.2
-2019,valor municipio,Chimeneas,18061.0,90.27
-2019,valor municipio,Churriana de la Vega,18062.0,6.6
-2019,valor municipio,Cijuela,18048.0,17.91
-2019,valor municipio,Cogollos de Guadix,18049.0,30.23
-2019,valor municipio,Cogollos de la Vega,18050.0,49.83
-2019,valor municipio,Colomera,18051.0,111.9
-2019,valor municipio,Cortes de Baza,18053.0,140.44
-2019,valor municipio,Cortes y Graena,18054.0,22.44
-2019,valor municipio,Cuevas del Campo,18912.0,96.53
-2019,valor municipio,Cúllar,18056.0,427.21
-2019,valor municipio,Cúllar Vega,18057.0,4.34
-2019,valor municipio,Darro,18063.0,50.46
-2019,valor municipio,Dehesas de Guadix,18064.0,56.91
-2019,valor municipio,Dehesas Viejas,18065.0,13.79
-2019,valor municipio,Deifontes,18066.0,40.45
-2019,valor municipio,Diezma,18067.0,42.06
-2019,valor municipio,Dílar,18068.0,79.22
-2019,valor municipio,Dólar,18069.0,78.52
-2019,valor municipio,Domingo Pérez de Granada,18915.0,48.65
-2019,valor municipio,Dúdar,18070.0,8.36
-2019,valor municipio,Dúrcal,18071.0,76.58
-2019,valor municipio,Escúzar,18072.0,46.36
-2019,valor municipio,Ferreira,18074.0,43.55
-2019,valor municipio,Fonelas,18076.0,96.36
-2019,valor municipio,Fornes,18077.0,15.14
-2019,valor municipio,Freila,18078.0,74.45
-2019,valor municipio,Fuente Vaqueros,18079.0,16.0
-2019,valor municipio,Gabias (Las),18905.0,39.03
-2019,valor municipio,Galera,18082.0,118.29
-2019,valor municipio,Gobernador,18083.0,22.99
-2019,valor municipio,Gójar,18084.0,12.0
-2019,valor municipio,Gor,18085.0,180.89
-2019,valor municipio,Gorafe,18086.0,76.99
-2019,valor municipio,Granada,18087.0,88.06
-2019,valor municipio,Guadahortuna,18088.0,121.15
-2019,valor municipio,Guadix,18089.0,323.9
-2019,valor municipio,Guájares (Los),18906.0,89.25
-2019,valor municipio,Gualchos,18093.0,30.89
-2019,valor municipio,Güéjar Sierra,18094.0,238.76
-2019,valor municipio,Güevéjar,18095.0,9.74
-2019,valor municipio,Huélago,18096.0,32.43
-2019,valor municipio,Huéneja,18097.0,116.65
-2019,valor municipio,Huéscar,18098.0,472.98
-2019,valor municipio,Huétor de Santillán,18099.0,93.2
-2019,valor municipio,Huétor Tájar,18100.0,39.92
-2019,valor municipio,Huétor Vega,18101.0,4.23
-2019,valor municipio,Íllora,18102.0,197.3
-2019,valor municipio,Ítrabo,18103.0,19.0
-2019,valor municipio,Iznalloz,18105.0,247.45
-2019,valor municipio,Játar,18106.0,9.76
-2019,valor municipio,Jayena,18107.0,79.47
-2019,valor municipio,Jérez del Marquesado,18108.0,82.69
-2019,valor municipio,Jete,18109.0,13.9
-2019,valor municipio,Jun,18111.0,3.69
-2019,valor municipio,Juviles,18112.0,14.97
-2019,valor municipio,Láchar,18115.0,13.11
-2019,valor municipio,Lanjarón,18116.0,60.33
-2019,valor municipio,Lanteira,18117.0,52.74
-2019,valor municipio,Lecrín,18119.0,40.46
-2019,valor municipio,Lentegí,18120.0,23.74
-2019,valor municipio,Lobras,18121.0,16.04
-2019,valor municipio,Loja,18122.0,447.29
-2019,valor municipio,Lugros,18123.0,63.23
-2019,valor municipio,Lújar,18124.0,36.83
-2019,valor municipio,Malahá (La),18126.0,25.41
-2019,valor municipio,Maracena,18127.0,4.89
-2019,valor municipio,Marchal,18128.0,7.8
-2019,valor municipio,Moclín,18132.0,113.04
-2019,valor municipio,Molvízar,18133.0,21.45
-2019,valor municipio,Monachil,18134.0,88.85
-2019,valor municipio,Montefrío,18135.0,253.77
-2019,valor municipio,Montejícar,18136.0,87.51
-2019,valor municipio,Montillana,18137.0,75.12
-2019,valor municipio,Moraleda de Zafayona,18138.0,48.14
-2019,valor municipio,Morelábor,18909.0,38.62
-2019,valor municipio,Motril,18140.0,102.95
-2019,valor municipio,Murtas,18141.0,71.64
-2019,valor municipio,Nevada,18903.0,77.25
-2019,valor municipio,Nigüelas,18143.0,30.9
-2019,valor municipio,Nívar,18144.0,11.17
-2019,valor municipio,Ogíjares,18145.0,6.9
-2019,valor municipio,Orce,18146.0,324.42
-2019,valor municipio,Órgiva,18147.0,134.04
-2019,valor municipio,Otívar,18148.0,57.43
-2019,valor municipio,Padul,18150.0,89.09
-2019,valor municipio,Pampaneira,18151.0,17.46
-2019,valor municipio,Pedro Martínez,18152.0,136.82
-2019,valor municipio,Peligros,18153.0,10.14
-2019,valor municipio,Peza (La),18154.0,101.21
-2019,valor municipio,Pinar (El),18910.0,37.98
-2019,valor municipio,Pinos Genil,18157.0,13.98
-2019,valor municipio,Pinos Puente,18158.0,92.88
-2019,valor municipio,Píñar,18159.0,125.63
-2019,valor municipio,Polícar,18161.0,5.37
-2019,valor municipio,Polopos,18162.0,26.47
-2019,valor municipio,Pórtugos,18163.0,20.81
-2019,valor municipio,Puebla de Don Fadrique,18164.0,522.94
-2019,valor municipio,Pulianas,18165.0,6.33
-2019,valor municipio,Purullena,18167.0,21.4
-2019,valor municipio,Quéntar,18168.0,66.44
-2019,valor municipio,Rubite,18170.0,28.47
-2019,valor municipio,Salar,18171.0,84.3
-2019,valor municipio,Salobreña,18173.0,34.83
-2019,valor municipio,Santa Cruz del Comercio,18174.0,16.88
-2019,valor municipio,Santa Fe,18175.0,38.17
-2019,valor municipio,Soportújar,18176.0,14.15
-2019,valor municipio,Sorvilán,18177.0,34.3
-2019,valor municipio,Taha (La),18901.0,25.57
-2019,valor municipio,Torre-Cardela,18178.0,15.18
-2019,valor municipio,Torrenueva Costa,18916.0,6.46
-2019,valor municipio,Torvizcón,18179.0,51.39
-2019,valor municipio,Trevélez,18180.0,90.89
-2019,valor municipio,Turón,18181.0,55.53
-2019,valor municipio,Ugíjar,18182.0,66.9
-2019,valor municipio,Valderrubio,18914.0,5.53
-2019,valor municipio,Valle (El),18902.0,25.82
-2019,valor municipio,Valle del Zalabí,18907.0,108.6
-2019,valor municipio,Válor,18183.0,58.52
-2019,valor municipio,Vegas del Genil,18911.0,14.14
-2019,valor municipio,Vélez de Benaudalla,18184.0,79.05
-2019,valor municipio,Ventas de Huelma,18185.0,42.41
-2019,valor municipio,Villa de Otura,18149.0,24.32
-2019,valor municipio,Villamena,18908.0,20.17
-2019,valor municipio,Villanueva de las Torres,18187.0,66.84
-2019,valor municipio,Villanueva Mesía,18188.0,11.17
-2019,valor municipio,Víznar,18189.0,12.99
-2019,valor municipio,Zafarraya,18192.0,57.83
-2019,valor municipio,Zagra,18913.0,11.33
-2019,valor municipio,Zubia (La),18193.0,20.09
-2019,valor municipio,Zújar,18194.0,102.04
-2019,valor municipio,Alájar,21001.0,41.53
-2019,valor municipio,Aljaraque,21002.0,33.9
-2019,valor municipio,Almendro (El),21003.0,171.09
-2019,valor municipio,Almonaster la Real,21004.0,321.91
-2019,valor municipio,Almonte,21005.0,859.81
-2019,valor municipio,Alosno,21006.0,191.53
-2019,valor municipio,Aracena,21007.0,184.75
-2019,valor municipio,Aroche,21008.0,499.53
-2019,valor municipio,Arroyomolinos de León,21009.0,87.07
-2019,valor municipio,Ayamonte,21010.0,141.53
-2019,valor municipio,Beas,21011.0,144.97
-2019,valor municipio,Berrocal,21012.0,126.43
-2019,valor municipio,Bollullos Par del Condado,21013.0,49.39
-2019,valor municipio,Bonares,21014.0,64.89
-2019,valor municipio,Cabezas Rubias,21015.0,108.91
-2019,valor municipio,Cala,21016.0,84.04
-2019,valor municipio,Calañas,21017.0,238.33
-2019,valor municipio,Campillo (El),21018.0,90.88
-2019,valor municipio,Campofrío,21019.0,47.06
-2019,valor municipio,Cañaveral de León,21020.0,34.81
-2019,valor municipio,Cartaya,21021.0,225.65
-2019,valor municipio,Castaño del Robledo,21022.0,12.95
-2019,valor municipio,Cerro de Andévalo (El),21023.0,286.78
-2019,valor municipio,Chucena,21030.0,26.09
-2019,valor municipio,Corteconcepción,21024.0,49.21
-2019,valor municipio,Cortegana,21025.0,173.42
-2019,valor municipio,Cortelazor,21026.0,39.99
-2019,valor municipio,Cumbres de Enmedio,21027.0,13.57
-2019,valor municipio,Cumbres de San Bartolomé,21028.0,144.85
-2019,valor municipio,Cumbres Mayores,21029.0,121.81
-2019,valor municipio,Encinasola,21031.0,178.11
-2019,valor municipio,Escacena del Campo,21032.0,135.09
-2019,valor municipio,Fuenteheridos,21033.0,10.94
-2019,valor municipio,Galaroza,21034.0,22.31
-2019,valor municipio,Gibraleón,21035.0,329.08
-2019,valor municipio,Granada de Río-Tinto (La),21036.0,44.77
-2019,valor municipio,Granado (El),21037.0,97.84
-2019,valor municipio,Higuera de la Sierra,21038.0,24.52
-2019,valor municipio,Hinojales,21039.0,26.75
-2019,valor municipio,Hinojos,21040.0,320.34
-2019,valor municipio,Huelva,21041.0,151.82
-2019,valor municipio,Isla Cristina,21042.0,49.83
-2019,valor municipio,Jabugo,21043.0,24.96
-2019,valor municipio,Lepe,21044.0,127.7
-2019,valor municipio,Linares de la Sierra,21045.0,29.27
-2019,valor municipio,Lucena del Puerto,21046.0,69.86
-2019,valor municipio,Manzanilla,21047.0,39.69
-2019,valor municipio,Marines (Los),21048.0,10.0
-2019,valor municipio,Minas de Riotinto,21049.0,23.35
-2019,valor municipio,Moguer,21050.0,204.15
-2019,valor municipio,Nava (La),21051.0,61.14
-2019,valor municipio,Nerva,21052.0,55.48
-2019,valor municipio,Niebla,21053.0,223.99
-2019,valor municipio,Palma del Condado (La),21054.0,60.52
-2019,valor municipio,Palos de la Frontera,21055.0,48.93
-2019,valor municipio,Paterna del Campo,21056.0,132.73
-2019,valor municipio,Paymogo,21057.0,214.04
-2019,valor municipio,Puebla de Guzmán,21058.0,337.21
-2019,valor municipio,Puerto Moral,21059.0,19.85
-2019,valor municipio,Punta Umbría,21060.0,38.27
-2019,valor municipio,Rociana del Condado,21061.0,72.07
-2019,valor municipio,Rosal de la Frontera,21062.0,210.0
-2019,valor municipio,San Bartolomé de la Torre,21063.0,56.75
-2019,valor municipio,San Juan del Puerto,21064.0,45.39
-2019,valor municipio,San Silvestre de Guzmán,21066.0,48.73
-2019,valor municipio,Sanlúcar de Guadiana,21065.0,96.84
-2019,valor municipio,Santa Ana la Real,21067.0,26.62
-2019,valor municipio,Santa Bárbara de Casa,21068.0,146.96
-2019,valor municipio,Santa Olalla del Cala,21069.0,203.17
-2019,valor municipio,Trigueros,21070.0,118.22
-2019,valor municipio,Valdelarco,21071.0,14.89
-2019,valor municipio,Valverde del Camino,21072.0,219.06
-2019,valor municipio,Villablanca,21073.0,98.58
-2019,valor municipio,Villalba del Alcor,21074.0,62.47
-2019,valor municipio,Villanueva de las Cruces,21075.0,34.46
-2019,valor municipio,Villanueva de los Castillejos,21076.0,264.67
-2019,valor municipio,Villarrasa,21077.0,72.32
-2019,valor municipio,Zalamea la Real,21078.0,239.28
-2019,valor municipio,Zarza-Perrunal (La),21902.0,44.71
-2019,valor municipio,Zufre,21079.0,341.13
-2019,valor municipio,Albanchez de Mágina,23001.0,38.8
-2019,valor municipio,Alcalá la Real,23002.0,261.2
-2019,valor municipio,Alcaudete,23003.0,236.71
-2019,valor municipio,Aldeaquemada,23004.0,120.17
-2019,valor municipio,Andújar,23005.0,964.29
-2019,valor municipio,Arjona,23006.0,158.36
-2019,valor municipio,Arjonilla,23007.0,42.53
-2019,valor municipio,Arquillos,23008.0,65.74
-2019,valor municipio,Arroyo del Ojanco,23905.0,57.26
-2019,valor municipio,Baeza,23009.0,192.63
-2019,valor municipio,Bailén,23010.0,117.06
-2019,valor municipio,Baños de la Encina,23011.0,391.99
-2019,valor municipio,Beas de Segura,23012.0,159.25
-2019,valor municipio,Bedmar y Garcíez,23902.0,118.71
-2019,valor municipio,Begíjar,23014.0,42.76
-2019,valor municipio,Bélmez de la Moraleda,23015.0,49.4
-2019,valor municipio,Benatae,23016.0,44.43
-2019,valor municipio,Cabra del Santo Cristo,23017.0,186.88
-2019,valor municipio,Cambil,23018.0,139.78
-2019,valor municipio,Campillo de Arenas,23019.0,116.64
-2019,valor municipio,Canena,23020.0,14.32
-2019,valor municipio,Carboneros,23021.0,58.56
-2019,valor municipio,Cárcheles,23901.0,40.48
-2019,valor municipio,Carolina (La),23024.0,201.22
-2019,valor municipio,Castellar,23025.0,157.21
-2019,valor municipio,Castillo de Locubín,23026.0,102.49
-2019,valor municipio,Cazalilla,23027.0,46.59
-2019,valor municipio,Cazorla,23028.0,305.17
-2019,valor municipio,Chiclana de Segura,23029.0,235.8
-2019,valor municipio,Chilluévar,23030.0,38.75
-2019,valor municipio,Escañuela,23031.0,13.74
-2019,valor municipio,Espeluy,23032.0,25.48
-2019,valor municipio,Frailes,23033.0,40.31
-2019,valor municipio,Fuensanta de Martos,23034.0,54.01
-2019,valor municipio,Fuerte del Rey,23035.0,35.07
-2019,valor municipio,Génave,23037.0,63.53
-2019,valor municipio,Guardia de Jaén (La),23038.0,38.4
-2019,valor municipio,Guarromán,23039.0,96.15
-2019,valor municipio,Higuera de Calatrava,23041.0,38.74
-2019,valor municipio,Hinojares,23042.0,40.0
-2019,valor municipio,Hornos,23043.0,117.48
-2019,valor municipio,Huelma,23044.0,250.09
-2019,valor municipio,Huesa,23045.0,138.32
-2019,valor municipio,Ibros,23046.0,55.76
-2019,valor municipio,Iruela (La),23047.0,123.87
-2019,valor municipio,Iznatoraf,23048.0,86.47
-2019,valor municipio,Jabalquinto,23049.0,73.19
-2019,valor municipio,Jaén,23050.0,423.93
-2019,valor municipio,Jamilena,23051.0,8.98
-2019,valor municipio,Jimena,23052.0,48.01
-2019,valor municipio,Jódar,23053.0,148.66
-2019,valor municipio,Lahiguera,23040.0,44.73
-2019,valor municipio,Larva,23054.0,41.73
-2019,valor municipio,Linares,23055.0,196.56
-2019,valor municipio,Lopera,23056.0,67.86
-2019,valor municipio,Lupión,23057.0,24.31
-2019,valor municipio,Mancha Real,23058.0,97.63
-2019,valor municipio,Marmolejo,23059.0,177.97
-2019,valor municipio,Martos,23060.0,260.95
-2019,valor municipio,Mengíbar,23061.0,62.3
-2019,valor municipio,Montizón,23062.0,211.79
-2019,valor municipio,Navas de San Juan,23063.0,175.63
-2019,valor municipio,Noalejo,23064.0,49.77
-2019,valor municipio,Orcera,23065.0,126.1
-2019,valor municipio,Peal de Becerro,23066.0,147.24
-2019,valor municipio,Pegalajar,23067.0,79.89
-2019,valor municipio,Porcuna,23069.0,175.48
-2019,valor municipio,Pozo Alcón,23070.0,138.5
-2019,valor municipio,Puente de Génave,23071.0,38.81
-2019,valor municipio,Puerta de Segura (La),23072.0,97.38
-2019,valor municipio,Quesada,23073.0,328.09
-2019,valor municipio,Rus,23074.0,47.08
-2019,valor municipio,Sabiote,23075.0,112.11
-2019,valor municipio,Santa Elena,23076.0,145.36
-2019,valor municipio,Santiago de Calatrava,23077.0,47.51
-2019,valor municipio,Santiago-Pontones,23904.0,682.3
-2019,valor municipio,Santisteban del Puerto,23079.0,372.62
-2019,valor municipio,Santo Tomé,23080.0,73.42
-2019,valor municipio,Segura de la Sierra,23081.0,224.83
-2019,valor municipio,Siles,23082.0,177.69
-2019,valor municipio,Sorihuela del Guadalimar,23084.0,55.26
-2019,valor municipio,Torreblascopedro,23085.0,61.38
-2019,valor municipio,Torredelcampo,23086.0,182.05
-2019,valor municipio,Torredonjimeno,23087.0,157.68
-2019,valor municipio,Torreperogil,23088.0,90.87
-2019,valor municipio,Torres,23090.0,79.98
-2019,valor municipio,Torres de Albánchez,23091.0,64.83
-2019,valor municipio,Úbeda,23092.0,403.45
-2019,valor municipio,Valdepeñas de Jaén,23093.0,183.68
-2019,valor municipio,Vilches,23094.0,273.38
-2019,valor municipio,Villacarrillo,23095.0,239.37
-2019,valor municipio,Villanueva de la Reina,23096.0,209.12
-2019,valor municipio,Villanueva del Arzobispo,23097.0,177.67
-2019,valor municipio,Villardompardo,23098.0,17.46
-2019,valor municipio,Villares (Los),23099.0,88.55
-2019,valor municipio,Villarrodrigo,23101.0,78.43
-2019,valor municipio,Villatorres,23903.0,72.62
-2019,valor municipio,Alameda,29001.0,65.09
-2019,valor municipio,Alcaucín,29002.0,45.1
-2019,valor municipio,Alfarnate,29003.0,33.97
-2019,valor municipio,Alfarnatejo,29004.0,20.35
-2019,valor municipio,Algarrobo,29005.0,9.7
-2019,valor municipio,Algatocín,29006.0,19.72
-2019,valor municipio,Alhaurín de la Torre,29007.0,82.67
-2019,valor municipio,Alhaurín el Grande,29008.0,73.08
-2019,valor municipio,Almáchar,29009.0,14.39
-2019,valor municipio,Almargen,29010.0,34.37
-2019,valor municipio,Almogía,29011.0,162.83
-2019,valor municipio,Álora,29012.0,169.58
-2019,valor municipio,Alozaina,29013.0,33.85
-2019,valor municipio,Alpandeire,29014.0,31.25
-2019,valor municipio,Antequera,29015.0,749.2
-2019,valor municipio,Árchez,29016.0,4.79
-2019,valor municipio,Archidona,29017.0,186.18
-2019,valor municipio,Ardales,29018.0,106.45
-2019,valor municipio,Arenas,29019.0,26.29
-2019,valor municipio,Arriate,29020.0,8.27
-2019,valor municipio,Atajate,29021.0,10.9
-2019,valor municipio,Benadalid,29022.0,20.68
-2019,valor municipio,Benahavís,29023.0,145.4
-2019,valor municipio,Benalauría,29024.0,19.75
-2019,valor municipio,Benalmádena,29025.0,26.8
-2019,valor municipio,Benamargosa,29026.0,12.11
-2019,valor municipio,Benamocarra,29027.0,5.73
-2019,valor municipio,Benaoján,29028.0,32.0
-2019,valor municipio,Benarrabá,29029.0,24.9
-2019,valor municipio,Borge (El),29030.0,24.38
-2019,valor municipio,Burgo (El),29031.0,118.35
-2019,valor municipio,Campillos,29032.0,187.42
-2019,valor municipio,Canillas de Aceituno,29033.0,42.0
-2019,valor municipio,Canillas de Albaida,29034.0,33.2
-2019,valor municipio,Cañete la Real,29035.0,164.97
-2019,valor municipio,Carratraca,29036.0,22.56
-2019,valor municipio,Cartajima,29037.0,21.47
-2019,valor municipio,Cártama,29038.0,105.07
-2019,valor municipio,Casabermeja,29039.0,67.26
-2019,valor municipio,Casarabonela,29040.0,113.72
-2019,valor municipio,Casares,29041.0,162.37
-2019,valor municipio,Coín,29042.0,127.34
-2019,valor municipio,Colmenar,29043.0,65.92
-2019,valor municipio,Comares,29044.0,25.49
-2019,valor municipio,Cómpeta,29045.0,54.2
-2019,valor municipio,Cortes de la Frontera,29046.0,175.34
-2019,valor municipio,Cuevas Bajas,29047.0,16.51
-2019,valor municipio,Cuevas de San Marcos,29049.0,36.87
-2019,valor municipio,Cuevas del Becerro,29048.0,16.3
-2019,valor municipio,Cútar,29050.0,19.41
-2019,valor municipio,Estepona,29051.0,137.35
-2019,valor municipio,Faraján,29052.0,20.41
-2019,valor municipio,Frigiliana,29053.0,40.49
-2019,valor municipio,Fuengirola,29054.0,10.31
-2019,valor municipio,Fuente de Piedra,29055.0,90.53
-2019,valor municipio,Gaucín,29056.0,98.26
-2019,valor municipio,Genalguacil,29057.0,31.87
-2019,valor municipio,Guaro,29058.0,22.39
-2019,valor municipio,Humilladero,29059.0,34.65
-2019,valor municipio,Igualeja,29060.0,43.87
-2019,valor municipio,Istán,29061.0,99.28
-2019,valor municipio,Iznate,29062.0,7.46
-2019,valor municipio,Jimera de Líbar,29063.0,27.18
-2019,valor municipio,Jubrique,29064.0,39.33
-2019,valor municipio,Júzcar,29065.0,33.66
-2019,valor municipio,Macharaviaya,29066.0,7.26
-2019,valor municipio,Málaga,29067.0,394.88
-2019,valor municipio,Manilva,29068.0,35.55
-2019,valor municipio,Marbella,29069.0,117.11
-2019,valor municipio,Mijas,29070.0,148.68
-2019,valor municipio,Moclinejo,29071.0,14.28
-2019,valor municipio,Mollina,29072.0,74.54
-2019,valor municipio,Monda,29073.0,57.65
-2019,valor municipio,Montecorto,29903.0,54.5
-2019,valor municipio,Montejaque,29074.0,45.47
-2019,valor municipio,Nerja,29075.0,85.02
-2019,valor municipio,Ojén,29076.0,85.6
-2019,valor municipio,Parauta,29077.0,44.46
-2019,valor municipio,Periana,29079.0,58.73
-2019,valor municipio,Pizarra,29080.0,63.6
-2019,valor municipio,Pujerra,29081.0,24.39
-2019,valor municipio,Rincón de la Victoria,29082.0,27.87
-2019,valor municipio,Riogordo,29083.0,39.97
-2019,valor municipio,Ronda,29084.0,397.34
-2019,valor municipio,Salares,29085.0,10.28
-2019,valor municipio,Sayalonga,29086.0,18.29
-2019,valor municipio,Sedella,29087.0,31.6
-2019,valor municipio,Serrato,29904.0,29.11
-2019,valor municipio,Sierra de Yeguas,29088.0,85.62
-2019,valor municipio,Teba,29089.0,143.73
-2019,valor municipio,Tolox,29090.0,94.43
-2019,valor municipio,Torremolinos,29901.0,19.87
-2019,valor municipio,Torrox,29091.0,49.94
-2019,valor municipio,Totalán,29092.0,9.2
-2019,valor municipio,Valle de Abdalajís,29093.0,21.17
-2019,valor municipio,Vélez-Málaga,29094.0,157.94
-2019,valor municipio,Villanueva de Algaidas,29095.0,70.74
-2019,valor municipio,Villanueva de la Concepción,29902.0,66.41
-2019,valor municipio,Villanueva de Tapia,29098.0,21.86
-2019,valor municipio,Villanueva del Rosario,29096.0,43.94
-2019,valor municipio,Villanueva del Trabuco,29097.0,59.14
-2019,valor municipio,Viñuela,29099.0,27.2
-2019,valor municipio,Yunquera,29100.0,55.15
-2019,valor municipio,Aguadulce,41001.0,13.69
-2019,valor municipio,Alanís,41002.0,281.2
-2019,valor municipio,Albaida del Aljarafe,41003.0,10.93
-2019,valor municipio,Alcalá de Guadaíra,41004.0,285.21
-2019,valor municipio,Alcalá del Río,41005.0,82.65
-2019,valor municipio,Alcolea del Río,41006.0,50.2
-2019,valor municipio,Algaba (La),41007.0,18.13
-2019,valor municipio,Algámitas,41008.0,20.43
-2019,valor municipio,Almadén de la Plata,41009.0,256.02
-2019,valor municipio,Almensilla,41010.0,14.11
-2019,valor municipio,Arahal,41011.0,201.23
-2019,valor municipio,Aznalcázar,41012.0,450.21
-2019,valor municipio,Aznalcóllar,41013.0,199.47
-2019,valor municipio,Badolatosa,41014.0,47.78
-2019,valor municipio,Benacazón,41015.0,32.17
-2019,valor municipio,Bollullos de la Mitación,41016.0,62.61
-2019,valor municipio,Bormujos,41017.0,12.24
-2019,valor municipio,Brenes,41018.0,21.48
-2019,valor municipio,Burguillos,41019.0,43.18
-2019,valor municipio,Cabezas de San Juan (Las),41020.0,229.9
-2019,valor municipio,Camas,41021.0,11.66
-2019,valor municipio,Campana (La),41022.0,125.81
-2019,valor municipio,Cantillana,41023.0,107.11
-2019,valor municipio,Cañada Rosal,41901.0,25.83
-2019,valor municipio,Carmona,41024.0,922.57
-2019,valor municipio,Carrión de los Céspedes,41025.0,6.04
-2019,valor municipio,Casariche,41026.0,52.88
-2019,valor municipio,Castilblanco de los Arroyos,41027.0,323.84
-2019,valor municipio,Castilleja de Guzmán,41028.0,2.04
-2019,valor municipio,Castilleja de la Cuesta,41029.0,2.17
-2019,valor municipio,Castilleja del Campo,41030.0,16.24
-2019,valor municipio,Castillo de las Guardas (El),41031.0,259.07
-2019,valor municipio,Cazalla de la Sierra,41032.0,356.39
-2019,valor municipio,Constantina,41033.0,481.57
-2019,valor municipio,Coria del Río,41034.0,62.07
-2019,valor municipio,Coripe,41035.0,51.47
-2019,valor municipio,Coronil (El),41036.0,91.69
-2019,valor municipio,Corrales (Los),41037.0,67.53
-2019,valor municipio,Cuervo de Sevilla (El),41903.0,30.47
-2019,valor municipio,Dos Hermanas,41038.0,160.73
-2019,valor municipio,Écija,41039.0,978.51
-2019,valor municipio,Espartinas,41040.0,22.71
-2019,valor municipio,Estepa,41041.0,189.95
-2019,valor municipio,Fuentes de Andalucía,41042.0,150.56
-2019,valor municipio,Garrobo (El),41043.0,44.37
-2019,valor municipio,Gelves,41044.0,8.07
-2019,valor municipio,Gerena,41045.0,129.22
-2019,valor municipio,Gilena,41046.0,50.96
-2019,valor municipio,Gines,41047.0,2.91
-2019,valor municipio,Guadalcanal,41048.0,275.09
-2019,valor municipio,Guillena,41049.0,227.14
-2019,valor municipio,Herrera,41050.0,53.47
-2019,valor municipio,Huévar del Aljarafe,41051.0,57.67
-2019,valor municipio,Isla Mayor,41902.0,114.51
-2019,valor municipio,Lantejuela,41052.0,17.75
-2019,valor municipio,Lebrija,41053.0,375.58
-2019,valor municipio,Lora de Estepa,41054.0,18.08
-2019,valor municipio,Lora del Río,41055.0,294.37
-2019,valor municipio,Luisiana (La),41056.0,42.98
-2019,valor municipio,Madroño (El),41057.0,103.07
-2019,valor municipio,Mairena del Alcor,41058.0,69.96
-2019,valor municipio,Mairena del Aljarafe,41059.0,17.71
-2019,valor municipio,Marchena,41060.0,378.66
-2019,valor municipio,Marinaleda,41061.0,24.82
-2019,valor municipio,Martín de la Jara,41062.0,49.23
-2019,valor municipio,Molares (Los),41063.0,42.78
-2019,valor municipio,Montellano,41064.0,116.77
-2019,valor municipio,Morón de la Frontera,41065.0,432.08
-2019,valor municipio,Navas de la Concepción (Las),41066.0,63.38
-2019,valor municipio,Olivares,41067.0,45.54
-2019,valor municipio,Osuna,41068.0,592.29
-2019,valor municipio,Palacios y Villafranca (Los),41069.0,109.56
-2019,valor municipio,Palmar de Troya (El),41904.0,33.04
-2019,valor municipio,Palomares del Río,41070.0,13.13
-2019,valor municipio,Paradas,41071.0,109.82
-2019,valor municipio,Pedrera,41072.0,60.63
-2019,valor municipio,Pedroso (El),41073.0,314.34
-2019,valor municipio,Peñaflor,41074.0,82.91
-2019,valor municipio,Pilas,41075.0,46.0
-2019,valor municipio,Pruna,41076.0,100.65
-2019,valor municipio,Puebla de Cazalla (La),41077.0,189.84
-2019,valor municipio,Puebla de los Infantes (La),41078.0,154.28
-2019,valor municipio,Puebla del Río (La),41079.0,375.21
-2019,valor municipio,Real de la Jara (El),41080.0,157.5
-2019,valor municipio,Rinconada (La),41081.0,138.8
-2019,valor municipio,Roda de Andalucía (La),41082.0,76.67
-2019,valor municipio,Ronquillo (El),41083.0,76.61
-2019,valor municipio,Rubio (El),41084.0,20.8
-2019,valor municipio,Salteras,41085.0,57.45
-2019,valor municipio,San Juan de Aznalfarache,41086.0,4.08
-2019,valor municipio,San Nicolás del Puerto,41088.0,45.01
-2019,valor municipio,Sanlúcar la Mayor,41087.0,136.33
-2019,valor municipio,Santiponce,41089.0,8.41
-2019,valor municipio,Saucejo (El),41090.0,92.3
-2019,valor municipio,Sevilla,41091.0,141.63
-2019,valor municipio,Tocina,41092.0,15.63
-2019,valor municipio,Tomares,41093.0,5.17
-2019,valor municipio,Umbrete,41094.0,12.48
-2019,valor municipio,Utrera,41095.0,651.74
-2019,valor municipio,Valencina de la Concepción,41096.0,25.17
-2019,valor municipio,Villamanrique de la Condesa,41097.0,57.74
-2019,valor municipio,Villanueva de San Juan,41100.0,34.75
-2019,valor municipio,Villanueva del Ariscal,41098.0,4.72
-2019,valor municipio,Villanueva del Río y Minas,41099.0,150.8
-2019,valor municipio,Villaverde del Río,41101.0,41.18
-2019,valor municipio,Viso del Alcor (El),41102.0,20.23
+Year,Municipio,GeoCode,Value
+2019,,,328.0
+2019,Abla,A04001,45.21
+2019,Abrucena,A04002,83.61
+2019,Adra,A04003,89.6
+2019,Albanchez,A04004,34.9
+2019,Alboloduy,A04005,69.68
+2019,Albox,A04006,168.34
+2019,Alcolea,A04007,67.46
+2019,Alcóntar,A04008,93.83
+2019,Alcudia de Monteagud,A04009,15.51
+2019,Alhabia,A04010,16.38
+2019,Alhama de Almería,A04011,26.22
+2019,Alicún,A04012,5.87
+2019,Almería,A04013,295.29
+2019,Almócita,A04014,30.8
+2019,Alsodux,A04015,20.09
+2019,Antas,A04016,99.67
+2019,Arboleas,A04017,66.1
+2019,Armuña de Almanzora,A04018,7.72
+2019,Bacares,A04019,94.45
+2019,Balanegra,A04904,31.58
+2019,Bayárcal,A04020,37.99
+2019,Bayarque,A04021,26.34
+2019,Bédar,A04022,46.69
+2019,Beires,A04023,38.8
+2019,Benahadux,A04024,16.6
+2019,Benitagla,A04026,6.39
+2019,Benizalón,A04027,31.95
+2019,Bentarique,A04028,11.33
+2019,Berja,A04029,185.66
+2019,Canjáyar,A04030,66.87
+2019,Cantoria,A04031,78.89
+2019,Carboneras,A04032,95.51
+2019,Castro de Filabres,A04033,29.21
+2019,Chercos,A04036,13.55
+2019,Chirivel,A04037,196.33
+2019,Cóbdar,A04034,31.97
+2019,Cuevas del Almanzora,A04035,263.77
+2019,Dalías,A04038,141.32
+2019,Ejido (El),A04902,225.21
+2019,Enix,A04041,66.78
+2019,Felix,A04043,81.2
+2019,Fines,A04044,23.06
+2019,Fiñana,A04045,133.85
+2019,Fondón,A04046,91.09
+2019,Gádor,A04047,87.6
+2019,Gallardos (Los),A04048,34.88
+2019,Garrucha,A04049,7.76
+2019,Gérgal,A04050,229.31
+2019,Huécija,A04051,19.0
+2019,Huércal de Almería,A04052,20.91
+2019,Huércal-Overa,A04053,317.97
+2019,Íllar,A04054,19.17
+2019,Instinción,A04055,33.46
+2019,Laroya,A04056,21.63
+2019,Láujar de Andarax,A04057,92.74
+2019,Líjar,A04058,28.22
+2019,Lubrín,A04059,138.05
+2019,Lucainena de las Torres,A04060,123.12
+2019,Lúcar,A04061,100.58
+2019,Macael,A04062,43.77
+2019,María,A04063,225.46
+2019,Mojácar,A04064,71.41
+2019,Mojonera (La),A04903,23.85
+2019,Nacimiento,A04065,80.7
+2019,Níjar,A04066,599.27
+2019,Ohanes,A04067,32.39
+2019,Olula de Castro,A04068,33.58
+2019,Olula del Río,A04069,23.5
+2019,Oria,A04070,234.54
+2019,Padules,A04071,26.47
+2019,Partaloa,A04072,52.57
+2019,Paterna del Río,A04073,45.44
+2019,Pechina,A04074,46.02
+2019,Pulpí,A04075,94.45
+2019,Purchena,A04076,56.62
+2019,Rágol,A04077,26.9
+2019,Rioja,A04078,36.38
+2019,Roquetas de Mar,A04079,59.67
+2019,Santa Cruz de Marchena,A04080,19.96
+2019,Santa Fe de Mondújar,A04081,34.84
+2019,Senés,A04082,50.21
+2019,Serón,A04083,166.16
+2019,Sierro,A04084,27.62
+2019,Somontín,A04085,16.18
+2019,Sorbas,A04086,249.0
+2019,Suflí,A04087,10.09
+2019,Tabernas,A04088,280.17
+2019,Taberno,A04089,44.03
+2019,Tahal,A04090,94.53
+2019,Terque,A04091,15.71
+2019,Tíjola,A04092,67.68
+2019,Tres Villas (Las),A04901,85.29
+2019,Turre,A04093,107.89
+2019,Turrillas,A04094,39.14
+2019,Uleila del Campo,A04095,38.64
+2019,Urrácal,A04096,25.45
+2019,Velefique,A04097,66.39
+2019,Vélez-Blanco,A04098,441.02
+2019,Vélez-Rubio,A04099,281.87
+2019,Vera,A04100,57.54
+2019,Viator,A04101,20.61
+2019,Vícar,A04102,64.29
+2019,Zurgena,A04103,71.63
+2019,Alcalá de los Gazules,A11001,479.78
+2019,Alcalá del Valle,A11002,46.9
+2019,Algar,A11003,26.62
+2019,Algeciras,A11004,85.71
+2019,Algodonales,A11005,134.1
+2019,Arcos de la Frontera,A11006,527.17
+2019,Barbate,A11007,143.21
+2019,Barrios (Los),A11008,330.63
+2019,Benalup-Casas Viejas,A11901,60.41
+2019,Benaocaz,A11009,69.42
+2019,Bornos,A11010,55.11
+2019,Bosque (El),A11011,30.76
+2019,Cádiz,A11012,11.91
+2019,Castellar de la Frontera,A11013,180.52
+2019,Chiclana de la Frontera,A11015,206.06
+2019,Chipiona,A11016,32.91
+2019,Conil de la Frontera,A11014,88.09
+2019,Espera,A11017,123.53
+2019,Gastor (El),A11018,27.55
+2019,Grazalema,A11019,122.45
+2019,Jerez de la Frontera,A11020,1189.05
+2019,Jimena de la Frontera,A11021,298.54
+2019,Línea de la Concepción (La),A11022,26.16
+2019,Medina Sidonia,A11023,487.25
+2019,Olvera,A11024,193.74
+2019,Paterna de Rivera,A11025,13.84
+2019,Prado del Rey,A11026,48.6
+2019,Puerto de Santa María (El),A11027,159.1
+2019,Puerto Real,A11028,196.16
+2019,Puerto Serrano,A11029,79.88
+2019,Rota,A11030,84.17
+2019,San Fernando,A11031,30.69
+2019,San José del Valle,A11902,224.01
+2019,San Martín del Tesorillo,A11903,48.46
+2019,San Roque,A11033,139.43
+2019,Sanlúcar de Barrameda,A11032,170.5
+2019,Setenil de las Bodegas,A11034,82.16
+2019,Tarifa,A11035,419.51
+2019,Torre Alháquime,A11036,17.36
+2019,Trebujena,A11037,70.81
+2019,Ubrique,A11038,69.78
+2019,Vejer de la Frontera,A11039,263.09
+2019,Villaluenga del Rosario,A11040,59.48
+2019,Villamartín,A11041,211.98
+2019,Zahara,A11042,72.51
+2019,Adamuz,A14001,334.89
+2019,Aguilar de la Frontera,A14002,166.01
+2019,Alcaracejos,A14003,175.85
+2019,Almedinilla,A14004,55.48
+2019,Almodóvar del Río,A14005,172.52
+2019,Añora,A14006,112.49
+2019,Baena,A14007,362.16
+2019,Belalcázar,A14008,355.96
+2019,Belmez,A14009,207.41
+2019,Benamejí,A14010,53.33
+2019,Blázquez (Los),A14011,102.77
+2019,Bujalance,A14012,124.76
+2019,Cabra,A14013,229.13
+2019,Cañete de las Torres,A14014,103.47
+2019,Carcabuey,A14015,79.78
+2019,Cardeña,A14016,512.59
+2019,Carlota (La),A14017,79.07
+2019,Carpio (El),A14018,46.66
+2019,Castro del Río,A14019,219.64
+2019,Conquista,A14020,38.52
+2019,Córdoba,A14021,1253.91
+2019,Doña Mencía,A14022,15.3
+2019,Dos Torres,A14023,129.14
+2019,Encinas Reales,A14024,33.35
+2019,Espejo,A14025,56.46
+2019,Espiel,A14026,437.27
+2019,Fernán-Núñez,A14027,30.17
+2019,Fuente Carreteros,A14901,9.35
+2019,Fuente la Lancha,A14028,7.83
+2019,Fuente Obejuna,A14029,591.6
+2019,Fuente Palmera,A14030,65.38
+2019,Fuente-Tójar,A14031,23.65
+2019,Granjuela (La),A14032,56.16
+2019,Guadalcázar,A14033,72.36
+2019,Guijarrosa (La),A14902,45.66
+2019,Guijo (El),A14034,67.26
+2019,Hinojosa del Duque,A14035,531.5
+2019,Hornachuelos,A14036,909.4
+2019,Iznájar,A14037,136.48
+2019,Lucena,A14038,351.93
+2019,Luque,A14039,140.62
+2019,Montalbán de Córdoba,A14040,34.05
+2019,Montemayor,A14041,57.94
+2019,Montilla,A14042,168.98
+2019,Montoro,A14043,585.84
+2019,Monturque,A14044,32.53
+2019,Moriles,A14045,19.58
+2019,Nueva Carteya,A14046,69.16
+2019,Obejo,A14047,215.3
+2019,Palenciana,A14048,16.13
+2019,Palma del Río,A14049,200.23
+2019,Pedro Abad,A14050,23.45
+2019,Pedroche,A14051,121.62
+2019,Peñarroya-Pueblonuevo,A14052,64.89
+2019,Posadas,A14053,160.28
+2019,Pozoblanco,A14054,329.85
+2019,Priego de Córdoba,A14055,288.12
+2019,Puente Genil,A14056,171.01
+2019,Rambla (La),A14057,135.65
+2019,Rute,A14058,131.87
+2019,San Sebastián de los Ballesteros,A14059,10.5
+2019,Santa Eufemia,A14061,187.23
+2019,Santaella,A14060,225.77
+2019,Torrecampo,A14062,196.47
+2019,Valenzuela,A14063,19.03
+2019,Valsequillo,A14064,121.83
+2019,Victoria (La),A14065,19.44
+2019,Villa del Río,A14066,22.06
+2019,Villafranca de Córdoba,A14067,58.3
+2019,Villaharta,A14068,11.96
+2019,Villanueva de Córdoba,A14069,429.39
+2019,Villanueva del Duque,A14070,137.6
+2019,Villanueva del Rey,A14071,215.82
+2019,Villaralto,A14072,23.84
+2019,Villaviciosa de Córdoba,A14073,468.73
+2019,Viso (El),A14074,254.38
+2019,Zuheros,A14075,42.28
+2019,Agrón,A18001,26.99
+2019,Alamedilla,A18002,90.65
+2019,Albolote,A18003,78.53
+2019,Albondón,A18004,34.45
+2019,Albuñán,A18005,8.52
+2019,Albuñol,A18006,63.08
+2019,Albuñuelas,A18007,139.95
+2019,Aldeire,A18010,70.02
+2019,Alfacar,A18011,16.72
+2019,Algarinejo,A18012,92.06
+2019,Alhama de Granada,A18013,432.28
+2019,Alhendín,A18014,50.77
+2019,Alicún de Ortega,A18015,22.82
+2019,Almegíjar,A18016,29.4
+2019,Almuñécar,A18017,83.23
+2019,Alpujarra de la Sierra,A18904,68.48
+2019,Alquife,A18018,12.18
+2019,Arenas del Rey,A18020,92.75
+2019,Armilla,A18021,4.31
+2019,Atarfe,A18022,47.22
+2019,Baza,A18023,544.95
+2019,Beas de Granada,A18024,23.18
+2019,Beas de Guadix,A18025,16.22
+2019,Benalúa,A18027,8.68
+2019,Benalúa de las Villas,A18028,21.64
+2019,Benamaurel,A18029,127.78
+2019,Bérchules,A18030,69.53
+2019,Bubión,A18032,14.85
+2019,Busquístar,A18033,18.02
+2019,Cacín,A18034,39.58
+2019,Cádiar,A18035,47.28
+2019,Cájar,A18036,1.65
+2019,Calahorra (La),A18114,39.42
+2019,Calicasas,A18037,11.24
+2019,Campotéjar,A18038,35.79
+2019,Caniles,A18039,216.59
+2019,Cáñar,A18040,26.33
+2019,Capileira,A18042,56.85
+2019,Carataunas,A18043,4.66
+2019,Cástaras,A18044,28.34
+2019,Castilléjar,A18045,131.22
+2019,Castril,A18046,243.05
+2019,Cenes de la Vega,A18047,6.48
+2019,Chauchina,A18059,21.2
+2019,Chimeneas,A18061,90.27
+2019,Churriana de la Vega,A18062,6.6
+2019,Cijuela,A18048,17.91
+2019,Cogollos de Guadix,A18049,30.23
+2019,Cogollos de la Vega,A18050,49.83
+2019,Colomera,A18051,111.9
+2019,Cortes de Baza,A18053,140.44
+2019,Cortes y Graena,A18054,22.44
+2019,Cuevas del Campo,A18912,96.53
+2019,Cúllar,A18056,427.21
+2019,Cúllar Vega,A18057,4.34
+2019,Darro,A18063,50.46
+2019,Dehesas de Guadix,A18064,56.91
+2019,Dehesas Viejas,A18065,13.79
+2019,Deifontes,A18066,40.45
+2019,Diezma,A18067,42.06
+2019,Dílar,A18068,79.22
+2019,Dólar,A18069,78.52
+2019,Domingo Pérez de Granada,A18915,48.65
+2019,Dúdar,A18070,8.36
+2019,Dúrcal,A18071,76.58
+2019,Escúzar,A18072,46.36
+2019,Ferreira,A18074,43.55
+2019,Fonelas,A18076,96.36
+2019,Fornes,A18077,15.14
+2019,Freila,A18078,74.45
+2019,Fuente Vaqueros,A18079,16.0
+2019,Gabias (Las),A18905,39.03
+2019,Galera,A18082,118.29
+2019,Gobernador,A18083,22.99
+2019,Gójar,A18084,12.0
+2019,Gor,A18085,180.89
+2019,Gorafe,A18086,76.99
+2019,Granada,A18087,88.06
+2019,Guadahortuna,A18088,121.15
+2019,Guadix,A18089,323.9
+2019,Guájares (Los),A18906,89.25
+2019,Gualchos,A18093,30.89
+2019,Güéjar Sierra,A18094,238.76
+2019,Güevéjar,A18095,9.74
+2019,Huélago,A18096,32.43
+2019,Huéneja,A18097,116.65
+2019,Huéscar,A18098,472.98
+2019,Huétor de Santillán,A18099,93.2
+2019,Huétor Tájar,A18100,39.92
+2019,Huétor Vega,A18101,4.23
+2019,Íllora,A18102,197.3
+2019,Ítrabo,A18103,19.0
+2019,Iznalloz,A18105,247.45
+2019,Játar,A18106,9.76
+2019,Jayena,A18107,79.47
+2019,Jérez del Marquesado,A18108,82.69
+2019,Jete,A18109,13.9
+2019,Jun,A18111,3.69
+2019,Juviles,A18112,14.97
+2019,Láchar,A18115,13.11
+2019,Lanjarón,A18116,60.33
+2019,Lanteira,A18117,52.74
+2019,Lecrín,A18119,40.46
+2019,Lentegí,A18120,23.74
+2019,Lobras,A18121,16.04
+2019,Loja,A18122,447.29
+2019,Lugros,A18123,63.23
+2019,Lújar,A18124,36.83
+2019,Malahá (La),A18126,25.41
+2019,Maracena,A18127,4.89
+2019,Marchal,A18128,7.8
+2019,Moclín,A18132,113.04
+2019,Molvízar,A18133,21.45
+2019,Monachil,A18134,88.85
+2019,Montefrío,A18135,253.77
+2019,Montejícar,A18136,87.51
+2019,Montillana,A18137,75.12
+2019,Moraleda de Zafayona,A18138,48.14
+2019,Morelábor,A18909,38.62
+2019,Motril,A18140,102.95
+2019,Murtas,A18141,71.64
+2019,Nevada,A18903,77.25
+2019,Nigüelas,A18143,30.9
+2019,Nívar,A18144,11.17
+2019,Ogíjares,A18145,6.9
+2019,Orce,A18146,324.42
+2019,Órgiva,A18147,134.04
+2019,Otívar,A18148,57.43
+2019,Padul,A18150,89.09
+2019,Pampaneira,A18151,17.46
+2019,Pedro Martínez,A18152,136.82
+2019,Peligros,A18153,10.14
+2019,Peza (La),A18154,101.21
+2019,Pinar (El),A18910,37.98
+2019,Pinos Genil,A18157,13.98
+2019,Pinos Puente,A18158,92.88
+2019,Píñar,A18159,125.63
+2019,Polícar,A18161,5.37
+2019,Polopos,A18162,26.47
+2019,Pórtugos,A18163,20.81
+2019,Puebla de Don Fadrique,A18164,522.94
+2019,Pulianas,A18165,6.33
+2019,Purullena,A18167,21.4
+2019,Quéntar,A18168,66.44
+2019,Rubite,A18170,28.47
+2019,Salar,A18171,84.3
+2019,Salobreña,A18173,34.83
+2019,Santa Cruz del Comercio,A18174,16.88
+2019,Santa Fe,A18175,38.17
+2019,Soportújar,A18176,14.15
+2019,Sorvilán,A18177,34.3
+2019,Taha (La),A18901,25.57
+2019,Torre-Cardela,A18178,15.18
+2019,Torrenueva Costa,A18916,6.46
+2019,Torvizcón,A18179,51.39
+2019,Trevélez,A18180,90.89
+2019,Turón,A18181,55.53
+2019,Ugíjar,A18182,66.9
+2019,Valderrubio,A18914,5.53
+2019,Valle (El),A18902,25.82
+2019,Valle del Zalabí,A18907,108.6
+2019,Válor,A18183,58.52
+2019,Vegas del Genil,A18911,14.14
+2019,Vélez de Benaudalla,A18184,79.05
+2019,Ventas de Huelma,A18185,42.41
+2019,Villa de Otura,A18149,24.32
+2019,Villamena,A18908,20.17
+2019,Villanueva de las Torres,A18187,66.84
+2019,Villanueva Mesía,A18188,11.17
+2019,Víznar,A18189,12.99
+2019,Zafarraya,A18192,57.83
+2019,Zagra,A18913,11.33
+2019,Zubia (La),A18193,20.09
+2019,Zújar,A18194,102.04
+2019,Alájar,A21001,41.53
+2019,Aljaraque,A21002,33.9
+2019,Almendro (El),A21003,171.09
+2019,Almonaster la Real,A21004,321.91
+2019,Almonte,A21005,859.81
+2019,Alosno,A21006,191.53
+2019,Aracena,A21007,184.75
+2019,Aroche,A21008,499.53
+2019,Arroyomolinos de León,A21009,87.07
+2019,Ayamonte,A21010,141.53
+2019,Beas,A21011,144.97
+2019,Berrocal,A21012,126.43
+2019,Bollullos Par del Condado,A21013,49.39
+2019,Bonares,A21014,64.89
+2019,Cabezas Rubias,A21015,108.91
+2019,Cala,A21016,84.04
+2019,Calañas,A21017,238.33
+2019,Campillo (El),A21018,90.88
+2019,Campofrío,A21019,47.06
+2019,Cañaveral de León,A21020,34.81
+2019,Cartaya,A21021,225.65
+2019,Castaño del Robledo,A21022,12.95
+2019,Cerro de Andévalo (El),A21023,286.78
+2019,Chucena,A21030,26.09
+2019,Corteconcepción,A21024,49.21
+2019,Cortegana,A21025,173.42
+2019,Cortelazor,A21026,39.99
+2019,Cumbres de Enmedio,A21027,13.57
+2019,Cumbres de San Bartolomé,A21028,144.85
+2019,Cumbres Mayores,A21029,121.81
+2019,Encinasola,A21031,178.11
+2019,Escacena del Campo,A21032,135.09
+2019,Fuenteheridos,A21033,10.94
+2019,Galaroza,A21034,22.31
+2019,Gibraleón,A21035,329.08
+2019,Granada de Río-Tinto (La),A21036,44.77
+2019,Granado (El),A21037,97.84
+2019,Higuera de la Sierra,A21038,24.52
+2019,Hinojales,A21039,26.75
+2019,Hinojos,A21040,320.34
+2019,Huelva,A21041,151.82
+2019,Isla Cristina,A21042,49.83
+2019,Jabugo,A21043,24.96
+2019,Lepe,A21044,127.7
+2019,Linares de la Sierra,A21045,29.27
+2019,Lucena del Puerto,A21046,69.86
+2019,Manzanilla,A21047,39.69
+2019,Marines (Los),A21048,10.0
+2019,Minas de Riotinto,A21049,23.35
+2019,Moguer,A21050,204.15
+2019,Nava (La),A21051,61.14
+2019,Nerva,A21052,55.48
+2019,Niebla,A21053,223.99
+2019,Palma del Condado (La),A21054,60.52
+2019,Palos de la Frontera,A21055,48.93
+2019,Paterna del Campo,A21056,132.73
+2019,Paymogo,A21057,214.04
+2019,Puebla de Guzmán,A21058,337.21
+2019,Puerto Moral,A21059,19.85
+2019,Punta Umbría,A21060,38.27
+2019,Rociana del Condado,A21061,72.07
+2019,Rosal de la Frontera,A21062,210.0
+2019,San Bartolomé de la Torre,A21063,56.75
+2019,San Juan del Puerto,A21064,45.39
+2019,San Silvestre de Guzmán,A21066,48.73
+2019,Sanlúcar de Guadiana,A21065,96.84
+2019,Santa Ana la Real,A21067,26.62
+2019,Santa Bárbara de Casa,A21068,146.96
+2019,Santa Olalla del Cala,A21069,203.17
+2019,Trigueros,A21070,118.22
+2019,Valdelarco,A21071,14.89
+2019,Valverde del Camino,A21072,219.06
+2019,Villablanca,A21073,98.58
+2019,Villalba del Alcor,A21074,62.47
+2019,Villanueva de las Cruces,A21075,34.46
+2019,Villanueva de los Castillejos,A21076,264.67
+2019,Villarrasa,A21077,72.32
+2019,Zalamea la Real,A21078,239.28
+2019,Zarza-Perrunal (La),A21902,44.71
+2019,Zufre,A21079,341.13
+2019,Albanchez de Mágina,A23001,38.8
+2019,Alcalá la Real,A23002,261.2
+2019,Alcaudete,A23003,236.71
+2019,Aldeaquemada,A23004,120.17
+2019,Andújar,A23005,964.29
+2019,Arjona,A23006,158.36
+2019,Arjonilla,A23007,42.53
+2019,Arquillos,A23008,65.74
+2019,Arroyo del Ojanco,A23905,57.26
+2019,Baeza,A23009,192.63
+2019,Bailén,A23010,117.06
+2019,Baños de la Encina,A23011,391.99
+2019,Beas de Segura,A23012,159.25
+2019,Bedmar y Garcíez,A23902,118.71
+2019,Begíjar,A23014,42.76
+2019,Bélmez de la Moraleda,A23015,49.4
+2019,Benatae,A23016,44.43
+2019,Cabra del Santo Cristo,A23017,186.88
+2019,Cambil,A23018,139.78
+2019,Campillo de Arenas,A23019,116.64
+2019,Canena,A23020,14.32
+2019,Carboneros,A23021,58.56
+2019,Cárcheles,A23901,40.48
+2019,Carolina (La),A23024,201.22
+2019,Castellar,A23025,157.21
+2019,Castillo de Locubín,A23026,102.49
+2019,Cazalilla,A23027,46.59
+2019,Cazorla,A23028,305.17
+2019,Chiclana de Segura,A23029,235.8
+2019,Chilluévar,A23030,38.75
+2019,Escañuela,A23031,13.74
+2019,Espeluy,A23032,25.48
+2019,Frailes,A23033,40.31
+2019,Fuensanta de Martos,A23034,54.01
+2019,Fuerte del Rey,A23035,35.07
+2019,Génave,A23037,63.53
+2019,Guardia de Jaén (La),A23038,38.4
+2019,Guarromán,A23039,96.15
+2019,Higuera de Calatrava,A23041,38.74
+2019,Hinojares,A23042,40.0
+2019,Hornos,A23043,117.48
+2019,Huelma,A23044,250.09
+2019,Huesa,A23045,138.32
+2019,Ibros,A23046,55.76
+2019,Iruela (La),A23047,123.87
+2019,Iznatoraf,A23048,86.47
+2019,Jabalquinto,A23049,73.19
+2019,Jaén,A23050,423.93
+2019,Jamilena,A23051,8.98
+2019,Jimena,A23052,48.01
+2019,Jódar,A23053,148.66
+2019,Lahiguera,A23040,44.73
+2019,Larva,A23054,41.73
+2019,Linares,A23055,196.56
+2019,Lopera,A23056,67.86
+2019,Lupión,A23057,24.31
+2019,Mancha Real,A23058,97.63
+2019,Marmolejo,A23059,177.97
+2019,Martos,A23060,260.95
+2019,Mengíbar,A23061,62.3
+2019,Montizón,A23062,211.79
+2019,Navas de San Juan,A23063,175.63
+2019,Noalejo,A23064,49.77
+2019,Orcera,A23065,126.1
+2019,Peal de Becerro,A23066,147.24
+2019,Pegalajar,A23067,79.89
+2019,Porcuna,A23069,175.48
+2019,Pozo Alcón,A23070,138.5
+2019,Puente de Génave,A23071,38.81
+2019,Puerta de Segura (La),A23072,97.38
+2019,Quesada,A23073,328.09
+2019,Rus,A23074,47.08
+2019,Sabiote,A23075,112.11
+2019,Santa Elena,A23076,145.36
+2019,Santiago de Calatrava,A23077,47.51
+2019,Santiago-Pontones,A23904,682.3
+2019,Santisteban del Puerto,A23079,372.62
+2019,Santo Tomé,A23080,73.42
+2019,Segura de la Sierra,A23081,224.83
+2019,Siles,A23082,177.69
+2019,Sorihuela del Guadalimar,A23084,55.26
+2019,Torreblascopedro,A23085,61.38
+2019,Torredelcampo,A23086,182.05
+2019,Torredonjimeno,A23087,157.68
+2019,Torreperogil,A23088,90.87
+2019,Torres,A23090,79.98
+2019,Torres de Albánchez,A23091,64.83
+2019,Úbeda,A23092,403.45
+2019,Valdepeñas de Jaén,A23093,183.68
+2019,Vilches,A23094,273.38
+2019,Villacarrillo,A23095,239.37
+2019,Villanueva de la Reina,A23096,209.12
+2019,Villanueva del Arzobispo,A23097,177.67
+2019,Villardompardo,A23098,17.46
+2019,Villares (Los),A23099,88.55
+2019,Villarrodrigo,A23101,78.43
+2019,Villatorres,A23903,72.62
+2019,Alameda,A29001,65.09
+2019,Alcaucín,A29002,45.1
+2019,Alfarnate,A29003,33.97
+2019,Alfarnatejo,A29004,20.35
+2019,Algarrobo,A29005,9.7
+2019,Algatocín,A29006,19.72
+2019,Alhaurín de la Torre,A29007,82.67
+2019,Alhaurín el Grande,A29008,73.08
+2019,Almáchar,A29009,14.39
+2019,Almargen,A29010,34.37
+2019,Almogía,A29011,162.83
+2019,Álora,A29012,169.58
+2019,Alozaina,A29013,33.85
+2019,Alpandeire,A29014,31.25
+2019,Antequera,A29015,749.2
+2019,Árchez,A29016,4.79
+2019,Archidona,A29017,186.18
+2019,Ardales,A29018,106.45
+2019,Arenas,A29019,26.29
+2019,Arriate,A29020,8.27
+2019,Atajate,A29021,10.9
+2019,Benadalid,A29022,20.68
+2019,Benahavís,A29023,145.4
+2019,Benalauría,A29024,19.75
+2019,Benalmádena,A29025,26.8
+2019,Benamargosa,A29026,12.11
+2019,Benamocarra,A29027,5.73
+2019,Benaoján,A29028,32.0
+2019,Benarrabá,A29029,24.9
+2019,Borge (El),A29030,24.38
+2019,Burgo (El),A29031,118.35
+2019,Campillos,A29032,187.42
+2019,Canillas de Aceituno,A29033,42.0
+2019,Canillas de Albaida,A29034,33.2
+2019,Cañete la Real,A29035,164.97
+2019,Carratraca,A29036,22.56
+2019,Cartajima,A29037,21.47
+2019,Cártama,A29038,105.07
+2019,Casabermeja,A29039,67.26
+2019,Casarabonela,A29040,113.72
+2019,Casares,A29041,162.37
+2019,Coín,A29042,127.34
+2019,Colmenar,A29043,65.92
+2019,Comares,A29044,25.49
+2019,Cómpeta,A29045,54.2
+2019,Cortes de la Frontera,A29046,175.34
+2019,Cuevas Bajas,A29047,16.51
+2019,Cuevas de San Marcos,A29049,36.87
+2019,Cuevas del Becerro,A29048,16.3
+2019,Cútar,A29050,19.41
+2019,Estepona,A29051,137.35
+2019,Faraján,A29052,20.41
+2019,Frigiliana,A29053,40.49
+2019,Fuengirola,A29054,10.31
+2019,Fuente de Piedra,A29055,90.53
+2019,Gaucín,A29056,98.26
+2019,Genalguacil,A29057,31.87
+2019,Guaro,A29058,22.39
+2019,Humilladero,A29059,34.65
+2019,Igualeja,A29060,43.87
+2019,Istán,A29061,99.28
+2019,Iznate,A29062,7.46
+2019,Jimera de Líbar,A29063,27.18
+2019,Jubrique,A29064,39.33
+2019,Júzcar,A29065,33.66
+2019,Macharaviaya,A29066,7.26
+2019,Málaga,A29067,394.88
+2019,Manilva,A29068,35.55
+2019,Marbella,A29069,117.11
+2019,Mijas,A29070,148.68
+2019,Moclinejo,A29071,14.28
+2019,Mollina,A29072,74.54
+2019,Monda,A29073,57.65
+2019,Montecorto,A29903,54.5
+2019,Montejaque,A29074,45.47
+2019,Nerja,A29075,85.02
+2019,Ojén,A29076,85.6
+2019,Parauta,A29077,44.46
+2019,Periana,A29079,58.73
+2019,Pizarra,A29080,63.6
+2019,Pujerra,A29081,24.39
+2019,Rincón de la Victoria,A29082,27.87
+2019,Riogordo,A29083,39.97
+2019,Ronda,A29084,397.34
+2019,Salares,A29085,10.28
+2019,Sayalonga,A29086,18.29
+2019,Sedella,A29087,31.6
+2019,Serrato,A29904,29.11
+2019,Sierra de Yeguas,A29088,85.62
+2019,Teba,A29089,143.73
+2019,Tolox,A29090,94.43
+2019,Torremolinos,A29901,19.87
+2019,Torrox,A29091,49.94
+2019,Totalán,A29092,9.2
+2019,Valle de Abdalajís,A29093,21.17
+2019,Vélez-Málaga,A29094,157.94
+2019,Villanueva de Algaidas,A29095,70.74
+2019,Villanueva de la Concepción,A29902,66.41
+2019,Villanueva de Tapia,A29098,21.86
+2019,Villanueva del Rosario,A29096,43.94
+2019,Villanueva del Trabuco,A29097,59.14
+2019,Viñuela,A29099,27.2
+2019,Yunquera,A29100,55.15
+2019,Aguadulce,A41001,13.69
+2019,Alanís,A41002,281.2
+2019,Albaida del Aljarafe,A41003,10.93
+2019,Alcalá de Guadaíra,A41004,285.21
+2019,Alcalá del Río,A41005,82.65
+2019,Alcolea del Río,A41006,50.2
+2019,Algaba (La),A41007,18.13
+2019,Algámitas,A41008,20.43
+2019,Almadén de la Plata,A41009,256.02
+2019,Almensilla,A41010,14.11
+2019,Arahal,A41011,201.23
+2019,Aznalcázar,A41012,450.21
+2019,Aznalcóllar,A41013,199.47
+2019,Badolatosa,A41014,47.78
+2019,Benacazón,A41015,32.17
+2019,Bollullos de la Mitación,A41016,62.61
+2019,Bormujos,A41017,12.24
+2019,Brenes,A41018,21.48
+2019,Burguillos,A41019,43.18
+2019,Cabezas de San Juan (Las),A41020,229.9
+2019,Camas,A41021,11.66
+2019,Campana (La),A41022,125.81
+2019,Cantillana,A41023,107.11
+2019,Cañada Rosal,A41901,25.83
+2019,Carmona,A41024,922.57
+2019,Carrión de los Céspedes,A41025,6.04
+2019,Casariche,A41026,52.88
+2019,Castilblanco de los Arroyos,A41027,323.84
+2019,Castilleja de Guzmán,A41028,2.04
+2019,Castilleja de la Cuesta,A41029,2.17
+2019,Castilleja del Campo,A41030,16.24
+2019,Castillo de las Guardas (El),A41031,259.07
+2019,Cazalla de la Sierra,A41032,356.39
+2019,Constantina,A41033,481.57
+2019,Coria del Río,A41034,62.07
+2019,Coripe,A41035,51.47
+2019,Coronil (El),A41036,91.69
+2019,Corrales (Los),A41037,67.53
+2019,Cuervo de Sevilla (El),A41903,30.47
+2019,Dos Hermanas,A41038,160.73
+2019,Écija,A41039,978.51
+2019,Espartinas,A41040,22.71
+2019,Estepa,A41041,189.95
+2019,Fuentes de Andalucía,A41042,150.56
+2019,Garrobo (El),A41043,44.37
+2019,Gelves,A41044,8.07
+2019,Gerena,A41045,129.22
+2019,Gilena,A41046,50.96
+2019,Gines,A41047,2.91
+2019,Guadalcanal,A41048,275.09
+2019,Guillena,A41049,227.14
+2019,Herrera,A41050,53.47
+2019,Huévar del Aljarafe,A41051,57.67
+2019,Isla Mayor,A41902,114.51
+2019,Lantejuela,A41052,17.75
+2019,Lebrija,A41053,375.58
+2019,Lora de Estepa,A41054,18.08
+2019,Lora del Río,A41055,294.37
+2019,Luisiana (La),A41056,42.98
+2019,Madroño (El),A41057,103.07
+2019,Mairena del Alcor,A41058,69.96
+2019,Mairena del Aljarafe,A41059,17.71
+2019,Marchena,A41060,378.66
+2019,Marinaleda,A41061,24.82
+2019,Martín de la Jara,A41062,49.23
+2019,Molares (Los),A41063,42.78
+2019,Montellano,A41064,116.77
+2019,Morón de la Frontera,A41065,432.08
+2019,Navas de la Concepción (Las),A41066,63.38
+2019,Olivares,A41067,45.54
+2019,Osuna,A41068,592.29
+2019,Palacios y Villafranca (Los),A41069,109.56
+2019,Palmar de Troya (El),A41904,33.04
+2019,Palomares del Río,A41070,13.13
+2019,Paradas,A41071,109.82
+2019,Pedrera,A41072,60.63
+2019,Pedroso (El),A41073,314.34
+2019,Peñaflor,A41074,82.91
+2019,Pilas,A41075,46.0
+2019,Pruna,A41076,100.65
+2019,Puebla de Cazalla (La),A41077,189.84
+2019,Puebla de los Infantes (La),A41078,154.28
+2019,Puebla del Río (La),A41079,375.21
+2019,Real de la Jara (El),A41080,157.5
+2019,Rinconada (La),A41081,138.8
+2019,Roda de Andalucía (La),A41082,76.67
+2019,Ronquillo (El),A41083,76.61
+2019,Rubio (El),A41084,20.8
+2019,Salteras,A41085,57.45
+2019,San Juan de Aznalfarache,A41086,4.08
+2019,San Nicolás del Puerto,A41088,45.01
+2019,Sanlúcar la Mayor,A41087,136.33
+2019,Santiponce,A41089,8.41
+2019,Saucejo (El),A41090,92.3
+2019,Sevilla,A41091,141.63
+2019,Tocina,A41092,15.63
+2019,Tomares,A41093,5.17
+2019,Umbrete,A41094,12.48
+2019,Utrera,A41095,651.74
+2019,Valencina de la Concepción,A41096,25.17
+2019,Villamanrique de la Condesa,A41097,57.74
+2019,Villanueva de San Juan,A41100,34.75
+2019,Villanueva del Ariscal,A41098,4.72
+2019,Villanueva del Río y Minas,A41099,150.8
+2019,Villaverde del Río,A41101,41.18
+2019,Viso del Alcor (El),A41102,20.23

@@ -13,18 +13,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "valor municipio",
-                "valor total Andalucia"
-              ]
-            },
-            "title": "Dimension"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -848,18 +836,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "valor municipio",
-                "valor total Andalucia"
-              ]
-            },
-            "title": "Dimension"
-          },
           {
             "name": "GeoCode",
             "type": "string",
@@ -3346,20 +3322,6 @@
       "schema": {
         "fields": [
           {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "valor municipio",
-                "valor rural Andalucia",
-                "valor total Andalucia",
-                "valor urbano  Andalucia"
-              ]
-            },
-            "title": "Dimension"
-          },
-          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
@@ -5020,18 +4982,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "Dimension",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "valor municipio",
-                "valor total Andalucia"
-              ]
-            },
-            "title": "Dimension"
-          },
           {
             "name": "GeoCode",
             "type": "string",
