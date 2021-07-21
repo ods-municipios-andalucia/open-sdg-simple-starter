@@ -94,8 +94,8 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 map_layers:
  - geojson_file: ./geojson/terminos_municipales_multipolygon_simplify.geojson
-   name_property: name
-   id_property: geocode
+   name_property: nombre
+   id_property: codmun
    output_subfolder: regions
    filename_prefix: indicator_
 
